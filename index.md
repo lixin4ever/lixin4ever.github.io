@@ -13,7 +13,7 @@ I am a first-year Ph.D. student in [Text Mining Group](http://www1.se.cuhk.edu.h
 * **2014-2015,**    Research assistant, SentiNet Group, Sun Yat-Sen University. Supervisor: [Dr. Rao Yanghui](http://sdcs.sysu.edu.cn/p/140254?pagename=profile&id=140254)
 
 # Publication
-* Huijun Chen(#), **Xin Li**(#), [Yanghui Rao](http://sdcs.sysu.edu.cn/p/140254?pagename=profile&id=140254), [Xuebo Liu](http://lufo.me/). **Hybrid Convolutional Neural Network for sentiment strength prediction.** _Submitted to SDM 2017_. (# denotes **equal contribution**)
+* Huijun Chen(#), **Xin Li**(#), [Yanghui Rao](http://sdcs.sysu.edu.cn/p/140254?pagename=profile&id=140254). **Sentiment Strength Prediction Using Auxiliary Features.** _To appear in 26th Internation World Wide Web Conference, Perth, Western Australia_. (# denotes **equal contribution**)
 * **Xin Li**, [Haoran Xie](http://home.ied.edu.hk/~hxie/), [Yanghui Rao](http://sdcs.sysu.edu.cn/p/140254?pagename=profile&id=140254), [Xuebo Liu](http://lufo.me/), Tak-Lam Wong, Fu Lee Wang. **Social Emotion Classification Based on Noise Aware Training.** _Submitted to Data and Knowledge Engineering_. 
 * **Xin Li**, [Yanghui Rao](http://sdcs.sysu.edu.cn/p/140254?pagename=profile&id=140254), Yanjia Chen, [Xuebo Liu](http://lufo.me/) and Huan Huang. **Social Emotion Classification via Reader Perspective Weighted Model.** _30th AAAI Conference on Artificial Intelligence, Phoenix, USA_ (**AAAI 2016**, poster). [[pdf](http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/11827/12230)] [[poster](paper/AAAI2016/poster/aaai16_poster.pdf)] [[full version](paper/AAAI2016/full_version/AAAI16_full.pdf)] 
 * **Xin Li**, [Haoran Xie](http://home.ied.edu.hk/~hxie/), [Yanghui Rao](http://sdcs.sysu.edu.cn/p/140254?pagename=profile&id=140254), Yanjia Chen, [Xuebo Liu](http://lufo.me/), Huan Huang, Fu Lee Wang. **Weighted multi-label classification model for sentiment analysis of online news.** _The 3rd International Conference on Big Data and Smart Computing_ (**BigComp 2016**, oral). [[pdf](paper/BigComp2016/pdf/BigComp2016_paper.pdf)] [[code](paper/BigComp2016/code/bigcomp2016.zip)] [[slides](paper/BigComp2016/slides/BigComp2016_slides.pdf)]
@@ -29,6 +29,7 @@ I am a first-year Ph.D. student in [Text Mining Group](http://www1.se.cuhk.edu.h
 * Sept 2014, Second-class Merit Scholarship, Sun Yat-Sen University
 
 # Teaching
+* SEEM-3550: Fundamentals in Information Systems, 2017 Spring 
 * SEEM-4630: E-Commerce Data Mining, 2016 Fall
 * MIE-151: Software Design II, 2015 Spring
 * MIE-121: Design of Digital System, 2014 Fall
