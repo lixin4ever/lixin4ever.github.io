@@ -30,7 +30,7 @@ I am a first-year Ph.D. student in [Text Mining Group](http://www1.se.cuhk.edu.h
 * Sept 2014, Second-class Merit Scholarship, Sun Yat-Sen University
 
 # Professional Activities
-* Second Reviewer, CIKM 2017
+* Second Reviewer: CIKM 2017
 
 # Teaching
 * TA: SEEM-3550: Fundamentals in Information Systems, 2017 Spring 
