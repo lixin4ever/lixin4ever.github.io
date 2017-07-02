@@ -29,12 +29,15 @@ I am a first-year Ph.D. student in [Text Mining Group](http://www1.se.cuhk.edu.h
 * Apr 2015, Best Paper Award (DASFAA Workshops 2015)
 * Sept 2014, Second-class Merit Scholarship, Sun Yat-Sen University
 
+# Professional Activities
+* Second Reviewer, CIKM 2017
+
 # Teaching
-* SEEM-3550: Fundamentals in Information Systems, 2017 Spring 
-* SEEM-4630: E-Commerce Data Mining, 2016 Fall
-* MIE-151: Software Design II, 2015 Spring
-* MIE-121: Design of Digital System, 2014 Fall
-* MIE-111: Discrete Mathematics, 2014 Spring
+* TA: SEEM-3550: Fundamentals in Information Systems, 2017 Spring 
+* TA: SEEM-4630: E-Commerce Data Mining, 2016 Fall
+* TA: MIE-151: Software Design II, 2015 Spring
+* TA: MIE-121: Design of Digital System, 2014 Fall
+* TA: MIE-111: Discrete Mathematics, 2014 Spring
 
 # Social
 * [CSDN (One of the largest Chinese technical community)](http://blog.csdn.net/u010551621)
