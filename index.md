@@ -13,6 +13,7 @@ I am a first-year Ph.D. student in [Text Mining Group](http://www1.se.cuhk.edu.h
 * **2014-2015,**    Research assistant, SentiNet Group, Sun Yat-Sen University. Supervisor: [Dr. Rao Yanghui](http://sdcs.sysu.edu.cn/node/2471)
 
 # Publication
+* **Xin Li**, [Wai Lam](http://www.se.cuhk.edu.hk/people/wlam.html), [Piji Li](http://lipiji.com/). **Aspect Term Extraction Using Recurrent Neural Networks with Highly-Coupled Memory Interactions.** _Submitted to IJCNLP 2017_
 * **Xin Li**, [Wai Lam](http://www.se.cuhk.edu.hk/people/wlam.html). **Deep Multi-task Learning for Aspect Teram Extraction with Memory Interaction.** To appear in _Proceedings of Empirical Methods in Natural Language Processing_ (**EMNLP 2017**).
 * **Xin Li**, [Haoran Xie](http://home.ied.edu.hk/~hxie/), [Yanghui Rao](http://sdcs.sysu.edu.cn/node/2471), [Xuebo Liu](http://lufo.me/), Tak-Lam Wong, Fu Lee Wang. **Social Emotion Classification Based on Noise Aware Training.** To appear in _Data and Knowledge Engineering Journal_. 
 * Huijun Chen(#), **Xin Li**(#), [Yanghui Rao](http://sdcs.sysu.edu.cn/node/2471). **Sentiment Strength Prediction Using Auxiliary Features.** _26th Internation World Wide Web Conference, Perth, Western Australia_ (**WWW 2017**). [[pdf](http://papers.www2017.com.au.s3-website-ap-southeast-2.amazonaws.com/companion/p5.pdf)] [[slides](paper/WWW2017/slides/www_2017_slides.pdf)] [[code](https://github.com/lixin4ever/HCNN)] (# denotes **equal contribution**)
