@@ -12,7 +12,7 @@ I am a first-year Ph.D. student in [Text Mining Group](http://www1.se.cuhk.edu.h
 * **2015-2016,**    Research intern, Microsoft Research Asia, Knowledge Computing Group. Mentor: [Dr. Lin Chin-Yew](https://www.microsoft.com/en-us/research/people/cyl/) and [Dr. Liu Jing](https://www.microsoft.com/en-us/research/people/liudani/)
 * **2014-2015,**    Research assistant, SentiNet Group, Sun Yat-Sen University. Supervisor: [Dr. Rao Yanghui](http://sdcs.sysu.edu.cn/node/2471)
 
-# Publication
+# Publications & Manuscripts
 * **Xin Li**, [Wai Lam](http://www.se.cuhk.edu.hk/people/wlam.html), [Piji Li](http://lipiji.com/). **Aspect Term Extraction Using Recurrent Neural Networks with Highly-Coupled Memory Interactions.** _Submitted to IJCNLP 2017_
 * **Xin Li**, [Wai Lam](http://www.se.cuhk.edu.hk/people/wlam.html). **Deep Multi-task Learning for Aspect Teram Extraction with Memory Interaction.** To appear in _Proceedings of Empirical Methods in Natural Language Processing_ (**EMNLP 2017**, Oral).
 * **Xin Li**, [Haoran Xie](http://home.ied.edu.hk/~hxie/), [Yanghui Rao](http://sdcs.sysu.edu.cn/node/2471), [Xuebo Liu](http://lufo.me/), Tak-Lam Wong, Fu Lee Wang. **Social Emotion Classification Based on Noise Aware Training.** To appear in _Data and Knowledge Engineering Journal_ (**DKE Journal**). 
