@@ -42,3 +42,8 @@ I am a first-year Ph.D. student in [Text Mining Group](http://www1.se.cuhk.edu.h
 # Social
 * [CSDN (One of the largest Chinese technical community)](http://blog.csdn.net/u010551621)
 * [Zhihu (A Chinese CQA website)](https://www.zhihu.com/people/li-xin-26-75-10)
+
+# Hobbies
+* Playing basketball
+* Swimming
+* Hiking
