@@ -5,11 +5,13 @@ I am a first-year Ph.D. student in [Text Mining Group](http://www1.se.cuhk.edu.h
 * Aspect-based sentiment analysis
 * Deep learning and its application on natural language processing
 * Supervised and unsupervised aspect extraction
- 
-# Experiences
-* **2018-present,**    Research Intern, NLP Group@Tencent AI Lab. Mentor: [Dr. Lidong Bing](http://www.cs.cmu.edu/~lbing/).
+
+# Education
 * **2016-present,**    Ph.D. student, The Chinese University of Hong Kong, [Faculty of Engineering](http://www.erg.cuhk.edu.hk/erg/). Advisor: [Prof. Lam Wai](http://www.se.cuhk.edu.hk/people/wlam.html)
 * **2012-2016,**    B.Eng., Sun Yat-Sen(Zhong Shan) University, [School of Data and Computer Science](http://sdcs.sysu.edu.cn/)
+
+# Experiences
+* **2018-present,**    Research Intern, NLP Group@Tencent AI Lab. Mentor: [Dr. Lidong Bing](http://www.cs.cmu.edu/~lbing/).
 * **2015-2016,**    Research intern, Knowledge Computing Group@Microsoft Research Asia. Mentor: [Dr. Lin Chin-Yew](https://www.microsoft.com/en-us/research/people/cyl/) and [Dr. Liu Jing](https://www.microsoft.com/en-us/research/people/liudani/)
 * **2014-2015,**    Research assistant, SentiNet Group, Sun Yat-Sen University. Supervisor: [Dr. Rao Yanghui](http://sdcs.sysu.edu.cn/node/2471)
 
