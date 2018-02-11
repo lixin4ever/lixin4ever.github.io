@@ -2,9 +2,8 @@
 I am a first-year Ph.D. student in [Text Mining Group](http://www1.se.cuhk.edu.hk/~textmine/), The Chinese University of Hong Kong(CUHK). My advisor is [Prof. Lam Wai](http://www.se.cuhk.edu.hk/people/wlam.html). Prior to that, I obtained the B.Eng degree from School of Data and Computer Science, Sun Yat-Sen University in 2016, where I worked closely with [Dr. Rao Yanghui](http://sdcs.sysu.edu.cn/p/140254?pagename=profile&id=140254) and began my research career of natural language processing. You can contact me via [email](mailto:lixin4ever@gmail.com). 
 
 # Research interests #
-* Aspect-based sentiment analysis
+* Fine-grained opinion summarization
 * Deep learning and its application on natural language processing
-* Supervised and unsupervised aspect extraction
 
 # Education
 * **2016-present,**    Ph.D. student, The Chinese University of Hong Kong, [Faculty of Engineering](http://www.erg.cuhk.edu.hk/erg/). Advisor: [Prof. Lam Wai](http://www.se.cuhk.edu.hk/people/wlam.html)
