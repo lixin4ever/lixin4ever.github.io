@@ -32,7 +32,11 @@ I am a first-year Ph.D. student in [Text Mining Group](http://www1.se.cuhk.edu.h
 * Sept 2014, Second-class Merit Scholarship, Sun Yat-Sen University
 
 # Professional Activities
-* Secondary Reviewer: NAACL 2018, the Web Conference (previous "World Wide Web Conference") 2018, WSDM 2018, CIKM 2017, Statistical Analysis & Data Mining Journal
+* KDD 2018 (Secondary Reviewer)
+* NAACL 2018 (Secondary Reviewer)
+* WWW 2018 (Secondary Reviewer)
+* WSDM 2018 (Secondary Reviewer)
+* CIKM 2017 (Secondary Reviewer)
 
 # Teaching
 * TA: SEEM-3550: Fundamentals in Information Systems, 2017 Spring 
