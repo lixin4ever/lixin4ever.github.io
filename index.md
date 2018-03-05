@@ -6,7 +6,7 @@ I am a second-year Ph.D. student in [Text Mining Group](http://www1.se.cuhk.edu.
 * Deep learning and its application on natural language processing
 
 # Education
-* **2016-present,**    Ph.D. student, The Chinese University of Hong Kong, [Faculty of Engineering](http://www.erg.cuhk.edu.hk/erg/). Advisor: [Prof. Lam Wai](http://www.se.cuhk.edu.hk/people/wlam.html)
+* **2016-present,**    Ph.D. student, The Chinese University of Hong Kong, [Department of Systems Engineering and Engineering Management](http://www.se.cuhk.edu.hk/). Advisor: [Prof. Lam Wai](http://www.se.cuhk.edu.hk/people/wlam.html)
 * **2012-2016,**    B.Eng., Sun Yat-Sen(Zhong Shan) University, [School of Data and Computer Science](http://sdcs.sysu.edu.cn/)
 
 # Experiences
