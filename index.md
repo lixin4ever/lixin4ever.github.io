@@ -45,6 +45,9 @@ I am a second-year Ph.D. student in [Text Mining Group](http://www1.se.cuhk.edu.
 * TA: MIE-121: Design of Digital System, 2014 Fall
 * TA: MIE-111: Discrete Mathematics, 2014 Spring
 
+# Some Useful Notes
+* Introduction to Neural Word Embeddings.[[pdf](notes/NWE.pdf)]
+
 # Social
 * [CSDN (One of the largest Chinese technical community)](http://blog.csdn.net/u010551621)
 * [Zhihu (A Chinese CQA website)](https://www.zhihu.com/people/li-xin-26-75-10)
