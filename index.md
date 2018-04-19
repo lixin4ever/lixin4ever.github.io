@@ -1,5 +1,5 @@
 # About me#
-I am a second-year Ph.D. student at [CUHK Text Mining Group](http://www1.se.cuhk.edu.hk/~textmine/). My advisor is [Prof. Lam Wai](http://www.se.cuhk.edu.hk/people/wlam.html). Prior to that, I obtained the B.Eng degree from School of Data and Computer Science, Sun Yat-Sen University in 2016, where I worked closely with [Dr. Rao Yanghui](http://sdcs.sysu.edu.cn/p/140254?pagename=profile&id=140254) and began my research career of natural language processing. I also worked closely with [Dr.Bing Lidong] at Tencent AI Lab on natural language generation (NLG). You can contact me via [email](mailto:lixin4ever@gmail.com). 
+I am a second-year Ph.D. student at [CUHK Text Mining Group](http://www1.se.cuhk.edu.hk/~textmine/). My advisor is [Prof. Lam Wai](http://www.se.cuhk.edu.hk/people/wlam.html). Prior to that, I obtained my B.Eng. degree from School of Data and Computer Science, Sun Yat-Sen University in 2016, where I worked closely with [Dr. Rao Yanghui](http://sdcs.sysu.edu.cn/p/140254?pagename=profile&id=140254) and began my research career of natural language processing. I also worked closely with [Dr.Bing Lidong] at Tencent AI Lab on natural language generation (NLG). You can contact me via [email](mailto:lixin4ever@gmail.com). 
 
 # Research interests #
 * Natural language text generation
@@ -47,7 +47,7 @@ I am a second-year Ph.D. student at [CUHK Text Mining Group](http://www1.se.cuh
 * TA: MIE-111: Discrete Mathematics, 2014 Spring
 
 # Some Useful Notes
-* Introduction to Neural Word Embeddings.[[pdf](notes/NWE.pdf)]
+* Introduction to Neural Word Embeddings. [[pdf](notes/NWE.pdf)]
 
 # Social
 * [CSDN (One of the largest Chinese technical community)](http://blog.csdn.net/u010551621)
