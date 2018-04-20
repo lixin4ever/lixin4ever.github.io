@@ -10,7 +10,7 @@ I am a second-year Ph.D. student at [CUHK Text Mining Group](http://www1.se.cuh
 * **2012-2016,**    B.Eng., Sun Yat-Sen University, [School of Data and Computer Science](http://sdcs.sysu.edu.cn/)
 
 # Experiences
-* **2018-present,**    Research Intern, NLP Group@Tencent AI Lab. Mentor: [Dr. Bing Lidong](http://www.cs.cmu.edu/~lbing/).
+* **2018-present,**    Research Intern, NLP Center@Tencent AI Lab. Mentor: [Dr. Bing Lidong](http://www.cs.cmu.edu/~lbing/).
 * **2015-2016,**    Research intern, Knowledge Computing Group@Microsoft Research Asia. Mentor: [Dr. Lin Chin-Yew](https://www.microsoft.com/en-us/research/people/cyl/) and [Dr. Liu Jing](http://www.machinereading.ai/)
 * **2014-2015,**    Research assistant, SentiNet Group, Sun Yat-Sen University. Supervisor: [Dr. Rao Yanghui](http://sdcs.sysu.edu.cn/node/2471)
 
@@ -22,7 +22,6 @@ I am a second-year Ph.D. student at [CUHK Text Mining Group](http://www1.se.cuh
 * **Xin Li**, [Yanghui Rao](http://sdcs.sysu.edu.cn/node/2471), Yanjia Chen, [Xuebo Liu](http://lufo.me/) and Huan Huang. **Social Emotion Classification via Reader Perspective Weighted Model.** _30th AAAI Conference on Artificial Intelligence, Phoenix, USA_ (**AAAI 2016**, Abstract & Poster). [[pdf](http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/11827/12230)] [[poster](paper/AAAI2016/poster/aaai16_poster.pdf)] [[full version](paper/AAAI2016/full_version/AAAI16_full.pdf)] 
 * **Xin Li**, [Haoran Xie](http://home.ied.edu.hk/~hxie/), [Yanghui Rao](http://sdcs.sysu.edu.cn/node/2471), Yanjia Chen, [Xuebo Liu](http://lufo.me/), Huan Huang, Fu Lee Wang. **Weighted multi-label classification model for sentiment analysis of online news.** _The 3rd International Conference on Big Data and Smart Computing_ (**BigComp 2016**, Oral). [[pdf](paper/BigComp2016/pdf/BigComp2016_paper.pdf)] [[code](paper/BigComp2016/code/bigcomp2016.zip)] [[slides](paper/BigComp2016/slides/BigComp2016_slides.pdf)]
 * [Xuebo Liu](http://lufo.me/), Shuang Ye, **Xin Li**, Yonghao Luo and [Yanghui Rao](http://sdcs.sysu.edu.cn/node/2471). **ZhihuRank: A Topic-Sensitive Expert Finding Algorithm in Community Question Answering Websites.** _The 14th International Conference on Web-based Learning_ (**ICWL 2015**, Oral). [[pdf](https://link.springer.com/content/pdf/10.1007%2F978-3-319-25515-6_15.pdf)] [[slides](paper/ICWL2015/slides/icwl_2015_slides.pdf)]
-* Zewei Wu, [Yanghui Rao](http://sdcs.sysu.edu.cn/node/2471), **Xin Li**, Jun Li, [Haoran Xie](http://home.ied.edu.hk/~hxie/) and Fu Lee Wang. **Sentiment Detection of Short Text via Probabilistic Topic Modeling**. _DASFAA Workshops 2015_ (**DASFAAW 2015**, Oral). [[pdf](https://link.springer.com/content/pdf/10.1007%2F978-3-319-22324-7_7.pdf)]
 
 # Honors & Awards
 * Jun 2016, Outstanding Graduates Awards, Sun Yat-Sen University
