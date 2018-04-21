@@ -15,6 +15,7 @@ I am a second-year Ph.D. student at [CUHK Text Mining Group](http://www1.se.cuh
 * **2014-2015,**    Research assistant, SentiNet Group, Sun Yat-Sen University. Supervisor: [Dr. Rao Yanghui](http://sdcs.sysu.edu.cn/node/2471)
 
 # Publications & Manuscripts
+* **Xin Li**, [Lidong Bing](http://www.cs.cmu.edu/~lbing/), [Wai Lam](http://www.se.cuhk.edu.hk/people/wlam.html), Bei Shi. **Transformation Networks for Target-Oriented Sentiment Classification.** To appear in _Proceedings of 56th Annual Meeting of the Association for Computational Linguistics_ (**ACL 2018**; CCF A)
 * **Xin Li**, [Lidong Bing](http://www.cs.cmu.edu/~lbing/), [Piji Li](http://lipiji.com/), [Wai Lam](http://www.se.cuhk.edu.hk/people/wlam.html), Zhimou Yang. **Aspect Term Extraction with History Attention and Selective Transformation.** To appear in _Proceedings of International Joint Conference on Artificial Intelligence_ (**IJCAI 2018**; CCF A)
 * **Xin Li**, [Wai Lam](http://www.se.cuhk.edu.hk/people/wlam.html). **Deep Multi-task Learning for Aspect Term Extraction with Memory Interaction.** To appear in _Proceedings of Empirical Methods in Natural Language Processing_ (**EMNLP 2017**, Oral; CCF B).
 * **Xin Li**, [Haoran Xie](http://home.ied.edu.hk/~hxie/), [Yanghui Rao](http://sdcs.sysu.edu.cn/node/2471), [Xuebo Liu](http://lufo.me/), Tak-Lam Wong, Fu Lee Wang. **Social Emotion Classification Based on Noise Aware Training.** To appear in _Data and Knowledge Engineering Journal_ (**DKE Journal**; CCF B, SCI). 
