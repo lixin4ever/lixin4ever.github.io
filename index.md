@@ -1,5 +1,5 @@
 # About me#
-I am a second-year Ph.D. student at [CUHK Text Mining Group](http://www1.se.cuhk.edu.hk/~textmine/). My advisor is [Prof. Lam Wai](http://www.se.cuhk.edu.hk/people/wlam.html). Prior to that, I obtained my B.Eng. degree from School of Data and Computer Science, Sun Yat-Sen University in 2016, where I worked closely with [Dr. Rao Yanghui](http://sdcs.sysu.edu.cn/p/140254?pagename=profile&id=140254) and began my research career of natural language processing. I also worked with [Dr. Bing Lidong](http://www.cs.cmu.edu/~lbing/) at Tencent AI Lab on natural language generation (NLG). You can contact me via [email](mailto:lixin4ever@gmail.com). 
+I am a second-year Ph.D. student at [CUHK Text Mining Group](http://www1.se.cuhk.edu.hk/~textmine/). My advisor is [Prof. Lam Wai](http://www.se.cuhk.edu.hk/people/wlam.html). Prior to that, I obtained my B.Eng. degree from School of Data and Computer Science, Sun Yat-Sen University in 2016, where I worked closely with [Prof. Rao Yanghui](http://sdcs.sysu.edu.cn/p/140254?pagename=profile&id=140254) and began my research career of natural language processing. I also worked with [Dr. Bing Lidong](http://www.cs.cmu.edu/~lbing/) at Tencent AI Lab on natural language generation (NLG). You can contact me via [email](mailto:lixin4ever@gmail.com). 
 
 # Research interests #
 * Natural language text generation
@@ -12,7 +12,7 @@ I am a second-year Ph.D. student at [CUHK Text Mining Group](http://www1.se.cuh
 # Experiences
 * **2018-present,**    Research Intern, NLP Center@Tencent AI Lab. Mentor: [Dr. Bing Lidong](http://www.cs.cmu.edu/~lbing/).
 * **2015-2016,**    Research intern, Knowledge Computing Group@Microsoft Research Asia. Mentor: [Dr. Lin Chin-Yew](https://www.microsoft.com/en-us/research/people/cyl/) and [Dr. Liu Jing](http://www.machinereading.ai/)
-* **2014-2015,**    Research assistant, SentiNet Group, Sun Yat-Sen University. Supervisor: [Dr. Rao Yanghui](http://sdcs.sysu.edu.cn/node/2471)
+* **2014-2015,**    Research assistant, SentiNet Group, Sun Yat-Sen University. Supervisor: [Prof. Rao Yanghui](http://sdcs.sysu.edu.cn/node/2471)
 
 # Publications & Manuscripts
 * **Xin Li**, [Lidong Bing](http://www.cs.cmu.edu/~lbing/), [Wai Lam](http://www.se.cuhk.edu.hk/people/wlam.html), Bei Shi. **Transformation Networks for Target-Oriented Sentiment Classification.** To appear in _Proceedings of 56th Annual Meeting of the Association for Computational Linguistics_ (**ACL 2018**; CCF A)
