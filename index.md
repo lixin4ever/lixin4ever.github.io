@@ -46,8 +46,10 @@ I am a second-year Ph.D. student at [CUHK Text Mining Group](http://www1.se.cuh
 * TA: MIE-121: Design of Digital System, 2014 Fall
 * TA: MIE-111: Discrete Mathematics, 2014 Spring
 
-# Some Useful Notes
+# Some Useful Notes & Links
 * Introduction to Neural Word Embeddings. [[pdf](notes/NWE.pdf)]
+* [Tutorial for Statistical Machine Translation](http://www.lsi.upc.edu/~cristinae/CV/docs/tutorialSMTprint.pdf).
+* [Tutorial for Neural Machine Translation](https://nlp.stanford.edu/projects/nmt/Luong-Cho-Manning-NMT-ACL2016-v4.pdf)
 
 # Social
 * [CSDN (One of the largest Chinese technical community)](http://blog.csdn.net/u010551621)
