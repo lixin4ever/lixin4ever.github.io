@@ -10,9 +10,9 @@ I am a second-year Ph.D. student at [CUHK Text Mining Group](http://www1.se.cuh
 * **2012-2016,**    B.Eng., Sun Yat-Sen University, [School of Data and Computer Science](http://sdcs.sysu.edu.cn/)
 
 # Experiences
-* **2018-present,**    Research Intern, NLP Center@Tencent AI Lab. Mentor: [Dr. Bing Lidong](http://www.cs.cmu.edu/~lbing/).
-* **2015-2016,**    Research intern, Knowledge Computing Group@Microsoft Research Asia. Mentor: [Dr. Lin Chin-Yew](https://www.microsoft.com/en-us/research/people/cyl/) and [Dr. Liu Jing](http://www.machinereading.ai/)
-* **2014-2015,**    Research assistant, SentiNet Group, Sun Yat-Sen University. Supervisor: [Prof. Rao Yanghui](http://sdcs.sysu.edu.cn/node/2471)
+* **Jan 2018-present,**    Research Intern, NLP Center@Tencent AI Lab. Mentor: [Dr. Bing Lidong](http://www.cs.cmu.edu/~lbing/).
+* **Jul 2015-Jun 2016,**    Research intern, Knowledge Computing Group@Microsoft Research Asia. Mentor: [Dr. Lin Chin-Yew](https://www.microsoft.com/en-us/research/people/cyl/) and [Dr. Liu Jing](http://www.machinereading.ai/)
+* **Sep 2014-July 2015,**    Research assistant, SentiNet Group, Sun Yat-Sen University. Supervisor: [Prof. Rao Yanghui](http://sdcs.sysu.edu.cn/node/2471)
 
 # Publications & Manuscripts
 * **Xin Li**, [Lidong Bing](http://www.cs.cmu.edu/~lbing/), [Wai Lam](http://www.se.cuhk.edu.hk/people/wlam.html), Bei Shi. **Transformation Networks for Target-Oriented Sentiment Classification.** To appear in _Proceedings of 56th Annual Meeting of the Association for Computational Linguistics_ (**ACL 2018**). [[arxiv](https://arxiv.org/abs/1805.01086)][[dataset](https://github.com/lixin4ever/TNet/tree/master/dataset)]
@@ -28,16 +28,11 @@ I am a second-year Ph.D. student at [CUHK Text Mining Group](http://www1.se.cuh
 * Jun 2016, Outstanding Graduates Awards, Sun Yat-Sen University
 * Jun 2016, Excellence Award of Stars of Tomorrow Internship Program, Microsoft Research Asia
 * May 2016, Excellent Undergraduate Thesis award, Sun Yat-Sen University. [[pdf (in Chinese)]](paper/Thesis/undergraduate/lixin_thesis.pdf)
-* Sept 2015, Second-class Merit Scholarship, Sun Yat-Sen University (top 5%)
+* Sept 2015, Second-class Merit Scholarship, Sun Yat-Sen University (rank 14/258)
 * Apr 2015, Best Paper Award (DASFAA Workshops 2015)
-* Sept 2014, Second-class Merit Scholarship, Sun Yat-Sen University
 
 # Professional Activities
-* KDD 2018 (Secondary Reviewer)
-* NAACL 2018 (Secondary Reviewer)
-* WWW 2018 (Secondary Reviewer)
-* WSDM 2018 (Secondary Reviewer)
-* CIKM 2017 (Secondary Reviewer)
+* Secondary Reviewer: CIKM 2017, WSDM 2018, WWW 2018, KDD 2018, NAACL 2018
 
 # Teaching
 * TA: SEEM-3550: Fundamentals in Information Systems, 2017 Spring 
