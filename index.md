@@ -32,6 +32,7 @@ I am a second-year Ph.D. student at [CUHK Text Mining Group](http://www1.se.cuh
 * Apr 2015, Best Paper Award (DASFAA Workshops 2015)
 
 # Professional Activities
+* Reviewer (or PC Member): EMNLP 2018
 * Secondary Reviewer: CIKM 2017,2018, WSDM 2018, WWW 2018, KDD 2018, NAACL 2018
 
 # Teaching
