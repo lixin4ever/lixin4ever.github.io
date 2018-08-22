@@ -22,7 +22,7 @@ I am a second-year Ph.D. student at [CUHK Text Mining Group](http://www1.se.cuh
 * [Xuebo Liu](http://lufo.me/), Shuang Ye, **Xin Li**, Yonghao Luo and [Yanghui Rao](http://sdcs.sysu.edu.cn/node/2471). **ZhihuRank: A Topic-Sensitive Expert Finding Algorithm in Community Question Answering Websites.** _The 14th International Conference on Web-based Learning_ (**ICWL 2015**, Oral). [[pdf](https://link.springer.com/content/pdf/10.1007%2F978-3-319-25515-6_15.pdf)] [[slides](paper/ICWL2015/slides/icwl_2015_slides.pdf)]
 
 # Honors & Awards
-* Jun 2016, Outstanding Graduates Awards, Sun Yat-Sen University
+* Jun 2016, Outstanding Graduates Awards, Sun Yat-Sen University.
 * May 2016, Excellent Undergraduate Thesis award, Sun Yat-Sen University.
 
 
