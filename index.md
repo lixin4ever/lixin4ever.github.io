@@ -25,17 +25,9 @@ I am a second-year Ph.D. student at [CUHK Text Mining Group](http://www1.se.cuh
 * Jun 2016, Outstanding Graduates Awards, Sun Yat-Sen University.
 * May 2016, Excellent Undergraduate Thesis award, Sun Yat-Sen University.
 
-
 # Professional Activities
 * Reviewer (or PC Member): EMNLP 2018
 * Secondary Reviewer: CIKM 2017,2018, WSDM 2018, WWW 2018, KDD 2018, NAACL 2018, ICDM 2018
-
-# Teaching
-* TA: SEEM-3550: Fundamentals in Information Systems, 2017 Spring 
-* TA: SEEM-4630: E-Commerce Data Mining, 2016 Fall
-* TA: MIE-151: Software Design II, 2015 Spring
-* TA: MIE-121: Design of Digital System, 2014 Fall
-* TA: MIE-111: Discrete Mathematics, 2014 Spring
 
 # Some Useful Notes & Links
 * Introduction to Neural Word Embeddings. [[pdf](notes/NWE.pdf)]
