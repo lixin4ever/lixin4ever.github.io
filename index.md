@@ -23,10 +23,8 @@ I am a second-year Ph.D. student at [CUHK Text Mining Group](http://www1.se.cuh
 
 # Honors & Awards
 * Jun 2016, Outstanding Graduates Awards, Sun Yat-Sen University
-* Jun 2016, Excellence Award of Stars of Tomorrow Internship Program, Microsoft Research Asia
-* May 2016, Excellent Undergraduate Thesis award, Sun Yat-Sen University. [[pdf (in Chinese)]](paper/Thesis/undergraduate/lixin_thesis.pdf)
-* Sept 2015, Second-class Merit Scholarship, Sun Yat-Sen University (rank 14/258)
-* Apr 2015, Best Paper Award (DASFAA Workshops 2015)
+* May 2016, Excellent Undergraduate Thesis award, Sun Yat-Sen University.
+
 
 # Professional Activities
 * Reviewer (or PC Member): EMNLP 2018
