@@ -10,7 +10,7 @@ I am a second-year Ph.D. student at [CUHK Text Mining Group](http://www1.se.cuh
 * **2012-2016,**    B.Eng., Sun Yat-Sen University, [School of Data and Computer Science](http://sdcs.sysu.edu.cn/)
 
 # Experiences
-* **Jan 2018-present,**    Research Intern, NLP Center@Tencent AI Lab. Mentor: [Dr. Bing Lidong](http://www.cs.cmu.edu/~lbing/).
+* **Jan 2018-Apr 2018,**    Research Intern, NLP Center@Tencent AI Lab. Mentor: [Dr. Bing Lidong](http://www.cs.cmu.edu/~lbing/).
 * **Jul 2015-Jun 2016,**    Research intern, Knowledge Computing Group@Microsoft Research Asia. Mentor: [Dr. Lin Chin-Yew](https://www.microsoft.com/en-us/research/people/cyl/) and [Dr. Liu Jing](http://www.machinereading.ai/)
 * **Sep 2014-July 2015,**    Research assistant, SentiNet Group, Sun Yat-Sen University. Supervisor: [Prof. Rao Yanghui](http://sdcs.sysu.edu.cn/node/2471)
 
