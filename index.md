@@ -29,7 +29,7 @@ I am a third-year Ph.D. student at [CUHK Text Mining Group](http://www1.se.cuhk
 
 ### Professional Activities
 * Reviewer (or PC Member): EMNLP 2018, AAAI 2019
-* Secondary Reviewer: CIKM 2017,2018, WSDM 2018, WWW 2018, KDD 2018, NAACL 2018, ICDM 2018
+* Secondary Reviewer: CIKM 2017-2018, WSDM 2018, WWW 2018-2019, KDD 2018, NAACL 2018, ICDM 2018
 
 ### Some Useful Notes & Links
 * Introduction to Neural Word Embeddings. [[pdf](notes/NWE.pdf)]
