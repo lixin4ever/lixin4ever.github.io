@@ -1,17 +1,19 @@
 ### About me
-I am a third-year Ph.D. student at [CUHK Text Mining Group](http://www1.se.cuhk.edu.hk/~textmine/). My advisor is [Prof. Lam Wai](http://www.se.cuhk.edu.hk/people/wlam.html). Prior to joining in CUHK, I obtained my B.Eng. degree from School of Data and Computer Science, Sun Yat-Sen University in 2016, where I worked closely with [Prof. Rao Yanghui](http://sdcs.sysu.edu.cn/node/2471) and began my research career of natural language processing. I also worked with [Dr. Bing Lidong](http://www.cs.cmu.edu/~lbing/) and [Dr. Li Piji](http://lipiji.com/) at Tencent AI Lab on natural language generation (NLG). You can contact me via [email](mailto:lixin4ever@gmail.com). 
+I am a third-year Ph.D. student at [CUHK Text Mining Group](http://www1.se.cuhk.edu.hk/~textmine/). My advisor is [Prof. Wai Lam](http://www.se.cuhk.edu.hk/people/wlam.html). Prior to joining in CUHK, I obtained my B.Eng. degree from School of Data and Computer Science, Sun Yat-Sen University in 2016. It's my honor having worked with Prof. [Yanghui Rao](http://sdcs.sysu.edu.cn/node/2471) from Sun Yat-sen University, Dr. [Chin-Yew Lin](https://www.microsoft.com/en-us/research/people/cyl/) & Dr. [Jing Liu](http://www.machinereading.ai/) from Microsoft Research Asia, Dr. [Lidong Bing](http://www.cs.cmu.edu/~lbing/) from Alibaba Damo Academy and Dr. [Piji Li](http://lipiji.com/) & Dr. Bei Shi from Tencent AI Lab.
+
+You can contact me via [email](mailto:lixin4ever@gmail.com). 
 
 ### Research interests 
 * Natural language text generation
 * Deep learning and its application on natural language processing
 
 ### Education
-* **2016-present,**    Ph.D. student, The Chinese University of Hong Kong, [Department of Systems Engineering and Engineering Management](http://www.se.cuhk.edu.hk/). Advisor: [Prof. Lam Wai](http://www.se.cuhk.edu.hk/people/wlam.html)
+* **2016-present,**    Ph.D. student, The Chinese University of Hong Kong, [Department of Systems Engineering and Engineering Management](http://www.se.cuhk.edu.hk/). Advisor: [Prof. Wai Lam](http://www.se.cuhk.edu.hk/people/wlam.html)
 * **2012-2016,**    B.Eng., Sun Yat-Sen University, [School of Data and Computer Science](http://sdcs.sysu.edu.cn/)
 
 ### Experiences
-* **Jan 2018-Apr 2018,**    Research Intern, NLP Center@Tencent AI Lab. Mentor: [Dr. Bing Lidong](http://www.cs.cmu.edu/~lbing/).
-* **Jul 2015-Jun 2016,**    Research intern, Knowledge Computing Group@Microsoft Research Asia. Mentor: [Dr. Lin Chin-Yew](https://www.microsoft.com/en-us/research/people/cyl/) and [Dr. Liu Jing](http://www.machinereading.ai/)
+* **Jan 2018-Apr 2018,**    Research Intern, NLP Center@Tencent AI Lab. Mentor: [Dr. Lidong Bing](http://www.cs.cmu.edu/~lbing/) and [Dr. Piji Li](http://lipiji.com/).
+* **Jul 2015-Jun 2016,**    Research intern, Knowledge Computing Group@Microsoft Research Asia. Mentor: [Dr. Chin-Yew Lin](https://www.microsoft.com/en-us/research/people/cyl/) and [Dr. Jing Liu](http://www.machinereading.ai/)
 * **Sep 2014-July 2015,**    Research assistant, SentiNet Group, Sun Yat-Sen University. Supervisor: [Prof. Rao Yanghui](http://sdcs.sysu.edu.cn/node/2471)
 
 ### Publications & Manuscripts [[Google Scholar](https://scholar.google.com.hk/citations?user=syD9lxQAAAAJ&hl=zh-CN)]
