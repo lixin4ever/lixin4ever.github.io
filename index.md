@@ -32,8 +32,8 @@ You can contact me via [email](mailto:lixin4ever@gmail.com).
 * May 2016, Excellent Undergraduate Thesis award, Sun Yat-Sen University.
 
 ### Professional Activities
-* Reviewer (or PC Member): EMNLP 2018, AAAI 2019
-* Secondary Reviewer: CIKM 2017-2018, WSDM 2018, WWW 2018-2019, KDD 2018, NAACL 2018, ICDM 2018
+* Reviewer (or PC Member): EMNLP 2018, AAAI 2019, EMNLP 2019, ACM Transactions on Asian and Low-Resource Language Information Processing
+* Secondary Reviewer: CIKM 2017-2019, WSDM 2018, WWW 2018-2019, KDD 2018, NAACL 2018-2019, ICDM 2018
 
 ### Some Useful Notes & Links
 * Introduction to Neural Word Embeddings. [[pdf](notes/NWE.pdf)]
