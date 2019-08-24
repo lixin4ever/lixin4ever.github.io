@@ -17,8 +17,8 @@ You can contact me via [email](mailto:lixin4ever@gmail.com).
 * **Sep 2014-July 2015,**    Research assistant, SentiNet Group, Sun Yat-Sen University. Supervisor: [Prof. Rao Yanghui](http://sdcs.sysu.edu.cn/node/2471)
 
 ### Publications & Manuscripts [[Google Scholar](https://scholar.google.com.hk/citations?user=syD9lxQAAAAJ&hl=zh-CN)]
-* Jingchao Liu, [Xuebo Liu](https://liuxuebo0.github.io/), Jie Sheng, Ding Liang, **Xin Li**, Qingjie Liu. 
-**Pyramid Mask Text Detector**. _arXiv:1903.11800_. 
+* Jingchao Liu, [Xuebo Liu](https://liuxuebo0.github.io/), Jie Sheng, Ding Liang, **Xin Li**, Qingjie Liu.\ 
+**Pyramid Mask Text Detector**. _arXiv:1903.11800_.\ 
 [[arxiv](https://arxiv.org/abs/1903.11800)][[code](https://github.com/STVIR/PMTD)].
 * [Zheng Li](https://hsqmlzno1.github.io/), **Xin Li**, Ying Wei, Lidong Bing, Yu Zhang, and Qiang Yang. **Transferable End-to-End Aspect-based Sentiment Analysis with Selective Adversarial Learning**. In ***EMNLP 2019*** (Full Paper).
 * **Xin Li**, [Lidong Bing](http://www.cs.cmu.edu/~lbing/), [Piji Li](http://lipiji.com/) and [Wai Lam](http://www.se.cuhk.edu.hk/people/wlam.html). **A Unified Model for Opinion Target Extraction and Target Sentiment Prediction.** In ***AAAI 2019*** (Full paper, poster). [[pdf](https://aaai.org/ojs/index.php/AAAI/article/view/4643/4521)][[arxiv](https://arxiv.org/abs/1811.05082)][[code](https://github.com/lixin4ever/E2E-TBSA)][[slides](paper/AAAI2019/slides/aaai19_lixin_slides.pdf)][[bibtex](https://scholar.googleusercontent.com/scholar.bib?q=info:h-A0KmeL5u8J:scholar.google.com/&output=citation&scisdr=CgUIw1ZYEKyn7rPPsRg:AAGBfm0AAAAAXVTKqRg56WbttCzFIeLcYQPc4U83AHQ_&scisig=AAGBfm0AAAAAXVTKqRbPExBVQNFg4uY7CZdrUxz4ViXE&scisf=4&ct=citation&cd=-1&hl=zh-CN)]
