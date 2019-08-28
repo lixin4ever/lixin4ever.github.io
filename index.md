@@ -58,7 +58,7 @@ In ***ICWL 2015*** (_The 14th International Conference on Web-based Learning_).
 
 ### Professional Activities
 * Reviewer (or PC Member): EMNLP 2018, AAAI 2019, EMNLP 2019, ACM Transactions on Asian and Low-Resource Language Information Processing
-* Secondary Reviewer: CIKM 2017-2019, WSDM 2018, WWW 2018-2019, KDD 2018, NAACL 2018-2019, ICDM 2018
+* Secondary Reviewer: CIKM 2017-2019, WSDM 2018-2019, WWW 2018-2019, KDD 2018, NAACL 2018-2019, SIGIR 2019
 
 ### Some Useful Notes & Links
 * Introduction to Neural Word Embeddings. [[pdf](notes/NWE.pdf)]
