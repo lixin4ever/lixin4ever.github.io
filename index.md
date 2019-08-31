@@ -23,7 +23,7 @@ _arXiv:1903.11800_.
 [[arxiv](https://arxiv.org/abs/1903.11800)][[code](https://github.com/STVIR/PMTD)].
 * **Context-aware Helpfulness Prediction for Online Product Reviews**.  
 Iyiola E. Olatunji, **Xin Li** and Wai Lam  
-In ***AIRS 2019*** (Full Paper)
+In ***AIRS 2019*** (Full Paper).
 * **Transferable End-to-End Aspect-based Sentiment Analysis with Selective Adversarial Learning**.  
 [Zheng Li](https://hsqmlzno1.github.io/), **Xin Li**, Ying Wei, Lidong Bing, Yu Zhang, and Qiang Yang.  
 In ***EMNLP 2019*** (Full Paper).
