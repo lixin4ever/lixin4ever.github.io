@@ -26,7 +26,7 @@ Iyiola E. Olatunji, **Xin Li** and Wai Lam
 In ***AIRS 2019*** (Full Paper).
 * **Transferable End-to-End Aspect-based Sentiment Analysis with Selective Adversarial Learning**.  
 [Zheng Li](https://hsqmlzno1.github.io/), **Xin Li**, Ying Wei, Lidong Bing, Yu Zhang, and Qiang Yang.  
-In ***EMNLP 2019*** (Full Paper).
+In ***EMNLP 2019*** (Full Paper, oral).
 * **A Unified Model for Opinion Target Extraction and Target Sentiment Prediction**.  
 **Xin Li**, [Lidong Bing](http://www.cs.cmu.edu/~lbing/), [Piji Li](http://lipiji.com/) and [Wai Lam](http://www.se.cuhk.edu.hk/people/wlam.html).  
 In ***AAAI 2019*** (Full paper, poster).  
@@ -38,7 +38,7 @@ In ***AAAI 2019*** (Full paper, oral).
 * **Transformation Networks for Target-Oriented Sentiment Classification**.  
 **Xin Li**, [Lidong Bing](http://www.cs.cmu.edu/~lbing/), [Wai Lam](http://www.se.cuhk.edu.hk/people/wlam.html), Bei Shi.  
 In ***ACL 2018*** (Full paper, oral).  
-[[pdf](http://aclweb.org/anthology/P18-1087)][[arxiv](https://arxiv.org/abs/1805.01086)][[dataset](https://github.com/lixin4ever/TNet/tree/master/dataset)][[code](https://github.com/lixin4ever/TNet)][[slides](paper/ACL2018/slides/acl18_lixin_slides.pdf)][[bibtex](https://aclanthology.coli.uni-saarland.de/papers/P18-1087/p18-1087.bib)]
+[[pdf](https://www.aclweb.org/anthology/P18-1087.pdf)][[arxiv](https://arxiv.org/abs/1805.01086)][[dataset](https://github.com/lixin4ever/TNet/tree/master/dataset)][[code](https://github.com/lixin4ever/TNet)][[slides](paper/ACL2018/slides/acl18_lixin_slides.pdf)][[bibtex](https://www.aclweb.org/anthology/P18-1087.bib)]
 * **Aspect Term Extraction with History Attention and Selective Transformation**.  
 **Xin Li**, [Lidong Bing](http://www.cs.cmu.edu/~lbing/), [Piji Li](http://lipiji.com/), [Wai Lam](http://www.se.cuhk.edu.hk/people/wlam.html), Zhimou Yang.  
 In ***IJCAI 2018*** (Full paper, oral).  
@@ -46,7 +46,7 @@ In ***IJCAI 2018*** (Full paper, oral).
 * **Deep Multi-task Learning for Aspect Term Extraction with Memory Interaction**.  
 **Xin Li**, [Wai Lam](http://www.se.cuhk.edu.hk/people/wlam.html).  
 In ***EMNLP 2017*** (Short paper, oral).  
-[[pdf](http://aclweb.org/anthology/D17-1310)][[slides](paper/EMNLP2017/slides/EMNLP_slides.pdf)][[bibtex](https://aclanthology.coli.uni-saarland.de/papers/D17-1310/d17-1310.bib)]
+[[pdf](https://www.aclweb.org/anthology/D17-1310.pdf)][[slides](paper/EMNLP2017/slides/EMNLP_slides.pdf)][[bibtex](https://www.aclweb.org/anthology/D17-1310.bib)]
 * **Social Emotion Classification Based on Noise Aware Training**.  
 **Xin Li**, [Haoran Xie](http://home.ied.edu.hk/~hxie/), [Yanghui Rao](http://sdcs.sysu.edu.cn/node/2471), [Xuebo Liu](https://liuxuebo0.github.io/), Tak-Lam Wong, Fu Lee Wang.  
 To appear in _Data and Knowledge Engineering Journal_ (**DKE Journal**). 
