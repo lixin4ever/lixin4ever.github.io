@@ -22,7 +22,7 @@ Jingchao Liu, [Xuebo Liu](https://liuxuebo0.github.io/), Jie Sheng, Ding Liang, 
 _arXiv:1903.11800_.  
 [[arxiv](https://arxiv.org/abs/1903.11800)][[code](https://github.com/STVIR/PMTD)].
 * **Exploiting BERT for End-to-End Aspect-Based Sentiment Analysis**.  
-Xin Li, Lidong Bing, Wenxuan Zhang and Wai Lam.  
+**Xin Li**, [Lidong Bing](https://lidongbing.github.io/), Wenxuan Zhang and [Wai Lam](http://www.se.cuhk.edu.hk/people/wlam.html).  
 In ***NUT Workshop@EMNLP 2019***.
 * **Transferable End-to-End Aspect-based Sentiment Analysis with Selective Adversarial Learning**.  
 [Zheng Li](https://hsqmlzno1.github.io/), **Xin Li**, Ying Wei, Lidong Bing, Yu Zhang, and Qiang Yang.  
@@ -31,7 +31,7 @@ In ***EMNLP 2019*** (Full Paper, oral).
 Iyiola E. Olatunji, **Xin Li** and Wai Lam.  
 In ***AIRS 2019*** (Full Paper).  
 * **A Unified Model for Opinion Target Extraction and Target Sentiment Prediction**.  
-**Xin Li**, [Lidong Bing](http://www.cs.cmu.edu/~lbing/), [Piji Li](http://lipiji.com/) and [Wai Lam](http://www.se.cuhk.edu.hk/people/wlam.html).  
+**Xin Li**, [Lidong Bing](https://lidongbing.github.io/), [Piji Li](http://lipiji.com/) and [Wai Lam](http://www.se.cuhk.edu.hk/people/wlam.html).  
 In ***AAAI 2019*** (Full paper, poster).  
 [[pdf](https://aaai.org/ojs/index.php/AAAI/article/view/4643/4521)][[arxiv](https://arxiv.org/abs/1811.05082)][[code](https://github.com/lixin4ever/E2E-TBSA)][[slides](paper/AAAI2019/slides/aaai19_lixin_slides.pdf)][[bibtex](https://scholar.googleusercontent.com/scholar.bib?q=info:h-A0KmeL5u8J:scholar.google.com/&output=citation&scisdr=CgUIw1ZYEKyn7rPPsRg:AAGBfm0AAAAAXVTKqRg56WbttCzFIeLcYQPc4U83AHQ_&scisig=AAGBfm0AAAAAXVTKqRbPExBVQNFg4uY7CZdrUxz4ViXE&scisf=4&ct=citation&cd=-1&hl=zh-CN)]
 * **Exploiting Coarse-to-Fine Task Transfer for Aspect-level Sentiment Classification**.  
@@ -39,11 +39,11 @@ In ***AAAI 2019*** (Full paper, poster).
 In ***AAAI 2019*** (Full paper, oral).  
 [[pdf](https://aaai.org/ojs/index.php/AAAI/article/view/4332/4210)][[arxiv](https://arxiv.org/abs/1811.10999)][[data](https://github.com/hsqmlzno1/MGAN)][[bibtex](https://scholar.googleusercontent.com/scholar.bib?q=info:U9sRIFCcv7QJ:scholar.google.com/&output=citation&scisdr=CgUIw1ZYEKyn7rPP5X8:AAGBfm0AAAAAXVTK_X9bj2TieC6RWs2RWFXzuzMVWR7p&scisig=AAGBfm0AAAAAXVTK_S1_JC8YcA9Slk0nTdFsOBdSLsnY&scisf=4&ct=citation&cd=-1&hl=zh-CN)]
 * **Transformation Networks for Target-Oriented Sentiment Classification**.  
-**Xin Li**, [Lidong Bing](http://www.cs.cmu.edu/~lbing/), [Wai Lam](http://www.se.cuhk.edu.hk/people/wlam.html), Bei Shi.  
+**Xin Li**, [Lidong Bing](https://lidongbing.github.io/), [Wai Lam](http://www.se.cuhk.edu.hk/people/wlam.html), Bei Shi.  
 In ***ACL 2018*** (Full paper, oral).  
 [[pdf](https://www.aclweb.org/anthology/P18-1087.pdf)][[arxiv](https://arxiv.org/abs/1805.01086)][[dataset](https://github.com/lixin4ever/TNet/tree/master/dataset)][[code](https://github.com/lixin4ever/TNet)][[slides](paper/ACL2018/slides/acl18_lixin_slides.pdf)][[bibtex](https://www.aclweb.org/anthology/P18-1087.bib)]
 * **Aspect Term Extraction with History Attention and Selective Transformation**.  
-**Xin Li**, [Lidong Bing](http://www.cs.cmu.edu/~lbing/), [Piji Li](http://lipiji.com/), [Wai Lam](http://www.se.cuhk.edu.hk/people/wlam.html), Zhimou Yang.  
+**Xin Li**, [Lidong Bing](https://lidongbing.github.io/), [Piji Li](http://lipiji.com/), [Wai Lam](http://www.se.cuhk.edu.hk/people/wlam.html), Zhimou Yang.  
 In ***IJCAI 2018*** (Full paper, oral).  
 [[pdf](https://www.ijcai.org/proceedings/2018/0583.pdf)][[arxiv](https://arxiv.org/abs/1805.00760)][[dataset](https://github.com/lixin4ever/HAST/tree/master/raw_data)][[code](https://github.com/lixin4ever/HAST)][[slides](paper/IJCAI2018/slides/lixin_ijcai18_slides.pdf)][[bibtex](https://dblp.org/rec/bibtex/conf/ijcai/LiBLLY18)]
 * **Deep Multi-task Learning for Aspect Term Extraction with Memory Interaction**.  
