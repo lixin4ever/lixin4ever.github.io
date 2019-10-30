@@ -23,7 +23,8 @@ _arXiv:1903.11800_.
 [[arxiv](https://arxiv.org/abs/1903.11800)][[code](https://github.com/STVIR/PMTD)].
 * **Exploiting BERT for End-to-End Aspect-Based Sentiment Analysis**.  
 **Xin Li**, [Lidong Bing](https://lidongbing.github.io/), Wenxuan Zhang and [Wai Lam](http://www.se.cuhk.edu.hk/people/wlam.html).  
-In ***NUT Workshop@EMNLP 2019***.
+In ***NUT Workshop@EMNLP 2019***.  
+[[arxiv](https://arxiv.org/pdf/1910.00883.pdf)][[code](https://github.com/lixin4ever/BERT-E2E-ABSA)]
 * **Transferable End-to-End Aspect-based Sentiment Analysis with Selective Adversarial Learning**.  
 [Zheng Li](https://hsqmlzno1.github.io/), **Xin Li**, Ying Wei, Lidong Bing, Yu Zhang, and Qiang Yang.  
 In ***EMNLP 2019*** (Full Paper, oral).
