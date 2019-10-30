@@ -4,8 +4,8 @@ I am a third-year Ph.D. student at [CUHK Text Mining Group](http://www1.se.cuhk
 You can contact me via [email](mailto:lixin4ever@gmail.com). 
 
 ### Research interests 
-* Natural language text generation
-* Deep learning and its application on natural language processing
+* Deep learning for natural language processing
+* Cross-lingual NLP applications
 
 ### Education
 * **2016-present,**    Ph.D. student, The Chinese University of Hong Kong, [Department of Systems Engineering and Engineering Management](http://www.se.cuhk.edu.hk/). Advisor: [Prof. Wai Lam](http://www.se.cuhk.edu.hk/people/wlam.html)
@@ -21,12 +21,15 @@ You can contact me via [email](mailto:lixin4ever@gmail.com).
 Jingchao Liu, [Xuebo Liu](https://liuxuebo0.github.io/), Jie Sheng, Ding Liang, **Xin Li**, Qingjie Liu.  
 _arXiv:1903.11800_.  
 [[arxiv](https://arxiv.org/abs/1903.11800)][[code](https://github.com/STVIR/PMTD)].
-* **Context-aware Helpfulness Prediction for Online Product Reviews**.  
-Iyiola E. Olatunji, **Xin Li** and Wai Lam  
-In ***AIRS 2019*** (Full Paper).
+* **Exploiting BERT for End-to-End Aspect-Based Sentiment Analysis**.  
+Xin Li, Lidong Bing, Wenxuan Zhang and Wai Lam.  
+In ***NUT Workshop@EMNLP 2019***.
 * **Transferable End-to-End Aspect-based Sentiment Analysis with Selective Adversarial Learning**.  
 [Zheng Li](https://hsqmlzno1.github.io/), **Xin Li**, Ying Wei, Lidong Bing, Yu Zhang, and Qiang Yang.  
 In ***EMNLP 2019*** (Full Paper, oral).
+* **Context-aware Helpfulness Prediction for Online Product Reviews**.  
+Iyiola E. Olatunji, **Xin Li** and Wai Lam.  
+In ***AIRS 2019*** (Full Paper).  
 * **A Unified Model for Opinion Target Extraction and Target Sentiment Prediction**.  
 **Xin Li**, [Lidong Bing](http://www.cs.cmu.edu/~lbing/), [Piji Li](http://lipiji.com/) and [Wai Lam](http://www.se.cuhk.edu.hk/people/wlam.html).  
 In ***AAAI 2019*** (Full paper, poster).  
