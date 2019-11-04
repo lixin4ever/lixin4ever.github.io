@@ -24,10 +24,11 @@ _arXiv:1903.11800_.
 * **Exploiting BERT for End-to-End Aspect-Based Sentiment Analysis**.  
 **Xin Li**, [Lidong Bing](https://lidongbing.github.io/), Wenxuan Zhang and [Wai Lam](http://www.se.cuhk.edu.hk/people/wlam.html).  
 In ***NUT Workshop@EMNLP 2019***.  
-[[arxiv](https://arxiv.org/pdf/1910.00883.pdf)][[code](https://github.com/lixin4ever/BERT-E2E-ABSA)]
+[[arxiv](https://arxiv.org/pdf/1910.00883.pdf)][[pdf](https://www.aclweb.org/anthology/D19-5505.pdf)][[code](https://github.com/lixin4ever/BERT-E2E-ABSA)][[bibtex](https://www.aclweb.org/anthology/D19-5505.bib)]
 * **Transferable End-to-End Aspect-based Sentiment Analysis with Selective Adversarial Learning**.  
 [Zheng Li](https://hsqmlzno1.github.io/), **Xin Li**, Ying Wei, Lidong Bing, Yu Zhang, and Qiang Yang.  
 In ***EMNLP 2019*** (Full Paper, oral).
+[[pdf](https://www.aclweb.org/anthology/D19-1466.pdf)][[code](https://github.com/hsqmlzno1/Transferable-E2E-ABSA)][[bibtex](https://www.aclweb.org/anthology/D19-1466.bib)]
 * **Context-aware Helpfulness Prediction for Online Product Reviews**.  
 Iyiola E. Olatunji, **Xin Li** and Wai Lam.  
 In ***AIRS 2019*** (Full Paper).  
