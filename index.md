@@ -4,8 +4,9 @@ I am a fourth-year Ph.D. student at [CUHK Text Mining Group](http://www1.se.cuh
 You can contact me via [email](mailto:lixin4ever@gmail.com). 
 
 ### Research interests 
-* Deep learning for natural language processing
-* Cross-lingual NLP applications
+* Deep learning for natural language understanding
+* Neural Text Generation
+* Cross-lingual NLP
 
 ### Education
 * **2016-present,**    Ph.D. student, The Chinese University of Hong Kong, [Department of Systems Engineering and Engineering Management](http://www.se.cuhk.edu.hk/). Advisor: [Prof. Wai Lam](http://www.se.cuhk.edu.hk/people/wlam.html)
