@@ -68,7 +68,7 @@ In ***ICWL 2015*** (_The 14th International Conference on Web-based Learning_).
 * May 2016, Excellent Undergraduate Thesis award, Sun Yat-Sen University.
 
 ### Professional Activities
-* Reviewer (or PC Member): EMNLP 2018, AAAI 2019, EMNLP 2019, ACM TALLIP, IEEE Access
+* Reviewer (or PC Member): EMNLP 2018-2019, ACL 2020 ACM TALLIP, IEEE Access
 * Secondary Reviewer: CIKM 2017-2019, WSDM 2018-2019, WWW 2018-2019, KDD 2018, NAACL 2018-2019, SIGIR 2019
 
 ### Some Useful Notes & Links
