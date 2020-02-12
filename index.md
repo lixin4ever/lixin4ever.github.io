@@ -29,10 +29,10 @@ To appear in ***AAAI 2020*** (Full paper, poster).
 **Xin Li**, Lidong Bing, Wenxuan Zhang and Wai Lam.  
 In ***EMNLP 2019 Workshop W-NUT***.  
 [[code](https://github.com/lixin4ever/BERT-E2E-ABSA)][[bibtex](https://www.aclweb.org/anthology/D19-5505.bib)]
-* **Transferable End-to-End Aspect-based Sentiment Analysis with Selective Adversarial Learning**.  
-[Zheng Li](https://hsqmlzno1.github.io/), **Xin Li**, Ying Wei, Lidong Bing, Yu Zhang, and Qiang Yang.  
+* **[Transferable End-to-End Aspect-based Sentiment Analysis with Selective Adversarial Learning](https://www.aclweb.org/anthology/D19-1466.pdf)**.  
+Zheng Li, **Xin Li**, Ying Wei, Lidong Bing, Yu Zhang, and Qiang Yang.  
 In ***EMNLP 2019*** (Full Paper, oral).  
-[[pdf](https://www.aclweb.org/anthology/D19-1466.pdf)][[code](https://github.com/hsqmlzno1/Transferable-E2E-ABSA)][[bibtex](https://www.aclweb.org/anthology/D19-1466.bib)] 
+[[code](https://github.com/hsqmlzno1/Transferable-E2E-ABSA)][[bibtex](https://www.aclweb.org/anthology/D19-1466.bib)] 
 * **[A Unified Model for Opinion Target Extraction and Target Sentiment Prediction](https://aaai.org/ojs/index.php/AAAI/article/view/4643/4521)**.  
 **Xin Li**, Lidong Bing, Piji Li and Wai Lam.  
 In ***AAAI 2019*** (Full paper, poster).  
@@ -44,11 +44,11 @@ In ***AAAI 2019*** (Full paper, oral).
 * **[Transformation Networks for Target-Oriented Sentiment Classification](https://www.aclweb.org/anthology/P18-1087.pdf)**.  
 **Xin Li**, Lidong Bing, Wai Lam, Bei Shi.  
 In ***ACL 2018*** (Full paper, oral).  
-[[dataset](https://github.com/lixin4ever/TNet/tree/master/dataset)][[code](https://github.com/lixin4ever/TNet)][[slides](paper/ACL2018/slides/acl18_lixin_slides.pdf)][[bibtex](https://www.aclweb.org/anthology/P18-1087.bib)]
+[[code](https://github.com/lixin4ever/TNet)][[dataset](https://github.com/lixin4ever/TNet/tree/master/dataset)][[slides](paper/ACL2018/slides/acl18_lixin_slides.pdf)][[bibtex](https://www.aclweb.org/anthology/P18-1087.bib)]
 * **[Aspect Term Extraction with History Attention and Selective Transformation](https://www.ijcai.org/proceedings/2018/0583.pdf)**.  
 **Xin Li**, Lidong Bing, Piji Li, Wai Lam, Zhimou Yang.  
 In ***IJCAI 2018*** (Full paper, oral).  
-[[dataset](https://github.com/lixin4ever/HAST/tree/master/raw_data)][[code](https://github.com/lixin4ever/HAST)][[slides](paper/IJCAI2018/slides/lixin_ijcai18_slides.pdf)][[bibtex](https://dblp.org/rec/bibtex/conf/ijcai/LiBLLY18)]
+[[code](https://github.com/lixin4ever/HAST)][[dataset](https://github.com/lixin4ever/HAST/tree/master/raw_data)][[slides](paper/IJCAI2018/slides/lixin_ijcai18_slides.pdf)][[bibtex](https://dblp.org/rec/bibtex/conf/ijcai/LiBLLY18)]
 * **[Deep Multi-task Learning for Aspect Term Extraction with Memory Interaction](https://www.aclweb.org/anthology/D17-1310.pdf)**.  
 **Xin Li**, Wai Lam.  
 In ***EMNLP 2017*** (Short paper, oral).  
