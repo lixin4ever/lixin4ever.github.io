@@ -21,7 +21,7 @@ You can contact me via [email](mailto:lixin4ever@gmail.com).
   * **[Pyramid Mask Text Detector](https://arxiv.org/abs/1903.11800)**.  
 Jingchao Liu, Xuebo Liu, Jie Sheng, Ding Liang, **Xin Li**, Qingjie Liu.  
 _arXiv:1903.11800_.  
-[[code](https://github.com/STVIR/PMTD)].  
+[[code](https://github.com/STVIR/PMTD)]  
 * **[Relevance-Promoting Language Model for Short-Text Conversation](https://arxiv.org/pdf/1911.11489.pdf)**.  
 **Xin Li**, Piji Li, Wei Bi, Xiaojiang Liu and Wai Lam.  
 To appear in ***AAAI 2020*** (Full paper, poster).   
