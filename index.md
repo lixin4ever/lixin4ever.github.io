@@ -24,7 +24,8 @@ _arXiv:1903.11800_.
 [[code](https://github.com/STVIR/PMTD)]  
 * **[Relevance-Promoting Language Model for Short-Text Conversation](https://arxiv.org/pdf/1911.11489.pdf)**.  
 **Xin Li**, Piji Li, Wei Bi, Xiaojiang Liu and Wai Lam.  
-In ***AAAI 2020*** (Full paper, poster).   
+In ***AAAI 2020*** (Full paper, poster).  
+[[poster](paper/AAAI2020/poster/lixin_aaai20_poster.pdf)]
 * **[Exploiting BERT for End-to-End Aspect-Based Sentiment Analysis](https://arxiv.org/pdf/1910.00883.pdf)**.  
 **Xin Li**, Lidong Bing, Wenxuan Zhang and Wai Lam.  
 In ***EMNLP 2019 Workshop W-NUT***.  
