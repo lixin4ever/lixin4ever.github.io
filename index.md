@@ -4,7 +4,7 @@ I am a fourth-year Ph.D. student at [CUHK Text Mining Group](http://www1.se.cuh
 You can contact me via [email](mailto:lixin4ever@gmail.com). 
 
 ### Research interests 
-* Deep learning for natural language understanding
+* Deep Learning for Natural Language Understanding
 * Neural Text Generation
 * Cross-lingual NLP
 
