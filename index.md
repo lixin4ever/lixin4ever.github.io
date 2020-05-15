@@ -74,6 +74,7 @@ In ***ICWL 2015*** (_The 14th International Conference on Web-based Learning_).
 * Introduction to Neural Word Embeddings. [[pdf](notes/NWE.pdf)]
 * [Tutorial for Statistical Machine Translation](http://www.lsi.upc.edu/~cristinae/CV/docs/tutorialSMTprint.pdf).
 * [Tutorial for Neural Machine Translation](https://nlp.stanford.edu/projects/nmt/Luong-Cho-Manning-NMT-ACL2016-v4.pdf).
+* [How to write a great research paper](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/07/How-to-write-a-great-research-paper.pdf).
 
 ### Social
 * [CSDN (One of the largest Chinese technical community)](http://blog.csdn.net/u010551621)
