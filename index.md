@@ -17,7 +17,7 @@ You can contact me via [email](mailto:lixin4ever@gmail.com).
 * **Jul 2015-Jun 2016,**    Research intern, Knowledge Computing Group@Microsoft Research Asia. Mentor: [Dr. Chin-Yew Lin](https://www.microsoft.com/en-us/research/people/cyl/) and [Dr. Jing Liu](http://www.machinereading.ai/)
 * **Sep 2014-July 2015,**    Research assistant, SentiNet Group, Sun Yat-Sen University. Supervisor: [Prof. Rao Yanghui](http://sdcs.sysu.edu.cn/node/2471)
 
-### Manuscripts & Publications [[Google Scholar](https://scholar.google.com.hk/citations?user=syD9lxQAAAAJ&hl=zh-CN)][[Semantic Scholar](https://www.semanticscholar.org/author/Xin-Li/40613621)]
+### Manuscripts & Publications [[Google Scholar](https://scholar.google.com.hk/citations?user=syD9lxQAAAAJ&hl=zh-CN)]
   * **[Pyramid Mask Text Detector](https://arxiv.org/abs/1903.11800)**.  
 Jingchao Liu, Xuebo Liu, Jie Sheng, Ding Liang, **Xin Li**, Qingjie Liu.  
 _arXiv:1903.11800_.  
