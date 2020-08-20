@@ -18,7 +18,7 @@ You can contact me via [email](mailto:lixin4ever@gmail.com).
 * **Sep 2014-July 2015,**    Research assistant, SentiNet Group, Sun Yat-Sen University. Supervisor: [Prof. Rao Yanghui](http://sdcs.sysu.edu.cn/node/2471)
 
 ### Manuscripts & Publications [[Google Scholar](https://scholar.google.com.hk/citations?user=syD9lxQAAAAJ&hl=zh-CN)]
-  * **[Pyramid Mask Text Detector](https://arxiv.org/abs/1903.11800)**.  
+* [Pyramid Mask Text Detector](https://arxiv.org/abs/1903.11800).  
 Jingchao Liu, Xuebo Liu, Jie Sheng, Ding Liang, **Xin Li**, Qingjie Liu.  
 _arXiv:1903.11800_.  
 [[code](https://github.com/STVIR/PMTD)]  
