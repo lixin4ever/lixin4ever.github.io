@@ -34,7 +34,7 @@ In _EMNLP 2019 Workshop W-NUT_.
 Zheng Li, **Xin Li**, Ying Wei, Lidong Bing, Yu Zhang, and Qiang Yang.  
 In _EMNLP 2019_ (Full Paper, oral).  
 [[code](https://github.com/hsqmlzno1/Transferable-E2E-ABSA)][[bibtex](https://www.aclweb.org/anthology/D19-1466.bib)] 
-* **[A Unified Model for Opinion Target Extraction and Target Sentiment Prediction](https://aaai.org/ojs/index.php/AAAI/article/view/4643/4521)**.  
+* [A Unified Model for Opinion Target Extraction and Target Sentiment Prediction](https://aaai.org/ojs/index.php/AAAI/article/view/4643/4521).  
 **Xin Li**, Lidong Bing, Piji Li and Wai Lam.  
 In _AAAI 2019_ (Full paper, poster).  
 [[code](https://github.com/lixin4ever/E2E-TBSA)][[slides](paper/AAAI2019/slides/aaai19_lixin_slides.pdf)][[bibtex](https://scholar.googleusercontent.com/scholar.bib?q=info:h-A0KmeL5u8J:scholar.google.com/&output=citation&scisdr=CgUIw1ZYEKyn7rPPsRg:AAGBfm0AAAAAXVTKqRg56WbttCzFIeLcYQPc4U83AHQ_&scisig=AAGBfm0AAAAAXVTKqRbPExBVQNFg4uY7CZdrUxz4ViXE&scisf=4&ct=citation&cd=-1&hl=zh-CN)]
