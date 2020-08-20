@@ -24,42 +24,42 @@ _arXiv:1903.11800_.
 [[code](https://github.com/STVIR/PMTD)]  
 * **[Relevance-Promoting Language Model for Short-Text Conversation](https://arxiv.org/pdf/1911.11489.pdf)**.  
 **Xin Li**, Piji Li, Wei Bi, Xiaojiang Liu and Wai Lam.  
-In ***AAAI 2020*** (Full paper, poster).  
+In _AAAI 2020_ (Full paper, poster).  
 [[poster](paper/AAAI2020/poster/lixin_aaai20_poster.pdf)]
 * **[Exploiting BERT for End-to-End Aspect-Based Sentiment Analysis](https://arxiv.org/pdf/1910.00883.pdf)**.  
 **Xin Li**, Lidong Bing, Wenxuan Zhang and Wai Lam.  
-In ***EMNLP 2019 Workshop W-NUT***.  
+In _EMNLP 2019 Workshop W-NUT_.  
 [[code](https://github.com/lixin4ever/BERT-E2E-ABSA)][[bibtex](https://www.aclweb.org/anthology/D19-5505.bib)]
 * **[Transferable End-to-End Aspect-based Sentiment Analysis with Selective Adversarial Learning](https://www.aclweb.org/anthology/D19-1466.pdf)**.  
 Zheng Li, **Xin Li**, Ying Wei, Lidong Bing, Yu Zhang, and Qiang Yang.  
-In ***EMNLP 2019*** (Full Paper, oral).  
+In _EMNLP 2019_ (Full Paper, oral).  
 [[code](https://github.com/hsqmlzno1/Transferable-E2E-ABSA)][[bibtex](https://www.aclweb.org/anthology/D19-1466.bib)] 
 * **[A Unified Model for Opinion Target Extraction and Target Sentiment Prediction](https://aaai.org/ojs/index.php/AAAI/article/view/4643/4521)**.  
 **Xin Li**, Lidong Bing, Piji Li and Wai Lam.  
-In ***AAAI 2019*** (Full paper, poster).  
+In _AAAI 2019_ (Full paper, poster).  
 [[code](https://github.com/lixin4ever/E2E-TBSA)][[slides](paper/AAAI2019/slides/aaai19_lixin_slides.pdf)][[bibtex](https://scholar.googleusercontent.com/scholar.bib?q=info:h-A0KmeL5u8J:scholar.google.com/&output=citation&scisdr=CgUIw1ZYEKyn7rPPsRg:AAGBfm0AAAAAXVTKqRg56WbttCzFIeLcYQPc4U83AHQ_&scisig=AAGBfm0AAAAAXVTKqRbPExBVQNFg4uY7CZdrUxz4ViXE&scisf=4&ct=citation&cd=-1&hl=zh-CN)]
 * **[Exploiting Coarse-to-Fine Task Transfer for Aspect-level Sentiment Classification](https://aaai.org/ojs/index.php/AAAI/article/view/4332/4210)**.  
 Zheng Li, Ying Wei, Yu Zhang, Xiang Zhang, **Xin Li** and Qiang Yang.  
-In ***AAAI 2019*** (Full paper, oral).  
+In _AAAI 2019_ (Full paper, oral).  
 [[data](https://github.com/hsqmlzno1/MGAN)][[bibtex](https://scholar.googleusercontent.com/scholar.bib?q=info:U9sRIFCcv7QJ:scholar.google.com/&output=citation&scisdr=CgUIw1ZYEKyn7rPP5X8:AAGBfm0AAAAAXVTK_X9bj2TieC6RWs2RWFXzuzMVWR7p&scisig=AAGBfm0AAAAAXVTK_S1_JC8YcA9Slk0nTdFsOBdSLsnY&scisf=4&ct=citation&cd=-1&hl=zh-CN)]
 * **[Transformation Networks for Target-Oriented Sentiment Classification](https://www.aclweb.org/anthology/P18-1087.pdf)**.  
 **Xin Li**, Lidong Bing, Wai Lam, Bei Shi.  
-In ***ACL 2018*** (Full paper, oral).  
+In _ACL 2018_ (Full paper, oral).  
 [[code](https://github.com/lixin4ever/TNet)][[dataset](https://github.com/lixin4ever/TNet/tree/master/dataset)][[slides](paper/ACL2018/slides/acl18_lixin_slides.pdf)][[bibtex](https://www.aclweb.org/anthology/P18-1087.bib)]
 * **[Aspect Term Extraction with History Attention and Selective Transformation](https://www.ijcai.org/proceedings/2018/0583.pdf)**.  
 **Xin Li**, Lidong Bing, Piji Li, Wai Lam, Zhimou Yang.  
-In ***IJCAI 2018*** (Full paper, oral).  
+In _IJCAI 2018_ (Full paper, oral).  
 [[code](https://github.com/lixin4ever/HAST)][[dataset](https://github.com/lixin4ever/HAST/tree/master/raw_data)][[slides](paper/IJCAI2018/slides/lixin_ijcai18_slides.pdf)][[bibtex](https://dblp.org/rec/bibtex/conf/ijcai/LiBLLY18)]
 * **[Deep Multi-task Learning for Aspect Term Extraction with Memory Interaction](https://www.aclweb.org/anthology/D17-1310.pdf)**.  
 **Xin Li**, Wai Lam.  
-In ***EMNLP 2017*** (Short paper, oral).  
+In _EMNLP 2017_ (Short paper, oral).  
 [[slides](paper/EMNLP2017/slides/EMNLP_slides.pdf)][[bibtex](https://www.aclweb.org/anthology/D17-1310.bib)]
 * **[Social Emotion Classification Based on Noise Aware Training](https://www.sciencedirect.com/science/article/pii/S0169023X17303506)**.  
 **Xin Li**, Haoran Xie, Yanghui Rao, Xuebo Liu, Tak-Lam Wong, Fu Lee Wang.  
 In _Data and Knowledge Engineering Journal_ (**DKE Journal**).  
 * **[ZhihuRank: A Topic-Sensitive Expert Finding Algorithm in Community Question Answering Websites](https://link.springer.com/content/pdf/10.1007%2F978-3-319-25515-6_15.pdf)**.  
 Xuebo Liu, Shuang Ye, **Xin Li**, Yonghao Luo and Yanghui Rao.  
-In ***ICWL 2015*** (_The 14th International Conference on Web-based Learning_).  
+In _ICWL 2015_ (_The 14th International Conference on Web-based Learning_).  
 [[slides](paper/ICWL2015/slides/icwl_2015_slides.pdf)]
 
 ### Honors & Awards
