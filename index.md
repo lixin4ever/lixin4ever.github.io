@@ -48,7 +48,7 @@ In _AAAI 2019_ (Full paper, oral).
 * [Transformation Networks for Target-Oriented Sentiment Classification](https://www.aclweb.org/anthology/P18-1087.pdf).  
 **Xin Li**, Lidong Bing, Wai Lam, Bei Shi.  
 In _ACL 2018_ (Full paper, oral).  
-[[code](https://github.com/lixin4ever/TNet)][[dataset](https://github.com/lixin4ever/TNet/tree/master/dataset)][[slides](paper/ACL2018/slides/acl18_lixin_slides.pdf)][[bibtex](https://www.aclweb.org/anthology/P18-1087.bib)][[code from ABSA_pytorch]](https://github.com/songyouwei/ABSA-PyTorch/blob/master/models/tnet_lf.py)
+[[code](https://github.com/lixin4ever/TNet)][[dataset](https://github.com/lixin4ever/TNet/tree/master/dataset)][[slides](paper/ACL2018/slides/acl18_lixin_slides.pdf)][[bibtex](https://www.aclweb.org/anthology/P18-1087.bib)][[code from ABSA_pytorch (**recommended**)](https://github.com/songyouwei/ABSA-PyTorch/blob/master/models/tnet_lf.py)]
 * [Aspect Term Extraction with History Attention and Selective Transformation](https://www.ijcai.org/proceedings/2018/0583.pdf).  
 **Xin Li**, Lidong Bing, Piji Li, Wai Lam, Zhimou Yang.  
 In _IJCAI 2018_ (Full paper, oral).  
