@@ -24,7 +24,7 @@ _arXiv:2010.12405_.
 * [Enhancing Dialogue Generation via Multi-Level Contrastive Learning.](https://arxiv.org/abs/2009.09147)  
 **Xin Li**, Piji Li, Yan Wang, Xiaojiang Liu and Wai Lam.  
 _arXiv:2009.09147_.  
-* [Pyramid Mask Text Detector.](https://arxiv.org/abs/1903.11800).  
+* [Pyramid Mask Text Detector.](https://arxiv.org/abs/1903.11800)  
 Jingchao Liu, Xuebo Liu, Jie Sheng, Ding Liang, **Xin Li**, Qingjie Liu.  
 _arXiv:1903.11800_.  
 [[code](https://github.com/STVIR/PMTD)]  
