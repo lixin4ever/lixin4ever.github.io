@@ -9,10 +9,11 @@ You can contact me via [email](mailto:lixin4ever@gmail.com).
 * Cross-lingual NLP
 
 ### Education
-* **2016-present,**    Ph.D. student, The Chinese University of Hong Kong, [Department of Systems Engineering and Engineering Management](http://www.se.cuhk.edu.hk/). Advisor: [Prof. Wai Lam](http://www.se.cuhk.edu.hk/people/wlam.html)
+* **2016-2021,**    Ph.D. student, The Chinese University of Hong Kong, [Department of Systems Engineering and Engineering Management](http://www.se.cuhk.edu.hk/). Advisor: [Prof. Wai Lam](http://www.se.cuhk.edu.hk/people/wlam.html)
 * **2012-2016,**    B.Eng., Sun Yat-Sen University, [School of Data and Computer Science](http://sdcs.sysu.edu.cn/)
 
 ### Experiences
+* **Jul 2020-Feb 2021,**    Research Intern, Speech and Semantics Group@Huawei Noah's Ark Lab. Mentor: Dr. Yi Liao.
 * **Jan 2018-Apr 2018,**    Research Intern, NLP Center@Tencent AI Lab. Mentor: [Dr. Lidong Bing](http://www.cs.cmu.edu/~lbing/) and [Dr. Piji Li](http://lipiji.com/).
 * **Jul 2015-Jun 2016,**    Research intern, Knowledge Computing Group@Microsoft Research Asia. Mentor: [Dr. Chin-Yew Lin](https://www.microsoft.com/en-us/research/people/cyl/) and [Dr. Jing Liu](http://www.machinereading.ai/)
 * **Sep 2014-July 2015,**    Research assistant, SentiNet Group, Sun Yat-Sen University. Supervisor: [Prof. Rao Yanghui](http://sdcs.sysu.edu.cn/node/2471)
