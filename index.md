@@ -14,7 +14,7 @@ You can contact me via [email](mailto:lixin4ever@gmail.com).
 * Cross-lingual NLP
 
 ### Education
-* **2016-2021,**    Ph.D. student, The Chinese University of Hong Kong, [Department of Systems Engineering and Engineering Management](http://www.se.cuhk.edu.hk/). Advisor: [Prof. Wai Lam](http://www.se.cuhk.edu.hk/people/wlam.html)
+* **2016-2021,**    Ph.D., The Chinese University of Hong Kong, [Department of Systems Engineering and Engineering Management](http://www.se.cuhk.edu.hk/). Advisor: [Prof. Wai Lam](http://www.se.cuhk.edu.hk/people/wlam.html)
 * **2012-2016,**    B.Eng., Sun Yat-Sen University, [School of Data and Computer Science](http://sdcs.sysu.edu.cn/)
 
 ### Experiences
