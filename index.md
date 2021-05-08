@@ -24,6 +24,9 @@ You can contact me via [email](mailto:lixin4ever@gmail.com).
 * **Sep 2014-July 2015,**    Research assistant, SentiNet Group, Sun Yat-Sen University. Supervisor: [Prof. Rao Yanghui](http://sdcs.sysu.edu.cn/node/2471)
 
 ### Manuscripts & Publications [[Google Scholar](https://scholar.google.com.hk/citations?user=syD9lxQAAAAJ&hl=zh-CN)]
+* [Towards Generative Aspect-Based Sentiment Analysis](https://scholar.google.com/)  
+Wenxuan Zhang, **Xin Li**, Yang Deng, Lidong Bing, Wai Lam.  
+In _ACL 2021_ (Short paper) 
 * [Unsupervised Cross-lingual Adaptation for Sequence Tagging and Beyond.](https://arxiv.org/abs/2010.12405)  
 **Xin Li**, Lidong Bing, Wenxuan Zhang, Zheng Li, Wai Lam.  
 _arXiv:2010.12405_.  
