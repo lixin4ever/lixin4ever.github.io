@@ -23,7 +23,7 @@ You can contact me via [email](mailto:lixin4ever@gmail.com).
 * **Jul 2015-Jun 2016,**    Research intern, Knowledge Computing Group@Microsoft Research Asia. Mentor: [Dr. Chin-Yew Lin](https://www.microsoft.com/en-us/research/people/cyl/) and [Dr. Jing Liu](http://www.machinereading.ai/)
 * **Sep 2014-July 2015,**    Research assistant, SentiNet Group, Sun Yat-Sen University. Supervisor: [Prof. Rao Yanghui](http://sdcs.sysu.edu.cn/node/2471)
 
-### Manuscripts & Publications [[Google Scholar](https://scholar.google.com.hk/citations?user=syD9lxQAAAAJ&hl=zh-CN)]
+### Preprints
 * [Unsupervised Cross-lingual Adaptation for Sequence Tagging and Beyond.](https://arxiv.org/abs/2010.12405)  
 **Xin Li**, Lidong Bing, Wenxuan Zhang, Zheng Li, Wai Lam.  
 _arXiv:2010.12405_.  
@@ -33,7 +33,9 @@ _arXiv:2009.09147_.
 * [Pyramid Mask Text Detector.](https://arxiv.org/abs/1903.11800)  
 Jingchao Liu, Xuebo Liu, Jie Sheng, Ding Liang, **Xin Li**, Qingjie Liu.  
 _arXiv:1903.11800_.  
-[[code](https://github.com/STVIR/PMTD)]  
+[[code](https://github.com/STVIR/PMTD)]
+
+### Publications [[Google Scholar](https://scholar.google.com.hk/citations?user=syD9lxQAAAAJ&hl=zh-CN)]
 * [Towards Generative Aspect-Based Sentiment Analysis](https://scholar.google.com/)  
 Wenxuan Zhang, **Xin Li**, Yang Deng, Lidong Bing, Wai Lam.  
 In _ACL 2021_ (Short paper)  
