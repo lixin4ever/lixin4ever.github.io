@@ -42,7 +42,7 @@ In _ACL 2021_ (Short paper)
 * [Relevance-Promoting Language Model for Short-Text Conversation](https://arxiv.org/pdf/1911.11489.pdf).  
 **Xin Li**, Piji Li, Wei Bi, Xiaojiang Liu and Wai Lam.  
 In _AAAI 2020_ (Full paper, poster).  
-[[poster](paper/AAAI2020/poster/lixin_aaai20_poster.pdf)]
+[[code](https://github.com/lixin4ever/LM-Dialog)][[poster](paper/AAAI2020/poster/lixin_aaai20_poster.pdf)]
 * [Exploiting BERT for End-to-End Aspect-Based Sentiment Analysis](https://arxiv.org/pdf/1910.00883.pdf).  
 **Xin Li**, Lidong Bing, Wenxuan Zhang and Wai Lam.  
 In _EMNLP 2019 Workshop W-NUT_.  
