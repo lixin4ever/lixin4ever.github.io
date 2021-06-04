@@ -84,7 +84,7 @@ In _ICWL 2015_ (_The 14th International Conference on Web-based Learning_).
 * May 2016, Excellent Undergraduate Thesis award, Sun Yat-Sen University.
 
 ### Professional Activities
-* Reviewer (or PC Member): ACL 2020-2021, EMNLP 2018-2020, NAACL 2021, AAAI 2019-2020, ACM TKDD, ACM TALLIP, Neurocomputing
+* Reviewer (or PC Member): ACL 2020-2021, EMNLP 2018-2021, NAACL 2021, AAAI 2019-2020, CIKM 2021, ACM TKDD, ACM TALLIP, Neurocomputing
 * Secondary Reviewer: CIKM 2017-2019, WSDM 2018-2019, WWW 2018-2019, KDD 2018, NAACL 2018-2019, SIGIR 2019
 
 ### Some Useful Notes & Links
