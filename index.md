@@ -6,7 +6,7 @@ Algorithm Expert,
 I recently join Alibaba DAMO Academy as a Research Engineer and I am with Multilingual NLP team.
 <!--~~I am a fifth-year Ph.D. student at [CUHK Text Mining Group](http://www1.se.cuhk.edu.hk/~textmine/). My advisor is [Prof. Wai Lam](http://www.se.cuhk.edu.hk/people/wlam.html). Prior to joining in CUHK, I obtained my B.Eng. degree from School of Data and Computer Science, Sun Yat-Sen University in 2016. It's my honor having worked with [Prof. Yanghui Rao](http://sdcs.sysu.edu.cn/node/2471) from SYSU, [Dr. Chin-Yew Lin](https://www.microsoft.com/en-us/research/people/cyl/) from Microsoft Research Asia, [Dr. Jing Liu](http://www.machinereading.ai/) from Baidu NLP, [Dr. Lidong Bing](http://www.cs.cmu.edu/~lbing/) from Alibaba Damo Academy and Dr. {[Piji Li](http://lipiji.com/), [Bei Shi](https://scholar.google.com.hk/citations?user=UJ_tgMYAAAAJ&hl=zh-CN), [Wei Bi](https://scholar.google.com/citations?user=aSJcgQMAAAAJ&hl=zh-CN), Yan Wang, [Xiaojiang Liu](https://scholar.google.com/citations?user=ukdqC6IAAAAJ&hl=zh-CN)} from Tencent AI Lab, Dr. Yi Liao from Huawei Noah's ARK Lab.~~-->
 
-You can contact me via [email](mailto:lixin4ever@gmail.com). 
+Contact E-mail: [lixin4ever@gmail.com](mailto:lixin4ever@gmail.com).
 
 ### Research Interests 
 * Deep Learning for Natural Language Understanding
