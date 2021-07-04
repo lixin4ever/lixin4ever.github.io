@@ -80,8 +80,9 @@ In _ICWL 2015_ (_The 14th International Conference on Web-based Learning_).
 [[slides](paper/ICWL2015/slides/icwl_2015_slides.pdf)]
 
 ### Honors & Awards
-* Jun 2016, Outstanding Graduates Awards, Sun Yat-Sen University.
-* May 2016, Excellent Undergraduate Thesis award, Sun Yat-Sen University.
+* AAAI Student Scholarship, 2020
+* Outstanding Graduates Awards, Sun Yat-Sen University.
+* Excellent Undergraduate Thesis award, Sun Yat-Sen University.
 
 ### Professional Activities
 * Reviewer (or PC Member): ACL 2020-2021, EMNLP 2018-2021, NAACL 2021, AAAI 2019-2020, CIKM 2021, ACM TKDD, ACM TALLIP, Neurocomputing
