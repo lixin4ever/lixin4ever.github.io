@@ -15,7 +15,7 @@ Contact E-mail: [lixin4ever@gmail.com](mailto:lixin4ever@gmail.com).
 
 ### Education
 * **2016-2021,**    Ph.D., The Chinese University of Hong Kong, [Department of Systems Engineering and Engineering Management](http://www.se.cuhk.edu.hk/). Advisor: [Prof. Wai Lam](http://www.se.cuhk.edu.hk/people/wlam.html)
-* **2012-2016,**    B.Eng., Sun Yat-Sen University, [School of Data and Computer Science](http://sdcs.sysu.edu.cn/)
+* **2012-2016,**    B.Eng., Sun Yat-Sen University, [School of Computer Science and Engineering](http://sdcs.sysu.edu.cn/)
 
 ### Experiences
 * **Jul 2020-Feb 2021,**    Research Intern, Speech and Semantics Group@Huawei Noah's Ark Lab. Mentor: Dr. Yi Liao.
