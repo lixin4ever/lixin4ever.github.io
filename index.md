@@ -36,9 +36,10 @@ _arXiv:1903.11800_.
 [[code](https://github.com/STVIR/PMTD)]
 
 ### Publications [[Google Scholar](https://scholar.google.com.hk/citations?user=syD9lxQAAAAJ&hl=zh-CN)]
-* [Towards Generative Aspect-Based Sentiment Analysis](https://scholar.google.com/)  
-Wenxuan Zhang, **Xin Li**, Yang Deng, Lidong Bing, Wai Lam.  
+* [Towards Generative Aspect-Based Sentiment Analysis](https://aclanthology.org/2021.acl-short.64.pdf)  
+Wenxuan Zhang, **Xin Li**, Yang Deng, Lidong Bing, Wai Lam.    
 In _ACL 2021_ (Short paper, oral)  
+[[code by Wenxuan](https://github.com/IsakZhang/Generative-ABSA)]
 * [Relevance-Promoting Language Model for Short-Text Conversation](https://arxiv.org/pdf/1911.11489.pdf).  
 **Xin Li**, Piji Li, Wei Bi, Xiaojiang Liu and Wai Lam.  
 In _AAAI 2020_ (Full paper, poster).  
