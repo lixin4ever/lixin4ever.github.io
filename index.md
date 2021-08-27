@@ -36,13 +36,13 @@ _arXiv:1903.11800_.
 [[code](https://github.com/STVIR/PMTD)]
 
 ### Publications [[Google Scholar](https://scholar.google.com.hk/citations?user=syD9lxQAAAAJ&hl=zh-CN)]
-* Aspect Sentiment Quad Prediction as Paraphrase Generation  
+ * [Aspect Sentiment Quad Prediction as Paraphrase Generation]()  
 Wenxuan Zhang, Yang Deng, **Xin Li**, Yifei Yuan, Lidong Bing and Wai Lam.  
 To appear in _EMNLP 2021_ (Long paper)  
-* Multilingual AMR Parsing with Noisy Knowledge Distillation  
+* [Multilingual AMR Parsing with Noisy Knowledge Distillation]()  
 Deng Cai, **Xin Li**, Jackie Chun-Sing Ho, Lidong Bing and Wai Lam.  
-To appear in _Findings of EMNLP 2021_ (Long paper)  
-* Aspect-based Sentiment Analysis in Question Answering Forums  
+To appear in _Findings of EMNLP 2021_ (Long paper) 
+* [Aspect-based Sentiment Analysis in Question Answering Forums]()  
 Wenxuan Zhang, Yang Deng, **Xin Li**, Lidong Bing and Wai Lam.  
 To appear in _Findings of EMNLP 2021_ (Long paper)  
 * [Towards Generative Aspect-Based Sentiment Analysis](https://aclanthology.org/2021.acl-short.64.pdf)  
