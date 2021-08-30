@@ -48,7 +48,7 @@ To appear in _Findings of EMNLP 2021_ (Long paper)
 * [Towards Generative Aspect-Based Sentiment Analysis](https://aclanthology.org/2021.acl-short.64.pdf)  
 Wenxuan Zhang, **Xin Li**, Yang Deng, Lidong Bing, Wai Lam.    
 In _ACL 2021_ (Short paper, oral)  
-[[code by Wenxuan](https://github.com/IsakZhang/Generative-ABSA)][[bibtex]([[bibtex](https://www.aclweb.org/anthology/D19-5505.bib)])]
+[[code by Wenxuan](https://github.com/IsakZhang/Generative-ABSA)][[bibtex](https://www.aclweb.org/anthology/D19-5505.bib)]
 * [Relevance-Promoting Language Model for Short-Text Conversation](https://arxiv.org/pdf/1911.11489.pdf).  
 **Xin Li**, Piji Li, Wei Bi, Xiaojiang Liu and Wai Lam.  
 In _AAAI 2020_ (Full paper, poster).  
