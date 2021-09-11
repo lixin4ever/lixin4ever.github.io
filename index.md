@@ -24,6 +24,9 @@ Contact E-mail: [lixin4ever@gmail.com](mailto:lixin4ever@gmail.com).
 * **Sep 2014-July 2015,**    Research assistant, SentiNet Group, Sun Yat-Sen University. Supervisor: [Prof. Rao Yanghui](http://sdcs.sysu.edu.cn/node/2471)
 
 ### Preprints
+* [MELM: Data Augmentation with Masked Entity Language Modeling for Cross-lingual NER](https://arxiv.org/abs/2108.13655)  
+Ran Zhou, Ruidan He, **Xin Li**, Lidong Bing, Erik Cambria, Luo Si, Chunyan Miao.  
+_arXiv:2108.13655_.  
 * [Unsupervised Cross-lingual Adaptation for Sequence Tagging and Beyond.](https://arxiv.org/abs/2010.12405)  
 **Xin Li**, Lidong Bing, Wenxuan Zhang, Zheng Li, Wai Lam.  
 _arXiv:2010.12405_.  
@@ -36,12 +39,12 @@ _arXiv:1903.11800_.
 [[code](https://github.com/STVIR/PMTD)]
 
 ### Publications [[Google Scholar](https://scholar.google.com.hk/citations?user=syD9lxQAAAAJ&hl=zh-CN)]
- * [Aspect Sentiment Quad Prediction as Paraphrase Generation]()  
-Wenxuan Zhang, Yang Deng, **Xin Li**, Yifei Yuan, Lidong Bing and Wai Lam.  
-To appear in _EMNLP 2021_ (Long paper)  
 * [Multilingual AMR Parsing with Noisy Knowledge Distillation]()  
 Deng Cai, **Xin Li**, Jackie Chun-Sing Ho, Lidong Bing and Wai Lam.  
 To appear in _Findings of EMNLP 2021_ (Long paper) 
+ * [Aspect Sentiment Quad Prediction as Paraphrase Generation]()  
+Wenxuan Zhang, Yang Deng, **Xin Li**, Yifei Yuan, Lidong Bing and Wai Lam.  
+To appear in _EMNLP 2021_ (Long paper)  
 * [Aspect-based Sentiment Analysis in Question Answering Forums]()  
 Wenxuan Zhang, Yang Deng, **Xin Li**, Lidong Bing and Wai Lam.  
 To appear in _Findings of EMNLP 2021_ (Long paper)  
