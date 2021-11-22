@@ -39,15 +39,14 @@ _arXiv:1903.11800_.
 [[code](https://github.com/STVIR/PMTD)]
 
 ### Publications [[Google Scholar](https://scholar.google.com.hk/citations?user=syD9lxQAAAAJ&hl=zh-CN)]
-* [Multilingual AMR Parsing with Noisy Knowledge Distillation]()  
+* [Multilingual AMR Parsing with Noisy Knowledge Distillation](https://aclanthology.org/2021.findings-emnlp.237.pdf)  
 Deng Cai, **Xin Li**, Jackie Chun-Sing Ho, Lidong Bing and Wai Lam.  
-In _Findings of EMNLP 2021_ (Long paper) 
- * [Aspect Sentiment Quad Prediction as Paraphrase Generation]()  
+In _Findings of EMNLP 2021_ (Long paper)  
+[[bibtex](https://aclanthology.org/2021.findings-emnlp.237.bib)]
+ * [Aspect Sentiment Quad Prediction as Paraphrase Generation](https://aclanthology.org/2021.emnlp-main.726.pdf)  
 Wenxuan Zhang, Yang Deng, **Xin Li**, Yifei Yuan, Lidong Bing and Wai Lam.  
 In _EMNLP 2021_ (Long paper)  
-* [Aspect-based Sentiment Analysis in Question Answering Forums]()  
-Wenxuan Zhang, Yang Deng, **Xin Li**, Lidong Bing and Wai Lam.  
-In _Findings of EMNLP 2021_ (Long paper)  
+[[code by Wenxuan](https://github.com/IsakZhang/ABSA-QUAD)][[bibtex](https://aclanthology.org/2021.emnlp-main.726.bib)] 
 * [Towards Generative Aspect-Based Sentiment Analysis](https://aclanthology.org/2021.acl-short.64.pdf)  
 Wenxuan Zhang, **Xin Li**, Yang Deng, Lidong Bing, Wai Lam.    
 In _ACL 2021_ (Short paper, oral)  
