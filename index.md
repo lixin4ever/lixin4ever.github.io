@@ -1,4 +1,4 @@
-Algorithm Expert,  
+Senior Algorithm Engineer,  
 [Language Technology Lab](https://damo.alibaba.com/labs/language-technology),  
 [Alibaba DAMO Academy](https://damo.alibaba.com/)
 
@@ -42,7 +42,7 @@ _arXiv:1903.11800_.
 * [Multilingual AMR Parsing with Noisy Knowledge Distillation](https://aclanthology.org/2021.findings-emnlp.237.pdf)  
 Deng Cai, **Xin Li**, Jackie Chun-Sing Ho, Lidong Bing and Wai Lam.  
 In _Findings of EMNLP 2021_ (Long paper)  
-[[bibtex](https://aclanthology.org/2021.findings-emnlp.237.bib)]
+[[Code by Deng](https://github.com/jcyk/XAMR)][[bibtex](https://aclanthology.org/2021.findings-emnlp.237.bib)]
  * [Aspect Sentiment Quad Prediction as Paraphrase Generation](https://aclanthology.org/2021.emnlp-main.726.pdf)  
 Wenxuan Zhang, Yang Deng, **Xin Li**, Yifei Yuan, Lidong Bing and Wai Lam.  
 In _EMNLP 2021_ (Long paper)  
