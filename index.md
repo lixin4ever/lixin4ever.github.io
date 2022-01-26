@@ -1,4 +1,4 @@
-Algorithm Expert (≈ Senior Algorithm Engineer),  
+Algorithm Expert (≈ Senior Algorithm Engineer in other companies),  
 [Language Technology Lab](https://damo.alibaba.com/labs/language-technology),  
 [Alibaba DAMO Academy](https://damo.alibaba.com/)
 
