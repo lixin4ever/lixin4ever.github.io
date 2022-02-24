@@ -24,9 +24,6 @@ Contact E-mail: [lixin4ever@gmail.com](mailto:lixin4ever@gmail.com).
 * **Sep 2014-July 2015,**    Research assistant, SentiNet Group, Sun Yat-Sen University. Supervisor: [Prof. Rao Yanghui](http://sdcs.sysu.edu.cn/node/2471)
 
 ### Preprints
-* [MELM: Data Augmentation with Masked Entity Language Modeling for Cross-lingual NER](https://arxiv.org/abs/2108.13655)  
-Ran Zhou, Ruidan He, **Xin Li**, Lidong Bing, Erik Cambria, Luo Si, Chunyan Miao.  
-_arXiv:2108.13655_.  
 * [Unsupervised Cross-lingual Adaptation for Sequence Tagging and Beyond.](https://arxiv.org/abs/2010.12405)  
 **Xin Li**, Lidong Bing, Wenxuan Zhang, Zheng Li, Wai Lam.  
 _arXiv:2010.12405_.  
@@ -39,6 +36,9 @@ _arXiv:1903.11800_.
 [[code](https://github.com/STVIR/PMTD)]
 
 ### Publications [[Google Scholar](https://scholar.google.com.hk/citations?user=syD9lxQAAAAJ&hl=zh-CN)]
+* [MELM: Data Augmentation with Masked Entity Language Modeling for Low-Resource NER]()  
+Ran Zhou, **Xin Li**, Ruidan He, Lidong Bing, Erik Cambria, Luo Si and Chunyan Miao.  
+To appear in _ACL 2022_ (Long paper)
 * [Multilingual AMR Parsing with Noisy Knowledge Distillation](https://aclanthology.org/2021.findings-emnlp.237.pdf)  
 Deng Cai, **Xin Li**, Jackie Chun-Sing Ho, Lidong Bing and Wai Lam.  
 In _Findings of EMNLP 2021_ (Long paper)  
@@ -51,7 +51,7 @@ In _EMNLP 2021_ (Long paper)
 Wenxuan Zhang, **Xin Li**, Yang Deng, Lidong Bing, Wai Lam.    
 In _ACL 2021_ (Short paper, oral)  
 [[code by Wenxuan](https://github.com/IsakZhang/Generative-ABSA)][[bibtex](https://www.aclweb.org/anthology/D19-5505.bib)]
-* [Relevance-Promoting Language Model for Short-Text Conversation](https://arxiv.org/pdf/1911.11489.pdf).  
+* [Relevance-Promoting Language Model for Short-Text Conversation](https://arxiv.org/pdf/1911.11489.pdf)  
 **Xin Li**, Piji Li, Wei Bi, Xiaojiang Liu and Wai Lam.  
 In _AAAI 2020_ (Full paper, poster).  
 [[code](https://github.com/lixin4ever/LM-Dialog)][[poster](paper/AAAI2020/poster/lixin_aaai20_poster.pdf)]
