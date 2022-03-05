@@ -41,14 +41,14 @@ _arXiv:1903.11800_.
 ### Publications [[Google Scholar](https://scholar.google.com.hk/citations?user=syD9lxQAAAAJ&hl=zh-CN)]
 * [MELM: Data Augmentation with Masked Entity Language Modeling for Low-Resource NER]()  
 Ran Zhou, **Xin Li**, Ruidan He, Lidong Bing, Erik Cambria, Luo Si and Chunyan Miao.  
-To appear in _ACL 2022_ (Long paper)
+To appear in _ACL 2022_ (Full paper)
 * [Multilingual AMR Parsing with Noisy Knowledge Distillation](https://aclanthology.org/2021.findings-emnlp.237.pdf)  
 Deng Cai, **Xin Li**, Jackie Chun-Sing Ho, Lidong Bing and Wai Lam.  
-In _Findings of EMNLP 2021_ (Long paper)  
+In _Findings of EMNLP 2021_ (Full paper)  
 [[code by Deng](https://github.com/jcyk/XAMR)][[bibtex](https://aclanthology.org/2021.findings-emnlp.237.bib)]
  * [Aspect Sentiment Quad Prediction as Paraphrase Generation](https://aclanthology.org/2021.emnlp-main.726.pdf)  
 Wenxuan Zhang, Yang Deng, **Xin Li**, Yifei Yuan, Lidong Bing and Wai Lam.  
-In _EMNLP 2021_ (Long paper)  
+In _EMNLP 2021_ (Full paper)  
 [[code by Wenxuan](https://github.com/IsakZhang/ABSA-QUAD)][[bibtex](https://aclanthology.org/2021.emnlp-main.726.bib)] 
 * [Towards Generative Aspect-Based Sentiment Analysis](https://aclanthology.org/2021.acl-short.64.pdf)  
 Wenxuan Zhang, **Xin Li**, Yang Deng, Lidong Bing, Wai Lam.    
