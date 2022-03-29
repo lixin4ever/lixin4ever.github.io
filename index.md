@@ -39,9 +39,9 @@ _arXiv:1903.11800_.
 [[code by Jingchao](https://github.com/STVIR/PMTD)]
 
 ### Publications [[Google Scholar](https://scholar.google.com.hk/citations?user=syD9lxQAAAAJ&hl=zh-CN)]
-* [MELM: Data Augmentation with Masked Entity Language Modeling for Low-Resource NER]()  
+* [MELM: Data Augmentation with Masked Entity Language Modeling for Low-Resource NER](https://arxiv.org/abs/2108.13655)  
 Ran Zhou, **Xin Li**, Ruidan He, Lidong Bing, Erik Cambria, Luo Si and Chunyan Miao.  
-To appear in _ACL 2022_ (Full paper)
+To appear in _ACL 2022_ (Full paper). 
 * [Multilingual AMR Parsing with Noisy Knowledge Distillation](https://aclanthology.org/2021.findings-emnlp.237.pdf)  
 Deng Cai, **Xin Li**, Jackie Chun-Sing Ho, Lidong Bing and Wai Lam.  
 In _Findings of EMNLP 2021_ (Full paper)  
