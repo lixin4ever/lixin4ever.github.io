@@ -24,16 +24,19 @@ Contact E-mail: [lixin4ever@gmail.com](mailto:lixin4ever@gmail.com).
 * **Sep 2014-July 2015,**    Research assistant, SentiNet Group, Sun Yat-Sen University. Supervisor: [Prof. Rao Yanghui](http://sdcs.sysu.edu.cn/node/2471)
 
 ### Preprints
-* [Knowledge Based Multilingual Language Model.](https://arxiv.org/abs/2111.10962)  
+* [A Survey on Aspect-Based Sentiment Analysis: Tasks, Methods, and Challenges](https://arxiv.org/abs/2203.01054)  
+Wenxuan Zhang, **Xin Li**, Yang Deng, Lidong Bing and Wai Lam.  
+_arXiv:2203.01054_  
+* [Knowledge Based Multilingual Language Model](https://arxiv.org/abs/2111.10962)  
 Linlin Liu, **Xin Li**, Ruidan He, Lidong Bing, Shafiq Joty and Luo Si.  
 _arXiv:2111.10962_  
-* [Unsupervised Cross-lingual Adaptation for Sequence Tagging and Beyond.](https://arxiv.org/abs/2010.12405)  
+* [Unsupervised Cross-lingual Adaptation for Sequence Tagging and Beyond](https://arxiv.org/abs/2010.12405)  
 **Xin Li**, Lidong Bing, Wenxuan Zhang, Zheng Li, Wai Lam.  
 _arXiv:2010.12405_.  
-* [Enhancing Dialogue Generation via Multi-Level Contrastive Learning.](https://arxiv.org/abs/2009.09147)  
+* [Enhancing Dialogue Generation via Multi-Level Contrastive Learning](https://arxiv.org/abs/2009.09147)  
 **Xin Li**, Piji Li, Yan Wang, Xiaojiang Liu and Wai Lam.  
 _arXiv:2009.09147_.  
-* [Pyramid Mask Text Detector.](https://arxiv.org/abs/1903.11800)  
+* [Pyramid Mask Text Detector](https://arxiv.org/abs/1903.11800)  
 Jingchao Liu, Xuebo Liu, Jie Sheng, Ding Liang, **Xin Li**, Qingjie Liu.  
 _arXiv:1903.11800_.  
 [[code by Jingchao](https://github.com/STVIR/PMTD)]
