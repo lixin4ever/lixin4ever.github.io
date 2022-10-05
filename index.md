@@ -92,7 +92,7 @@ In _EMNLP 2017_ (Short paper, oral).
 [[slides](paper/EMNLP2017/slides/EMNLP_slides.pdf)][[bibtex](https://www.aclweb.org/anthology/D17-1310.bib)]
 * [Social Emotion Classification Based on Noise Aware Training](https://www.sciencedirect.com/science/article/pii/S0169023X17303506).  
 **Xin Li**, Haoran Xie, Yanghui Rao, Xuebo Liu, Tak-Lam Wong, Fu Lee Wang.  
-In _Data and Knowledge Engineering Journal_ (**DKE Journal**).  
+_Data and Knowledge Engineering Journal_ (**DKE Journal**).  
 * [ZhihuRank: A Topic-Sensitive Expert Finding Algorithm in Community Question Answering Websites](https://link.springer.com/content/pdf/10.1007%2F978-3-319-25515-6_15.pdf).  
 Xuebo Liu, Shuang Ye, **Xin Li**, Yonghao Luo and Yanghui Rao.  
 In _ICWL 2015_ (_The 14th International Conference on Web-based Learning_).  
