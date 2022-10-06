@@ -27,9 +27,6 @@ Contact E-mail: [lixin4ever@gmail.com](mailto:lixin4ever@gmail.com).
 * [A Survey on Aspect-Based Sentiment Analysis: Tasks, Methods, and Challenges](https://arxiv.org/abs/2203.01054)  
 Wenxuan Zhang, **Xin Li**, Yang Deng, Lidong Bing and Wai Lam.  
 _arXiv:2203.01054_  
-* [Knowledge Based Multilingual Language Model](https://arxiv.org/abs/2111.10962)  
-Linlin Liu, **Xin Li**, Ruidan He, Lidong Bing, Shafiq Joty and Luo Si.  
-_arXiv:2111.10962_  
 * [Unsupervised Cross-lingual Adaptation for Sequence Tagging and Beyond](https://arxiv.org/abs/2010.12405)  
 **Xin Li**, Lidong Bing, Wenxuan Zhang, Zheng Li, Wai Lam.  
 _arXiv:2010.12405_.  
@@ -42,6 +39,15 @@ _arXiv:1903.11800_.
 [[code by Jingchao](https://github.com/STVIR/PMTD)]
 
 ### Publications [[Google Scholar](https://scholar.google.com.hk/citations?user=syD9lxQAAAAJ&hl=zh-CN)]
+* [Enhancing Multilingual Language Model with Massive Multilingual Knowledge Triples](https://arxiv.org/abs/2111.10962)  
+Linlin Liu, **Xin Li**, Ruidan He, Lidong Bing, Shafiq Joty and Luo Si.  
+To appear in _EMNLP 2022_ (Full paper)  
+* [Retrofitting Multilingual Sentence Embeddings with Abstract Meaning Representation]()  
+Deng Cai, **Xin Li**, Jackie Chun-Sing Ho, Lidong Bing and Wai Lam.  
+To appear in _EMNLP 2022_ (Full paper) 
+* [ConNER: Consistency Training for Cross-lingual Named Entity Recognition]()  
+Ran Zhou, **Xin Li**, Lidong Bing, Erik Cambria, Luo Si and Chunyan Miao.  
+To appear in _EMNLP 2022_ (Full paper) 
 * [MELM: Data Augmentation with Masked Entity Language Modeling for Low-Resource NER](https://aclanthology.org/2022.acl-long.160.pdf)  
 Ran Zhou, **Xin Li**, Ruidan He, Lidong Bing, Erik Cambria, Luo Si and Chunyan Miao.  
 In _ACL 2022_ (Full paper, poster).  
