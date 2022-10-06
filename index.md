@@ -41,13 +41,13 @@ _arXiv:1903.11800_.
 ### Publications [[Google Scholar](https://scholar.google.com.hk/citations?user=syD9lxQAAAAJ&hl=zh-CN)]
 * [Enhancing Multilingual Language Model with Massive Multilingual Knowledge Triples](https://arxiv.org/abs/2111.10962)  
 Linlin Liu, **Xin Li**, Ruidan He, Lidong Bing, Shafiq Joty and Luo Si.  
-To appear in _**EMNLP 2022**_ (Full paper)  
+In _EMNLP 2022_ (Full paper)  
 * [Retrofitting Multilingual Sentence Embeddings with Abstract Meaning Representation]()  
 Deng Cai, **Xin Li**, Jackie Chun-Sing Ho, Lidong Bing and Wai Lam.  
-To appear in _EMNLP 2022_ (Full paper) 
+In _EMNLP 2022_ (Full paper) 
 * [ConNER: Consistency Training for Cross-lingual Named Entity Recognition]()  
 Ran Zhou, **Xin Li**, Lidong Bing, Erik Cambria, Luo Si and Chunyan Miao.  
-To appear in _EMNLP 2022_ (Full paper) 
+In _EMNLP 2022_ (Full paper) 
 * [MELM: Data Augmentation with Masked Entity Language Modeling for Low-Resource NER](https://aclanthology.org/2022.acl-long.160.pdf)  
 Ran Zhou, **Xin Li**, Ruidan He, Lidong Bing, Erik Cambria, Luo Si and Chunyan Miao.  
 In _ACL 2022_ (Full paper, poster).  
