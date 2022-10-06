@@ -41,28 +41,28 @@ _arXiv:1903.11800_.
 ### Publications [[Google Scholar](https://scholar.google.com.hk/citations?user=syD9lxQAAAAJ&hl=zh-CN)]
 * [Enhancing Multilingual Language Model with Massive Multilingual Knowledge Triples](https://arxiv.org/abs/2111.10962)  
 Linlin Liu, **Xin Li**, Ruidan He, Lidong Bing, Shafiq Joty and Luo Si.  
-In _[EMNLP 2022](https://2022.emnlp.org/)_ (Full paper)  
+To appear in _[EMNLP 2022](https://2022.emnlp.org/)_ (Full paper)  
 * [Retrofitting Multilingual Sentence Embeddings with Abstract Meaning Representation]()  
 Deng Cai, **Xin Li**, Jackie Chun-Sing Ho, Lidong Bing and Wai Lam.  
-In _[EMNLP 2022](https://2022.emnlp.org/)_ (Full paper) 
+To appear in _[EMNLP 2022](https://2022.emnlp.org/)_ (Full paper) 
 * [ConNER: Consistency Training for Cross-lingual Named Entity Recognition]()  
 Ran Zhou, **Xin Li**, Lidong Bing, Erik Cambria, Luo Si and Chunyan Miao.  
-In _[EMNLP 2022](https://2022.emnlp.org/)_ (Full paper) 
+To appear in _[EMNLP 2022](https://2022.emnlp.org/)_ (Full paper) 
 * [MELM: Data Augmentation with Masked Entity Language Modeling for Low-Resource NER](https://aclanthology.org/2022.acl-long.160.pdf)  
 Ran Zhou, **Xin Li**, Ruidan He, Lidong Bing, Erik Cambria, Luo Si and Chunyan Miao.  
 In _[ACL 2022](https://www.2022.aclweb.org/)_ (Full paper, poster).  
 [[code by Ran](https://github.com/RandyZhouRan/MELM)][[bibtex](https://aclanthology.org/2022.acl-long.160.bib)]
 * [Multilingual AMR Parsing with Noisy Knowledge Distillation](https://aclanthology.org/2021.findings-emnlp.237.pdf)  
 Deng Cai, **Xin Li**, Jackie Chun-Sing Ho, Lidong Bing and Wai Lam.  
-In _Findings of EMNLP 2021_ (Full paper)  
+In _[Findings of EMNLP 2021](https://2021.emnlp.org/)_ (Full paper)  
 [[code by Deng](https://github.com/jcyk/XAMR)][[bibtex](https://aclanthology.org/2021.findings-emnlp.237.bib)]
  * [Aspect Sentiment Quad Prediction as Paraphrase Generation](https://aclanthology.org/2021.emnlp-main.726.pdf)  
 Wenxuan Zhang, Yang Deng, **Xin Li**, Yifei Yuan, Lidong Bing and Wai Lam.  
-In _EMNLP 2021_ (Full paper)  
+In _[EMNLP 2021](https://2021.emnlp.org/)_ (Full paper)  
 [[code by Wenxuan](https://github.com/IsakZhang/ABSA-QUAD)][[bibtex](https://aclanthology.org/2021.emnlp-main.726.bib)] 
 * [Towards Generative Aspect-Based Sentiment Analysis](https://aclanthology.org/2021.acl-short.64.pdf)  
 Wenxuan Zhang, **Xin Li**, Yang Deng, Lidong Bing, Wai Lam.    
-In _ACL 2021_ (Short paper, oral)  
+In _[ACL 2021](https://2021.aclweb.org/)_ (Short paper, oral)  
 [[code by Wenxuan](https://github.com/IsakZhang/Generative-ABSA)][[bibtex](https://www.aclweb.org/anthology/D19-5505.bib)]
 * [Relevance-Promoting Language Model for Short-Text Conversation](https://arxiv.org/pdf/1911.11489.pdf)  
 **Xin Li**, Piji Li, Wei Bi, Xiaojiang Liu and Wai Lam.  
