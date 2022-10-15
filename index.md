@@ -42,6 +42,7 @@ _arXiv:1903.11800_.
 * [Enhancing Multilingual Language Model with Massive Multilingual Knowledge Triples](https://arxiv.org/abs/2111.10962)  
 Linlin Liu, **Xin Li**, Ruidan He, Lidong Bing, Shafiq Joty and Luo Si.  
 To appear in _[EMNLP 2022](https://2022.emnlp.org/)_ (Full paper)  
+[[code by Linlin](https://github.com/ntunlp/kmlm)]  
 * [Retrofitting Multilingual Sentence Embeddings with Abstract Meaning Representation]()  
 Deng Cai, **Xin Li**, Jackie Chun-Sing Ho, Lidong Bing and Wai Lam.  
 To appear in _[EMNLP 2022](https://2022.emnlp.org/)_ (Full paper) 
