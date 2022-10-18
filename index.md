@@ -24,6 +24,9 @@ Contact E-mail: [lixin4ever@gmail.com](mailto:lixin4ever@gmail.com).
 * **Sep 2014-July 2015,**    Research assistant, SentiNet Group, Sun Yat-Sen University. Supervisor: [Prof. Rao Yanghui](http://sdcs.sysu.edu.cn/node/2471)
 
 ### Preprints
+* [PeerDA: Data Augmentation via Modeling Peer Relation for Span Identification Tasks](https://arxiv.org/abs/2210.08855)  
+Weiwen Xu, **Xin Li**, Yang Deng, Lidong Bing and Wai Lam.  
+_arXiv:2210.08855_  
 * [A Survey on Aspect-Based Sentiment Analysis: Tasks, Methods, and Challenges](https://arxiv.org/abs/2203.01054)  
 Wenxuan Zhang, **Xin Li**, Yang Deng, Lidong Bing and Wai Lam.  
 _arXiv:2203.01054_  
