@@ -48,6 +48,7 @@ To appear in _[EMNLP 2022](https://2022.emnlp.org/)_ (Full paper)
 [[code by Linlin](https://github.com/ntunlp/kmlm)]  
 * [Retrofitting Multilingual Sentence Embeddings with Abstract Meaning Representation](https://arxiv.org/abs/2210.09773)  
 Deng Cai, **Xin Li**, Jackie Chun-Sing Ho, Lidong Bing and Wai Lam.  
+[[code by Deng](https://github.com/jcyk/MSE-AMR)]  
 To appear in _[EMNLP 2022](https://2022.emnlp.org/)_ (Full paper) 
 * [ConNER: Consistency Training for Cross-lingual Named Entity Recognition]()  
 Ran Zhou, **Xin Li**, Lidong Bing, Erik Cambria, Luo Si and Chunyan Miao.  
