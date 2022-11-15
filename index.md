@@ -1,6 +1,6 @@
-Algorithm Expert (≈ Senior Algorithm Engineer in other companies),  
+<!--~~Algorithm Expert (≈ Senior Algorithm Engineer in other companies),  
 [Language Technology Lab](https://damo.alibaba.com/labs/language-technology),  
-[Alibaba DAMO Academy](https://damo.alibaba.com/)
+[Alibaba DAMO Academy](https://damo.alibaba.com/)~~-->
 
 ### About Me
 I am a Research Engineer at Alibaba DAMO Academy. I obtained my PhD degree from The Chinese University of Hong Kong (CUHK) in 2021, under supervision of Prof. [Wai Lam](http://www.se.cuhk.edu.hk/people/wlam.html). Before starting my PhD career, I was an undergraduate at Sun Yat-sen Universy (SYSU). I have ever interned at [Microsoft Research Asia](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/), [Tencent AI Lab](https://ai.tencent.com/ailab/en/about/) and [Huawei Noah's Ark Lab](http://dev3.noahlab.com.hk/Recruitment-L.html).
