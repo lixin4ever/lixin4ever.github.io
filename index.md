@@ -50,7 +50,7 @@ To appear in _[EMNLP 2022](https://2022.emnlp.org/)_ (Full paper)
 Deng Cai, **Xin Li**, Jackie Chun-Sing Ho, Lidong Bing and Wai Lam.  
 [[code by Deng](https://github.com/jcyk/MSE-AMR)]  
 To appear in _[EMNLP 2022](https://2022.emnlp.org/)_ (Full paper) 
-* [ConNER: Consistency Training for Cross-lingual Named Entity Recognition]()  
+* [ConNER: Consistency Training for Cross-lingual Named Entity Recognition](https://arxiv.org/abs/2211.09394)  
 Ran Zhou, **Xin Li**, Lidong Bing, Erik Cambria, Luo Si and Chunyan Miao.  
 To appear in _[EMNLP 2022](https://2022.emnlp.org/)_ (Full paper) 
 * [MELM: Data Augmentation with Masked Entity Language Modeling for Low-Resource NER](https://aclanthology.org/2022.acl-long.160.pdf)  
