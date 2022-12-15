@@ -47,15 +47,16 @@ _arXiv:1903.11800_.
 ### Publications [[Google Scholar](https://scholar.google.com.hk/citations?user=syD9lxQAAAAJ&hl=zh-CN)]
 * [Enhancing Multilingual Language Model with Massive Multilingual Knowledge Triples](https://arxiv.org/abs/2111.10962)  
 Linlin Liu, **Xin Li**, Ruidan He, Lidong Bing, Shafiq Joty and Luo Si.  
-To appear in _[EMNLP 2022](https://2022.emnlp.org/)_ (Full paper)  
+In _[EMNLP 2022](https://2022.emnlp.org/)_ (Full paper, poster)  
 [[code by Linlin](https://github.com/ntunlp/kmlm)]  
 * [Retrofitting Multilingual Sentence Embeddings with Abstract Meaning Representation](https://arxiv.org/abs/2210.09773)  
 Deng Cai, **Xin Li**, Jackie Chun-Sing Ho, Lidong Bing and Wai Lam.  
 [[code by Deng](https://github.com/jcyk/MSE-AMR)]  
-To appear in _[EMNLP 2022](https://2022.emnlp.org/)_ (Full paper) 
+In _[EMNLP 2022](https://2022.emnlp.org/)_ (Full paper, poster) 
 * [ConNER: Consistency Training for Cross-lingual Named Entity Recognition](https://arxiv.org/abs/2211.09394)  
 Ran Zhou, **Xin Li**, Lidong Bing, Erik Cambria, Luo Si and Chunyan Miao.  
-To appear in _[EMNLP 2022](https://2022.emnlp.org/)_ (Full paper) 
+In _[EMNLP 2022](https://2022.emnlp.org/)_ (Full paper, poster)  
+[[code by Ran](https://github.com/RandyZhouRan/ConNER)]  
 * [MELM: Data Augmentation with Masked Entity Language Modeling for Low-Resource NER](https://aclanthology.org/2022.acl-long.160.pdf)  
 Ran Zhou, **Xin Li**, Ruidan He, Lidong Bing, Erik Cambria, Luo Si and Chunyan Miao.  
 In _[ACL 2022](https://www.2022.aclweb.org/)_ (Full paper, poster).  
