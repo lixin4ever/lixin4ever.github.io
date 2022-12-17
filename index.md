@@ -30,9 +30,6 @@ _arXiv:2212.04755_
 * [PeerDA: Data Augmentation via Modeling Peer Relation for Span Identification Tasks](https://arxiv.org/abs/2210.08855)  
 Weiwen Xu, **Xin Li**, Yang Deng, Lidong Bing and Wai Lam.  
 _arXiv:2210.08855_  
-* [A Survey on Aspect-Based Sentiment Analysis: Tasks, Methods, and Challenges](https://arxiv.org/abs/2203.01054)  
-Wenxuan Zhang, **Xin Li**, Yang Deng, Lidong Bing and Wai Lam.  
-_arXiv:2203.01054_  
 * [Unsupervised Cross-lingual Adaptation for Sequence Tagging and Beyond](https://arxiv.org/abs/2010.12405)  
 **Xin Li**, Lidong Bing, Wenxuan Zhang, Zheng Li, Wai Lam.  
 _arXiv:2010.12405_.  
@@ -45,6 +42,9 @@ _arXiv:1903.11800_.
 [[code by Jingchao](https://github.com/STVIR/PMTD)]
 
 ### Publications [[Google Scholar](https://scholar.google.com.hk/citations?user=syD9lxQAAAAJ&hl=zh-CN)]
+* [A Survey on Aspect-Based Sentiment Analysis: Tasks, Methods, and Challenges](https://arxiv.org/abs/2203.01054)  
+Wenxuan Zhang, **Xin Li**, Yang Deng, Lidong Bing and Wai Lam.  
+In _[IEEE Transactions on Knowledge and Data Engineering (TKDE)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69)_  
 * [Enhancing Multilingual Language Model with Massive Multilingual Knowledge Triples](https://arxiv.org/abs/2111.10962)  
 Linlin Liu, **Xin Li**, Ruidan He, Lidong Bing, Shafiq Joty and Luo Si.  
 In _[EMNLP 2022](https://2022.emnlp.org/)_ (Full paper, poster)  
