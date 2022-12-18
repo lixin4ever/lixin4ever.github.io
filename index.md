@@ -44,7 +44,8 @@ _arXiv:1903.11800_.
 ### Publications [[Google Scholar](https://scholar.google.com.hk/citations?user=syD9lxQAAAAJ&hl=zh-CN)]
 * [A Survey on Aspect-Based Sentiment Analysis: Tasks, Methods, and Challenges](https://arxiv.org/abs/2203.01054)  
 Wenxuan Zhang, **Xin Li**, Yang Deng, Lidong Bing and Wai Lam.  
-In _[IEEE Transactions on Knowledge and Data Engineering (TKDE)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69)_  
+_[IEEE Transactions on Knowledge and Data Engineering (TKDE)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69)_, 2022  
+[[website](https://github.com/IsakZhang/ABSA-Survey)][[blog]()]
 * [Enhancing Multilingual Language Model with Massive Multilingual Knowledge Triples](https://arxiv.org/abs/2111.10962)  
 Linlin Liu, **Xin Li**, Ruidan He, Lidong Bing, Shafiq Joty and Luo Si.  
 In _[EMNLP 2022](https://2022.emnlp.org/)_ (Full paper, poster)  
