@@ -27,9 +27,6 @@ Contact E-mail: [lixin4ever@gmail.com](mailto:lixin4ever@gmail.com).
 * [From Clozing to Comprehending: Retrofitting Pre-trained Language Model to Pre-trained Machine Reader](https://arxiv.org/abs/2212.04755)  
 Weiwen Xu, **Xin Li**, Wenxuan Zhang, Meng Zhou, Lidong Bing, Wai Lam and Luo Si.  
 _arXiv:2212.04755_  
-* [PeerDA: Data Augmentation via Modeling Peer Relation for Span Identification Tasks](https://arxiv.org/abs/2210.08855)  
-Weiwen Xu, **Xin Li**, Yang Deng, Lidong Bing and Wai Lam.  
-_arXiv:2210.08855_  
 * [Unsupervised Cross-lingual Adaptation for Sequence Tagging and Beyond](https://arxiv.org/abs/2010.12405)  
 **Xin Li**, Lidong Bing, Wenxuan Zhang, Zheng Li, Wai Lam.  
 _arXiv:2010.12405_.  
@@ -42,6 +39,18 @@ _arXiv:1903.11800_.
 [[code by Jingchao](https://github.com/STVIR/PMTD)]
 
 ### Publications [[Google Scholar](https://scholar.google.com.hk/citations?user=syD9lxQAAAAJ&hl=zh-CN)]
+* [mPMR: Multilingual Machine Reader Pre-training at Scale]()  
+Weiwen Xu, **Xin Li**, Wai Lam and Lidong Bing.    
+To appear in _[ACL 2023](https://2022.emnlp.org/)_ (Short paper)  
+* [PeerDA: Data Augmentation via Modeling Peer Relation for Span Identification Tasks](https://arxiv.org/abs/2210.08855)  
+Weiwen Xu, **Xin Li**, Yang Deng, Lidong Bing and Wai Lam.    
+To appear in _[ACL 2023](https://2022.emnlp.org/)_ (Full paper)   
+* [Improving Self-training for Cross-lingual Named Entity Recognition with Contrastive and Prototype Learning]()  
+Ran Zhou, **Xin Li**, Lidong Bing, Erik Cambria and Chunyan Miao    
+To appear in _[ACL 2023](https://2022.emnlp.org/)_ (Full paper)  
+* [Enhancing Cross-lingual Prompting with Dual Prompt Augmentation](https://arxiv.org/abs/2202.07255)  
+Meng Zhou, **Xin Li**, Yue Jiang and Lidong Bing    
+To appear in _[Findings of ACL 2023](https://2022.emnlp.org/)_ (Short paper)  
 * [A Survey on Aspect-Based Sentiment Analysis: Tasks, Methods, and Challenges](https://arxiv.org/abs/2203.01054)  
 Wenxuan Zhang, **Xin Li**, Yang Deng, Lidong Bing and Wai Lam.  
 _[IEEE Transactions on Knowledge and Data Engineering (TKDE)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69)_, 2022  
