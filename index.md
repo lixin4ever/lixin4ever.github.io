@@ -39,18 +39,20 @@ _arXiv:1903.11800_.
 [[code by Jingchao](https://github.com/STVIR/PMTD)]
 
 ### Publications [[Google Scholar](https://scholar.google.com.hk/citations?user=syD9lxQAAAAJ&hl=zh-CN)]
-* [mPMR: Multilingual Machine Reader Pre-training at Scale]()  
+* [mPMR: Multilingual Machine Reader Pre-training at Scale](https://arxiv.org/abs/2305.13645)  
 Weiwen Xu, **Xin Li**, Wai Lam and Lidong Bing.    
 To appear in _[ACL 2023](https://2023.aclweb.org/)_ (Short paper)  
+[[code by Weiwen](https://github.com/DAMO-NLP-SG/PMR)]
 * [PeerDA: Data Augmentation via Modeling Peer Relation for Span Identification Tasks](https://arxiv.org/abs/2210.08855)  
 Weiwen Xu, **Xin Li**, Yang Deng, Lidong Bing and Wai Lam.    
 To appear in _[ACL 2023](https://2023.aclweb.org/)_ (Full paper)   
-* [Improving Self-training for Cross-lingual Named Entity Recognition with Contrastive and Prototype Learning]()  
+* [Improving Self-training for Cross-lingual Named Entity Recognition with Contrastive and Prototype Learning](https://arxiv.org/abs/2305.13628)  
 Ran Zhou, **Xin Li**, Lidong Bing, Erik Cambria and Chunyan Miao.    
 To appear in _[ACL 2023](https://2023.aclweb.org/)_ (Full paper)  
 * [Enhancing Cross-lingual Prompting with Dual Prompt Augmentation](https://arxiv.org/abs/2202.07255)  
-Meng Zhou, **Xin Li**, Yue Jiang and Lidong Bing.    
+Meng Zhou, **Xin Li**, Yue Jiang and Lidong Bing.  
 To appear in _[Findings of ACL 2023](https://2023.aclweb.org/)_ (Short paper)  
+[[code by Meng](https://github.com/DAMO-NLP-SG/DPA)]
 * [Towards Robust Low-Resource Fine-Tuning with Multi-View Compressed Representations]()    
 Linlin Liu, Xingxuan Li, Megh Thakkar, **Xin Li**, Shafiq Joty, Luo Si and Lidong Bing.   
 To appear in _[ACL 2023](https://2023.aclweb.org/)_ (Full paper)  
