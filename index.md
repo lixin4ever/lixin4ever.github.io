@@ -53,9 +53,10 @@ To appear in _[ACL 2023](https://2023.aclweb.org/)_ (Full paper)
 Meng Zhou, **Xin Li**, Yue Jiang and Lidong Bing.  
 To appear in _[Findings of ACL 2023](https://2023.aclweb.org/)_ (Short paper)  
 [[code by Meng](https://github.com/DAMO-NLP-SG/DPA)]
-* [Towards Robust Low-Resource Fine-Tuning with Multi-View Compressed Representations]()    
+* [Towards Robust Low-Resource Fine-Tuning with Multi-View Compressed Representations](https://arxiv.org/abs/2211.08794)    
 Linlin Liu, Xingxuan Li, Megh Thakkar, **Xin Li**, Shafiq Joty, Luo Si and Lidong Bing.   
 To appear in _[ACL 2023](https://2023.aclweb.org/)_ (Full paper)  
+[[code by Xingxuan](https://github.com/DAMO-NLP-SG/MVCR)]
 * [A Survey on Aspect-Based Sentiment Analysis: Tasks, Methods, and Challenges](https://arxiv.org/abs/2203.01054)  
 Wenxuan Zhang, **Xin Li**, Yang Deng, Lidong Bing and Wai Lam.  
 _[IEEE Transactions on Knowledge and Data Engineering (TKDE)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69)_, 2022  
