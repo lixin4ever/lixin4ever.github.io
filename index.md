@@ -9,9 +9,8 @@ I am a Research Engineer at Alibaba DAMO Academy. I obtained my PhD degree from 
 Contact E-mail: [lixin4ever@gmail.com](mailto:lixin4ever@gmail.com).
 
 ### Research Interests 
-* Deep Learning for Natural Language Understanding
-* Neural Text Generation
-* Cross-lingual and Multi-lingual NLP
+* Efficient LLM Fine-tuning & Inference
+* Multimodal & Multilingual LLMs
 
 ### Education
 * **2016-2021,**    Ph.D., The Chinese University of Hong Kong, [Department of Systems Engineering and Engineering Management](http://www.se.cuhk.edu.hk/). Advisor: [Prof. Wai Lam](http://www.se.cuhk.edu.hk/people/wlam.html)
@@ -24,6 +23,10 @@ Contact E-mail: [lixin4ever@gmail.com](mailto:lixin4ever@gmail.com).
 * **Sep 2014-July 2015,**    Research assistant, SentiNet Group, Sun Yat-Sen University. Supervisor: [Prof. Rao Yanghui](http://sdcs.sysu.edu.cn/node/2471)
 
 ### Preprints
+* [Video-LLaMA: An Instruction-tuned Audio-Visual Language Model for Video Understanding](https://arxiv.org/abs/2306.02858)  
+Hang Zhang, Xin Li, Lidong Bing.  
+_arXiv:2306.02858_  
+[[code](https://github.com/DAMO-NLP-SG/Video-LLaMA)][[demo (hugging face)](https://huggingface.co/spaces/DAMO-NLP-SG/Video-LLaMA)][[demo (modelscope)](https://www.modelscope.cn/studios/damo/video-llama/summary)][[checkpoints](https://huggingface.co/DAMO-NLP-SG/Video-LLaMA-Series)]
 * [From Clozing to Comprehending: Retrofitting Pre-trained Language Model to Pre-trained Machine Reader](https://arxiv.org/abs/2212.04755)  
 Weiwen Xu, **Xin Li**, Wenxuan Zhang, Meng Zhou, Lidong Bing, Wai Lam and Luo Si.  
 _arXiv:2212.04755_  
