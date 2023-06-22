@@ -48,7 +48,8 @@ To appear in _[ACL 2023](https://2023.aclweb.org/)_ (Short paper, poster)
 [[code by Weiwen](https://github.com/DAMO-NLP-SG/PMR)]
 * [PeerDA: Data Augmentation via Modeling Peer Relation for Span Identification Tasks](https://arxiv.org/abs/2210.08855)  
 Weiwen Xu, **Xin Li**, Yang Deng, Lidong Bing and Wai Lam.    
-To appear in _[ACL 2023](https://2023.aclweb.org/)_ (Full paper, poster)   
+To appear in _[ACL 2023](https://2023.aclweb.org/)_ (Full paper, poster)  
+[[code by Weiwen](https://github.com/DAMO-NLP-SG/PeerDA)]  
 * [Improving Self-training for Cross-lingual Named Entity Recognition with Contrastive and Prototype Learning](https://arxiv.org/abs/2305.13628)  
 Ran Zhou, **Xin Li**, Lidong Bing, Erik Cambria and Chunyan Miao.    
 To appear in _[ACL 2023](https://2023.aclweb.org/)_ (Full paper, poster)  
