@@ -139,8 +139,15 @@ In _ICWL 2015_ (_The 14th International Conference on Web-based Learning_).
 * Excellent Undergraduate Thesis award, Sun Yat-Sen University.
 
 ### Professional Activities
-* Reviewer (or PC Member): ACL 2020-2022, EMNLP 2018-2022, NAACL 2021, AAAI 2019-2020, CIKM 2021, ACM TKDD, ACM TALLIP, Neurocomputing, Computational Intelligence
-* Secondary Reviewer: CIKM 2017-2019, WSDM 2018-2019, WWW 2018-2019, KDD 2018, NAACL 2018-2019, SIGIR 2019
+* Reviewer (or PC Member):
+  - ACL 2020-2023, EMNLP 2018-2023, NAACL 2021
+  - AAAI 2019-2020
+  - WSDM 2023, CIKM 2021
+  - ACM Transactions on Knowledge Discovery from Data (TKDD)
+  - ACM Transactions on Asian and Low-Resource Language Information Processing (TALLIP)
+  - IEEE Transaction on Multimedia (TMM)
+  - Neurocomputing
+  - Computational Intelligence
 
 ### Some Useful Notes & Links
 * Introduction to Neural Word Embeddings. [[pdf](notes/NWE.pdf)]
