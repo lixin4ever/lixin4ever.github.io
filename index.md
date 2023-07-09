@@ -24,7 +24,7 @@ Contact E-mail: [lixin4ever@gmail.com](mailto:lixin4ever@gmail.com).
 
 ### Preprints
 * [Video-LLaMA: An Instruction-tuned Audio-Visual Language Model for Video Understanding](https://arxiv.org/abs/2306.02858)  
-Hang Zhang, Xin Li, Lidong Bing.  
+Hang Zhang, **Xin Li**, Lidong Bing.  
 _arXiv:2306.02858_  
 [[code](https://github.com/DAMO-NLP-SG/Video-LLaMA)][[demo (hugging face)](https://huggingface.co/spaces/DAMO-NLP-SG/Video-LLaMA)][[demo (modelscope)](https://www.modelscope.cn/studios/damo/video-llama/summary)][[checkpoints](https://huggingface.co/DAMO-NLP-SG/Video-LLaMA-Series)]
 * [From Clozing to Comprehending: Retrofitting Pre-trained Language Model to Pre-trained Machine Reader](https://arxiv.org/abs/2212.04755)  
