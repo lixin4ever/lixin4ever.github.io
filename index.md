@@ -51,8 +51,9 @@ Weiwen Xu, **Xin Li**, Yang Deng, Lidong Bing and Wai Lam.
 To appear in _[ACL 2023](https://2023.aclweb.org/)_ (Full paper, poster)  
 [[code by Weiwen](https://github.com/DAMO-NLP-SG/PeerDA)]  
 * [Improving Self-training for Cross-lingual Named Entity Recognition with Contrastive and Prototype Learning](https://arxiv.org/abs/2305.13628)  
-Ran Zhou, **Xin Li**, Lidong Bing, Erik Cambria and Chunyan Miao.    
+Ran Zhou, **Xin Li**, Lidong Bing, Erik Cambria and Chunyan Miao.
 To appear in _[ACL 2023](https://2023.aclweb.org/)_ (Full paper, poster)  
+[[code by Ran](https://github.com/DAMO-NLP-SG/ContProto)]
 * [Enhancing Cross-lingual Prompting with Dual Prompt Augmentation](https://arxiv.org/abs/2202.07255)  
 Meng Zhou, **Xin Li**, Yue Jiang and Lidong Bing.  
 To appear in _[Findings of ACL 2023](https://2023.aclweb.org/)_ (Short paper)  
