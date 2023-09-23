@@ -27,9 +27,6 @@ Contact E-mail: [lixin4ever@gmail.com](mailto:lixin4ever@gmail.com).
 Hang Zhang, **Xin Li**, Lidong Bing.  
 _arXiv:2306.02858_  
 [[code](https://github.com/DAMO-NLP-SG/Video-LLaMA)][[demo (hugging face)](https://huggingface.co/spaces/DAMO-NLP-SG/Video-LLaMA)][[demo (modelscope)](https://www.modelscope.cn/studios/damo/video-llama/summary)][[checkpoints](https://huggingface.co/DAMO-NLP-SG/Video-LLaMA-Series)]
-* [From Clozing to Comprehending: Retrofitting Pre-trained Language Model to Pre-trained Machine Reader](https://arxiv.org/abs/2212.04755)  
-Weiwen Xu, **Xin Li**, Wenxuan Zhang, Meng Zhou, Lidong Bing, Wai Lam and Luo Si.  
-_arXiv:2212.04755_  
 * [Unsupervised Cross-lingual Adaptation for Sequence Tagging and Beyond](https://arxiv.org/abs/2010.12405)  
 **Xin Li**, Lidong Bing, Wenxuan Zhang, Zheng Li, Wai Lam.  
 _arXiv:2010.12405_.  
@@ -42,25 +39,29 @@ _arXiv:1903.11800_.
 [[code by Jingchao](https://github.com/STVIR/PMTD)]
 
 ### Publications [[Google Scholar](https://scholar.google.com.hk/citations?user=syD9lxQAAAAJ&hl=zh-CN)]
+* [From Clozing to Comprehending: Retrofitting Pre-trained Language Model to Pre-trained Machine Reader](https://arxiv.org/abs/2212.04755)  
+Weiwen Xu, **Xin Li**, Wenxuan Zhang, Meng Zhou, Lidong Bing, Wai Lam and Luo Si.  
+To appear in _[NeurIPS 2023](https://nips.cc/Conferences/2023/Dates)_ (Full paper, poster)  
+[[code by Weiwen](https://github.com/DAMO-NLP-SG/PMR)]
 * [mPMR: Multilingual Machine Reader Pre-training at Scale](https://arxiv.org/abs/2305.13645)  
 Weiwen Xu, **Xin Li**, Wai Lam and Lidong Bing.    
-To appear in _[ACL 2023](https://2023.aclweb.org/)_ (Short paper, poster)  
+In _[ACL 2023](https://2023.aclweb.org/)_ (Short paper, poster)  
 [[code by Weiwen](https://github.com/DAMO-NLP-SG/PMR)]
 * [PeerDA: Data Augmentation via Modeling Peer Relation for Span Identification Tasks](https://arxiv.org/abs/2210.08855)  
 Weiwen Xu, **Xin Li**, Yang Deng, Lidong Bing and Wai Lam.    
-To appear in _[ACL 2023](https://2023.aclweb.org/)_ (Full paper, poster)  
+In _[ACL 2023](https://2023.aclweb.org/)_ (Full paper, poster)  
 [[code by Weiwen](https://github.com/DAMO-NLP-SG/PeerDA)]  
 * [Improving Self-training for Cross-lingual Named Entity Recognition with Contrastive and Prototype Learning](https://arxiv.org/abs/2305.13628)  
 Ran Zhou, **Xin Li**, Lidong Bing, Erik Cambria and Chunyan Miao.
-To appear in _[ACL 2023](https://2023.aclweb.org/)_ (Full paper, poster)  
+In _[ACL 2023](https://2023.aclweb.org/)_ (Full paper, poster)  
 [[code by Ran](https://github.com/DAMO-NLP-SG/ContProto)]
 * [Enhancing Cross-lingual Prompting with Dual Prompt Augmentation](https://arxiv.org/abs/2202.07255)  
 Meng Zhou, **Xin Li**, Yue Jiang and Lidong Bing.  
-To appear in _[Findings of ACL 2023](https://2023.aclweb.org/)_ (Short paper)  
+In _[Findings of ACL 2023](https://2023.aclweb.org/)_ (Short paper)  
 [[code by Meng](https://github.com/DAMO-NLP-SG/DPA)]
 * [Towards Robust Low-Resource Fine-Tuning with Multi-View Compressed Representations](https://arxiv.org/abs/2211.08794)    
 Linlin Liu, Xingxuan Li, Megh Thakkar, **Xin Li**, Shafiq Joty, Luo Si and Lidong Bing.   
-To appear in _[ACL 2023](https://2023.aclweb.org/)_ (Full paper, poster)  
+In _[ACL 2023](https://2023.aclweb.org/)_ (Full paper, poster)  
 [[code by Xingxuan](https://github.com/DAMO-NLP-SG/MVCR)]
 * [A Survey on Aspect-Based Sentiment Analysis: Tasks, Methods, and Challenges](https://arxiv.org/abs/2203.01054)  
 Wenxuan Zhang, **Xin Li**, Yang Deng, Lidong Bing and Wai Lam.  
