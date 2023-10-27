@@ -22,6 +22,10 @@ Contact E-mail: [lixin4ever@gmail.com](mailto:lixin4ever@gmail.com).
 * **Sep 2014-July 2015,**    Research assistant, SentiNet Group, Sun Yat-Sen University. Supervisor: [Prof. Rao Yanghui](http://sdcs.sysu.edu.cn/node/2471)
 
 ### Preprints
+* [CLEX: Continuous Length Extrapolation for Large Language Models](https://arxiv.org/abs/2310.16450)  
+Guanzheng Chen, **Xin Li**, Zaiqiao Meng, Shangsong Liang, Lidong Bing.  
+_arXiv:2310.16450_.  
+[[code by Guanzheng](https://github.com/DAMO-NLP-SG/CLEX)][[CLEX-7B-Chat-16K](https://huggingface.co/DAMO-NLP-SG/CLEX-7B-Chat-16K)]  
 * [Unsupervised Cross-lingual Adaptation for Sequence Tagging and Beyond](https://arxiv.org/abs/2010.12405)  
 **Xin Li**, Lidong Bing, Wenxuan Zhang, Zheng Li, Wai Lam.  
 _arXiv:2010.12405_.  
@@ -37,14 +41,15 @@ _arXiv:1903.11800_.
 * [Video-LLaMA: An Instruction-tuned Audio-Visual Language Model for Video Understanding](https://arxiv.org/abs/2306.02858)  
 Hang Zhang, **Xin Li**, Lidong Bing.  
 To appear in _[EMNLP 2023](https://2023.emnlp.org/)_ (System Demonstrations).  
-[[code](https://github.com/DAMO-NLP-SG/Video-LLaMA)][[demo (hugging face)](https://huggingface.co/spaces/DAMO-NLP-SG/Video-LLaMA)][[demo (modelscope)](https://www.modelscope.cn/studios/damo/video-llama/summary)][[checkpoints](https://huggingface.co/DAMO-NLP-SG/Video-LLaMA-Series)]
+[[code by Hang](https://github.com/DAMO-NLP-SG/Video-LLaMA)][[demo (hugging face)](https://huggingface.co/spaces/DAMO-NLP-SG/Video-LLaMA)][[demo (modelscope)](https://www.modelscope.cn/studios/damo/video-llama/summary)][[checkpoints](https://huggingface.co/DAMO-NLP-SG/Video-LLaMA-Series)]
 * [Once Upon a _Time_ in _Graph_: Relative-Time Pretraining for Complex Temporal Reasoning]()  
 Sen Yang, **Xin Li**, Lidong Bing, Wai Lam.  
 To appear in _[EMNLP 2023](https://2023.emnlp.org/)_ (Full paper).  
+[[code by Sen](https://github.com/DAMO-NLP-SG/RemeMo)][[RemeMo-Base](https://huggingface.co/DAMO-NLP-SG/rememo-base)][[RemeMo-Large](https://huggingface.co/DAMO-NLP-SG/rememo-large)][[Pretrained Time Identifier](https://huggingface.co/DAMO-NLP-SG/roberta-time_identification)]
 * [From Clozing to Comprehending: Retrofitting Pre-trained Language Model to Pre-trained Machine Reader](https://arxiv.org/abs/2212.04755)  
 Weiwen Xu, **Xin Li**, Wenxuan Zhang, Meng Zhou, Lidong Bing, Wai Lam and Luo Si.  
 To appear in _[NeurIPS 2023](https://nips.cc/Conferences/2023/Dates)_ (Full paper, poster)  
-[[code by Weiwen](https://github.com/DAMO-NLP-SG/PMR)]
+[[code by Weiwen](https://github.com/DAMO-NLP-SG/PMR)][[PMR-xxlarge](https://huggingface.co/DAMO-NLP-SG/PMR-xxlarge)][[Finetuned PMR for NER](https://huggingface.co/DAMO-NLP-SG/NER-PMR-large)][[Finetuned PMR for EQA](https://huggingface.co/DAMO-NLP-SG/EQA-PMR-large)] 
 * [mPMR: Multilingual Machine Reader Pre-training at Scale](https://arxiv.org/abs/2305.13645)  
 Weiwen Xu, **Xin Li**, Wai Lam and Lidong Bing.    
 In _[ACL 2023](https://2023.aclweb.org/)_ (Short paper, poster)  
@@ -54,7 +59,7 @@ Weiwen Xu, **Xin Li**, Yang Deng, Lidong Bing and Wai Lam.
 In _[ACL 2023](https://2023.aclweb.org/)_ (Full paper, poster)  
 [[code by Weiwen](https://github.com/DAMO-NLP-SG/PeerDA)]  
 * [Improving Self-training for Cross-lingual Named Entity Recognition with Contrastive and Prototype Learning](https://arxiv.org/abs/2305.13628)  
-Ran Zhou, **Xin Li**, Lidong Bing, Erik Cambria and Chunyan Miao.
+Ran Zhou, **Xin Li**, Lidong Bing, Erik Cambria and Chunyan Miao.  
 In _[ACL 2023](https://2023.aclweb.org/)_ (Full paper, poster)  
 [[code by Ran](https://github.com/DAMO-NLP-SG/ContProto)]
 * [Enhancing Cross-lingual Prompting with Dual Prompt Augmentation](https://arxiv.org/abs/2202.07255)  
