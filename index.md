@@ -1,7 +1,3 @@
-<!--~~Algorithm Expert (≈ Senior Algorithm Engineer in other companies),  
-[Language Technology Lab](https://damo.alibaba.com/labs/language-technology),  
-[Alibaba DAMO Academy](https://damo.alibaba.com/)~~-->
-
 ### About Me
 I am a Research Engineer at Alibaba DAMO Academy. I obtained my PhD degree from The Chinese University of Hong Kong (CUHK) in 2021, under the supervision of Prof. [Wai Lam](http://www.se.cuhk.edu.hk/people/wlam.html). Before starting my PhD career, I was an undergraduate at Sun Yat-sen University (SYSU). I have interned at [Microsoft Research Asia](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/), [Tencent AI Lab](https://ai.tencent.com/ailab/en/about/) and [Huawei Noah's Ark Lab](http://dev3.noahlab.com.hk/Recruitment-L.html).
 
@@ -21,6 +17,41 @@ Contact E-mail: [lixin4ever@gmail.com](mailto:lixin4ever@gmail.com).
 * **Jul 2015-Jun 2016,**    Research intern, Knowledge Computing Group@Microsoft Research Asia. Mentor: [Dr. Chin-Yew Lin](https://www.microsoft.com/en-us/research/people/cyl/) and [Dr. Jing Liu](http://www.machinereading.ai/)
 * **Sep 2014-July 2015,**    Research assistant, SentiNet Group, Sun Yat-Sen University. Supervisor: [Prof. Rao Yanghui](http://sdcs.sysu.edu.cn/node/2471)
 
+### Recent Publications & Preprints [[Full List](https://scholar.google.com.hk/citations?user=syD9lxQAAAAJ&hl=zh-CN)]
+* [CLEX: Continuous Length Extrapolation for Large Language Models](https://arxiv.org/abs/2310.16450)  
+Guanzheng Chen, **Xin Li**, Zaiqiao Meng, Shangsong Liang, Lidong Bing.  
+_arXiv:2310.16450_.  
+[[code by Guanzheng](https://github.com/DAMO-NLP-SG/CLEX)][[CLEX-7B-Chat-16K](https://huggingface.co/DAMO-NLP-SG/CLEX-7B-Chat-16K)]
+* [Video-LLaMA: An Instruction-tuned Audio-Visual Language Model for Video Understanding](https://arxiv.org/abs/2306.02858)  
+Hang Zhang, **Xin Li**, Lidong Bing.  
+To appear in _[EMNLP 2023](https://2023.emnlp.org/)_ (System Demonstrations).  
+[[code by Hang](https://github.com/DAMO-NLP-SG/Video-LLaMA)][[demo (hugging face)](https://huggingface.co/spaces/DAMO-NLP-SG/Video-LLaMA)][[demo (modelscope)](https://www.modelscope.cn/studios/damo/video-llama/summary)][[checkpoints](https://huggingface.co/DAMO-NLP-SG/Video-LLaMA-Series)]
+* [Once Upon a _Time_ in _Graph_: Relative-Time Pretraining for Complex Temporal Reasoning](https://arxiv.org/abs/2310.14709)  
+Sen Yang, **Xin Li**, Lidong Bing, Wai Lam.  
+To appear in _[EMNLP 2023](https://2023.emnlp.org/)_ (Full paper).  
+[[code by Sen](https://github.com/DAMO-NLP-SG/RemeMo)][[RemeMo-Base](https://huggingface.co/DAMO-NLP-SG/rememo-base)][[RemeMo-Large](https://huggingface.co/DAMO-NLP-SG/rememo-large)][[Pretrained Time Identifier](https://huggingface.co/DAMO-NLP-SG/roberta-time_identification)]
+* [From Clozing to Comprehending: Retrofitting Pre-trained Language Model to Pre-trained Machine Reader](https://arxiv.org/abs/2212.04755)  
+Weiwen Xu, **Xin Li**, Wenxuan Zhang, Meng Zhou, Lidong Bing, Wai Lam and Luo Si.  
+To appear in _[NeurIPS 2023](https://nips.cc/Conferences/2023/Dates)_ (Full paper, poster)  
+[[code by Weiwen](https://github.com/DAMO-NLP-SG/PMR)][[PMR-xxlarge](https://huggingface.co/DAMO-NLP-SG/PMR-xxlarge)][[Finetuned PMR for NER](https://huggingface.co/DAMO-NLP-SG/NER-PMR-large)][[Finetuned PMR for EQA](https://huggingface.co/DAMO-NLP-SG/EQA-PMR-large)] 
+* [mPMR: Multilingual Machine Reader Pre-training at Scale](https://arxiv.org/abs/2305.13645)  
+Weiwen Xu, **Xin Li**, Wai Lam and Lidong Bing.    
+In _[ACL 2023](https://2023.aclweb.org/)_ (Short paper, poster)  
+[[code by Weiwen](https://github.com/DAMO-NLP-SG/PMR)]
+* [PeerDA: Data Augmentation via Modeling Peer Relation for Span Identification Tasks](https://arxiv.org/abs/2210.08855)  
+Weiwen Xu, **Xin Li**, Yang Deng, Lidong Bing and Wai Lam.    
+In _[ACL 2023](https://2023.aclweb.org/)_ (Full paper, poster)  
+[[code by Weiwen](https://github.com/DAMO-NLP-SG/PeerDA)]  
+* [Improving Self-training for Cross-lingual Named Entity Recognition with Contrastive and Prototype Learning](https://arxiv.org/abs/2305.13628)  
+Ran Zhou, **Xin Li**, Lidong Bing, Erik Cambria and Chunyan Miao.  
+In _[ACL 2023](https://2023.aclweb.org/)_ (Full paper, poster)  
+[[code by Ran](https://github.com/DAMO-NLP-SG/ContProto)]
+* [Enhancing Cross-lingual Prompting with Dual Prompt Augmentation](https://arxiv.org/abs/2202.07255)  
+Meng Zhou, **Xin Li**, Yue Jiang and Lidong Bing.  
+In _[Findings of ACL 2023](https://2023.aclweb.org/)_ (Short paper)  
+[[code by Meng](https://github.com/DAMO-NLP-SG/DPA)]
+
+<!--~~
 ### Preprints
 * [CLEX: Continuous Length Extrapolation for Large Language Models](https://arxiv.org/abs/2310.16450)  
 Guanzheng Chen, **Xin Li**, Zaiqiao Meng, Shangsong Liang, Lidong Bing.  
@@ -141,6 +172,7 @@ _Data and Knowledge Engineering Journal_ (**DKE Journal**).
 Xuebo Liu, Shuang Ye, **Xin Li**, Yonghao Luo and Yanghui Rao.  
 In _ICWL 2015_ (_The 14th International Conference on Web-based Learning_).  
 [[slides](paper/ICWL2015/slides/icwl_2015_slides.pdf)]
+~~-->
 
 ### Honors & Awards
 * AAAI Student Scholarship, 2020
@@ -163,10 +195,6 @@ In _ICWL 2015_ (_The 14th International Conference on Web-based Learning_).
 * [Tutorial for Statistical Machine Translation](http://www.lsi.upc.edu/~cristinae/CV/docs/tutorialSMTprint.pdf).
 * [Tutorial for Neural Machine Translation](https://nlp.stanford.edu/projects/nmt/Luong-Cho-Manning-NMT-ACL2016-v4.pdf).
 * [How to write a great research paper](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/07/How-to-write-a-great-research-paper.pdf).
-
-### Social
-* [CSDN (One of the largest Chinese technical community)](http://blog.csdn.net/u010551621)
-* [Zhihu (A Chinese CQA website)](https://www.zhihu.com/people/li-xin-26-75-10)
 
 ### Hobbies
 * Playing basketball
