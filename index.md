@@ -18,6 +18,10 @@ Contact E-mail: [lixin4ever@gmail.com](mailto:lixin4ever@gmail.com).
 * **Sep 2014-July 2015,**    Research assistant, SentiNet Group, Sun Yat-Sen University. Supervisor: [Prof. Rao Yanghui](http://sdcs.sysu.edu.cn/node/2471)
 
 ### Recent Publications & Preprints [[Full List](https://scholar.google.com.hk/citations?user=syD9lxQAAAAJ&hl=zh-CN)]
+* [SeaLLMs -- Large Language Models for Southeast Asia](https://arxiv.org/abs/2312.00738)  
+Xuan-Phi Nguyen, Wenxuan Zhang$^*$, **Xin Li**, Mahani Aljunied, Qingyu Tan, Liying Cheng, Guanzheng Chen, Yue Deng, Sen Yang, Chaoqun Liu, Hang Zhang, Lidong Bing.  
+_arXiv:2312.00738_.  
+[[demo](https://huggingface.co/spaces/SeaLLMs/SeaLLM-Chat-13b)][[SeaLLM-7B-Chat](https://huggingface.co/SeaLLMs/SeaLLM-7B-Chat)][[SeaLLM-13B-Chat](https://huggingface.co/SeaLLMs/SeaLLM-13B-Chat)][[Sea-Bench](https://huggingface.co/datasets/SeaLLMs/Sea-bench)]
 * [CLEX: Continuous Length Extrapolation for Large Language Models](https://arxiv.org/abs/2310.16450)  
 Guanzheng Chen, **Xin Li**, Zaiqiao Meng, Shangsong Liang, Lidong Bing.  
 _arXiv:2310.16450_.  
