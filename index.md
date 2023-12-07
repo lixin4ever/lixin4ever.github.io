@@ -18,6 +18,10 @@ Contact E-mail: [lixin4ever@gmail.com](mailto:lixin4ever@gmail.com).
 * **Sep 2014-July 2015,**    Research assistant, SentiNet Group, Sun Yat-Sen University. Supervisor: [Prof. Rao Yanghui](http://sdcs.sysu.edu.cn/node/2471)
 
 ### Recent Publications & Preprints [[Full List](https://scholar.google.com.hk/citations?user=syD9lxQAAAAJ&hl=zh-CN)]
+* [Mitigating Object Hallucinations in Large Vision-Language Models through Visual Contrastive Decoding](https://arxiv.org/abs/2311.16922)  
+Sicong Leng<sup>* </sup>, Hang Zhang<sup>* </sup>, Guanzheng Chen, **Xin Li**, Shijian Lu, Chunyan Miao, Lidong Bing.  
+_arXiv:2311.16922_  
+[[code by Sicong & Hang](https://github.com/DAMO-NLP-SG/VCD)]  
 * [SeaLLMs -- Large Language Models for Southeast Asia](https://arxiv.org/abs/2312.00738)  
 Xuan-Phi Nguyen<sup>* </sup>, Wenxuan Zhang<sup>* </sup>, **Xin Li**<sup>* </sup>, Mahani Aljunied<sup>* </sup>, Qingyu Tan, Liying Cheng, Guanzheng Chen, Yue Deng, Sen Yang, Chaoqun Liu, Hang Zhang, Lidong Bing.  
 _arXiv:2312.00738_.  
