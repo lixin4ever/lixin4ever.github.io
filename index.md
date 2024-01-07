@@ -32,15 +32,15 @@ _arXiv:2310.16450_.
 [[code by Guanzheng](https://github.com/DAMO-NLP-SG/CLEX)][[CLEX-7B-Chat-16K](https://huggingface.co/DAMO-NLP-SG/CLEX-7B-Chat-16K)]
 * [Video-LLaMA: An Instruction-tuned Audio-Visual Language Model for Video Understanding](https://arxiv.org/abs/2306.02858)  
 Hang Zhang, **Xin Li**, Lidong Bing.  
-To appear in _[EMNLP 2023](https://2023.emnlp.org/)_ (System Demonstrations).  
+In _[EMNLP 2023](https://2023.emnlp.org/)_ (System Demonstrations).  
 [[code by Hang](https://github.com/DAMO-NLP-SG/Video-LLaMA)][[demo (hugging face)](https://huggingface.co/spaces/DAMO-NLP-SG/Video-LLaMA)][[demo (modelscope)](https://www.modelscope.cn/studios/damo/video-llama/summary)][[checkpoints](https://huggingface.co/DAMO-NLP-SG/Video-LLaMA-Series)]
 * [Once Upon a _Time_ in _Graph_: Relative-Time Pretraining for Complex Temporal Reasoning](https://arxiv.org/abs/2310.14709)  
 Sen Yang, **Xin Li**, Lidong Bing, Wai Lam.  
-To appear in _[EMNLP 2023](https://2023.emnlp.org/)_ (Full paper).  
+In _[EMNLP 2023](https://2023.emnlp.org/)_ (Full paper).  
 [[code by Sen](https://github.com/DAMO-NLP-SG/RemeMo)][[RemeMo-Base](https://huggingface.co/DAMO-NLP-SG/rememo-base)][[RemeMo-Large](https://huggingface.co/DAMO-NLP-SG/rememo-large)][[Pretrained Time Identifier](https://huggingface.co/DAMO-NLP-SG/roberta-time_identification)]
 * [From Clozing to Comprehending: Retrofitting Pre-trained Language Model to Pre-trained Machine Reader](https://arxiv.org/abs/2212.04755)  
 Weiwen Xu, **Xin Li**, Wenxuan Zhang, Meng Zhou, Lidong Bing, Wai Lam and Luo Si.  
-To appear in _[NeurIPS 2023](https://nips.cc/Conferences/2023/Dates)_ (Full paper, poster)  
+In _[NeurIPS 2023](https://nips.cc/Conferences/2023/Dates)_ (Full paper, poster)  
 [[code by Weiwen](https://github.com/DAMO-NLP-SG/PMR)][[PMR-xxlarge](https://huggingface.co/DAMO-NLP-SG/PMR-xxlarge)][[Finetuned PMR for NER](https://huggingface.co/DAMO-NLP-SG/NER-PMR-large)][[Finetuned PMR for EQA](https://huggingface.co/DAMO-NLP-SG/EQA-PMR-large)] 
 * [mPMR: Multilingual Machine Reader Pre-training at Scale](https://arxiv.org/abs/2305.13645)  
 Weiwen Xu, **Xin Li**, Wai Lam and Lidong Bing.    
