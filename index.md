@@ -25,7 +25,11 @@ _arXiv:2312.00738_.
 * [Mitigating Object Hallucinations in Large Vision-Language Models through Visual Contrastive Decoding](https://arxiv.org/abs/2311.16922)  
 Sicong Leng<sup>* </sup>, Hang Zhang<sup>* </sup>, Guanzheng Chen, **Xin Li**, Shijian Lu, Chunyan Miao, Lidong Bing.  
 _arXiv:2311.16922_  
-[[code by Sicong & Hang](https://github.com/DAMO-NLP-SG/VCD)]  
+[[code by Sicong & Hang](https://github.com/DAMO-NLP-SG/VCD)]
+* [Neuro-Symbolic Integration Brings Causal and Reliable Reasoning Proofs](https://arxiv.org/abs/2311.09802)  
+Sen Yang, **Xin Li**, Leyang Cui, Lidong Bing, Wai Lam.  
+_arXiv:2311.09802_  
+[[code by Sen](https://github.com/DAMO-NLP-SG/CaRing)]  
 * [CLEX: Continuous Length Extrapolation for Large Language Models](https://arxiv.org/abs/2310.16450)  
 Guanzheng Chen, **Xin Li**, Zaiqiao Meng, Shangsong Liang, Lidong Bing.  
 _arXiv:2310.16450_.  
