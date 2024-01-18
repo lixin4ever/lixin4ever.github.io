@@ -40,7 +40,7 @@ In _[EMNLP 2023](https://2023.emnlp.org/)_ (System Demonstrations).
 [[code by Hang](https://github.com/DAMO-NLP-SG/Video-LLaMA)][[demo (hugging face)](https://huggingface.co/spaces/DAMO-NLP-SG/Video-LLaMA)][[demo (modelscope)](https://www.modelscope.cn/studios/damo/video-llama/summary)][[checkpoints](https://huggingface.co/DAMO-NLP-SG/Video-LLaMA-Series)]
 * [Once Upon a _Time_ in _Graph_: Relative-Time Pretraining for Complex Temporal Reasoning](https://arxiv.org/abs/2310.14709)  
 Sen Yang, **Xin Li**, Lidong Bing, Wai Lam.  
-In _[EMNLP 2023](https://2023.emnlp.org/)_ (Full paper).  
+In _[EMNLP 2023](https://2023.emnlp.org/)_ (Full paper, oral).  
 [[code by Sen](https://github.com/DAMO-NLP-SG/RemeMo)][[RemeMo-Base](https://huggingface.co/DAMO-NLP-SG/rememo-base)][[RemeMo-Large](https://huggingface.co/DAMO-NLP-SG/rememo-large)][[Pretrained Time Identifier](https://huggingface.co/DAMO-NLP-SG/roberta-time_identification)]
 * [From Clozing to Comprehending: Retrofitting Pre-trained Language Model to Pre-trained Machine Reader](https://arxiv.org/abs/2212.04755)  
 Weiwen Xu, **Xin Li**, Wenxuan Zhang, Meng Zhou, Lidong Bing, Wai Lam and Luo Si.  
