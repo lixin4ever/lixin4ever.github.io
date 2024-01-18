@@ -32,7 +32,7 @@ _arXiv:2311.09802_
 [[code by Sen](https://github.com/DAMO-NLP-SG/CaRing)]  
 * [CLEX: Continuous Length Extrapolation for Large Language Models](https://arxiv.org/abs/2310.16450)  
 Guanzheng Chen, **Xin Li**, Zaiqiao Meng, Shangsong Liang, Lidong Bing.  
-_arXiv:2310.16450_.  
+To appear in _[ICLR 2024](https://iclr.cc/Conferences/2024)_ (Full paper, poster).  
 [[code by Guanzheng](https://github.com/DAMO-NLP-SG/CLEX)][[CLEX-7B-Chat-16K](https://huggingface.co/DAMO-NLP-SG/CLEX-7B-Chat-16K)]
 * [Video-LLaMA: An Instruction-tuned Audio-Visual Language Model for Video Understanding](https://arxiv.org/abs/2306.02858)  
 Hang Zhang, **Xin Li**, Lidong Bing.  
