@@ -28,11 +28,11 @@ _arXiv:2311.09802_
 [[code by Sen](https://github.com/DAMO-NLP-SG/CaRing)]
 * [Mitigating Object Hallucinations in Large Vision-Language Models through Visual Contrastive Decoding](https://arxiv.org/abs/2311.16922)  
 Sicong Leng<sup>* </sup>, Hang Zhang<sup>* </sup>, Guanzheng Chen, **Xin Li**, Shijian Lu, Chunyan Miao, Lidong Bing.  
-To appear in _[CVPR 2024](https://cvpr.thecvf.com/)_ (Full paper).  
+To appear in _[CVPR 2024](https://cvpr.thecvf.com/)_ (Full paper, Highlight).  
 [[code by Sicong & Hang](https://github.com/DAMO-NLP-SG/VCD)]  
 * [CLEX: Continuous Length Extrapolation for Large Language Models](https://arxiv.org/abs/2310.16450)  
 Guanzheng Chen, **Xin Li**, Zaiqiao Meng, Shangsong Liang, Lidong Bing.  
-To appear in _[ICLR 2024](https://iclr.cc/Conferences/2024)_ (Full paper, poster).  
+To appear in _[ICLR 2024](https://iclr.cc/Conferences/2024)_ (Full paper, Poster).  
 [[code by Guanzheng](https://github.com/DAMO-NLP-SG/CLEX)][[CLEX-Phi-2](https://huggingface.co/DAMO-NLP-SG/CLEX-Phi-2-32K)][[CLEX-LLaMA-2](https://huggingface.co/DAMO-NLP-SG/CLEX-LLaMA-2-7B-64K)][[CLEX-Mixtral](https://huggingface.co/DAMO-NLP-SG/CLEX-Mixtral-8x7B-32K)][[LongCorpus-2.5B](https://huggingface.co/datasets/DAMO-NLP-SG/LongCorpus-2.5B)]  
 * [Video-LLaMA: An Instruction-tuned Audio-Visual Language Model for Video Understanding](https://arxiv.org/abs/2306.02858)  
 Hang Zhang, **Xin Li**, Lidong Bing.  
@@ -40,23 +40,23 @@ In _[EMNLP 2023](https://2023.emnlp.org/)_ (System Demonstrations).
 [[code by Hang](https://github.com/DAMO-NLP-SG/Video-LLaMA)][[demo (hugging face)](https://huggingface.co/spaces/DAMO-NLP-SG/Video-LLaMA)][[demo (modelscope)](https://www.modelscope.cn/studios/damo/video-llama/summary)][[checkpoints](https://huggingface.co/DAMO-NLP-SG/Video-LLaMA-Series)]
 * [Once Upon a _Time_ in _Graph_: Relative-Time Pretraining for Complex Temporal Reasoning](https://arxiv.org/abs/2310.14709)  
 Sen Yang, **Xin Li**, Lidong Bing, Wai Lam.  
-In _[EMNLP 2023](https://2023.emnlp.org/)_ (Full paper, oral).  
+In _[EMNLP 2023](https://2023.emnlp.org/)_ (Full paper, Oral).  
 [[code by Sen](https://github.com/DAMO-NLP-SG/RemeMo)][[RemeMo-Base](https://huggingface.co/DAMO-NLP-SG/rememo-base)][[RemeMo-Large](https://huggingface.co/DAMO-NLP-SG/rememo-large)][[Pretrained Time Identifier](https://huggingface.co/DAMO-NLP-SG/roberta-time_identification)]
 * [From Clozing to Comprehending: Retrofitting Pre-trained Language Model to Pre-trained Machine Reader](https://arxiv.org/abs/2212.04755)  
 Weiwen Xu, **Xin Li**, Wenxuan Zhang, Meng Zhou, Lidong Bing, Wai Lam and Luo Si.  
-In _[NeurIPS 2023](https://nips.cc/Conferences/2023/Dates)_ (Full paper, poster)  
+In _[NeurIPS 2023](https://nips.cc/Conferences/2023/Dates)_ (Full paper, Poster)  
 [[code by Weiwen](https://github.com/DAMO-NLP-SG/PMR)][[PMR-xxlarge](https://huggingface.co/DAMO-NLP-SG/PMR-xxlarge)][[Finetuned PMR for NER](https://huggingface.co/DAMO-NLP-SG/NER-PMR-large)][[Finetuned PMR for EQA](https://huggingface.co/DAMO-NLP-SG/EQA-PMR-large)] 
 * [mPMR: Multilingual Machine Reader Pre-training at Scale](https://arxiv.org/abs/2305.13645)  
 Weiwen Xu, **Xin Li**, Wai Lam and Lidong Bing.    
-In _[ACL 2023](https://2023.aclweb.org/)_ (Short paper, poster)  
+In _[ACL 2023](https://2023.aclweb.org/)_ (Short paper, Poster)  
 [[code by Weiwen](https://github.com/DAMO-NLP-SG/PMR)]
 * [PeerDA: Data Augmentation via Modeling Peer Relation for Span Identification Tasks](https://arxiv.org/abs/2210.08855)  
 Weiwen Xu, **Xin Li**, Yang Deng, Lidong Bing and Wai Lam.    
-In _[ACL 2023](https://2023.aclweb.org/)_ (Full paper, poster)  
+In _[ACL 2023](https://2023.aclweb.org/)_ (Full paper, Poster)  
 [[code by Weiwen](https://github.com/DAMO-NLP-SG/PeerDA)]  
 * [Improving Self-training for Cross-lingual Named Entity Recognition with Contrastive and Prototype Learning](https://arxiv.org/abs/2305.13628)  
 Ran Zhou, **Xin Li**, Lidong Bing, Erik Cambria and Chunyan Miao.  
-In _[ACL 2023](https://2023.aclweb.org/)_ (Full paper, poster)  
+In _[ACL 2023](https://2023.aclweb.org/)_ (Full paper, Poster)  
 [[code by Ran](https://github.com/DAMO-NLP-SG/ContProto)]
 * [Enhancing Cross-lingual Prompting with Dual Prompt Augmentation](https://arxiv.org/abs/2202.07255)  
 Meng Zhou, **Xin Li**, Yue Jiang and Lidong Bing.  
