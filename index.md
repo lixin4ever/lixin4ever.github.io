@@ -18,21 +18,25 @@ Contact E-mail: [lixin4ever@gmail.com](mailto:lixin4ever@gmail.com).
 * **Sep 2014-July 2015,**    Research assistant, SentiNet Group, Sun Yat-Sen University. Supervisor: [Prof. Rao Yanghui](http://sdcs.sysu.edu.cn/node/2471)
 
 ### Recent Preprints & Publications [[Full List](https://scholar.google.com.hk/citations?user=syD9lxQAAAAJ&hl=zh-CN)]
-* [SeaLLMs -- Large Language Models for Southeast Asia](https://arxiv.org/abs/2312.00738)  
-Xuan-Phi Nguyen<sup>* </sup>, Wenxuan Zhang<sup>* </sup>, **Xin Li**<sup>* </sup>, Mahani Aljunied<sup>* </sup>, Qingyu Tan, Liying Cheng, Guanzheng Chen, Yue Deng, Sen Yang, Chaoqun Liu, Hang Zhang, Lidong Bing.  
-_arXiv:2312.00738_.  
-[[demo](https://huggingface.co/spaces/SeaLLMs/SeaLLM-Chat-13b)][[SeaLLM-7B-Chat](https://huggingface.co/SeaLLMs/SeaLLM-7B-Chat)][[SeaLLM-13B-Chat](https://huggingface.co/SeaLLMs/SeaLLM-13B-Chat)][[Sea-Bench](https://huggingface.co/datasets/SeaLLMs/Sea-bench)]
+* [VideoLLaMA 2: Advancing Spatial-Temporal Modeling and Audio Understanding in Video-LLMs](https://arxiv.org/abs/2406.07476)  
+Zesen Cheng<sup>* </sup>, Sicong Leng<sup>* </sup>, Hang Zhang<sup>* </sup>, Yifei Xin<sup>* </sup>, **Xin Li**<sup>* </sup>, Guanzheng Chen, Yongxin Zhu, Wenqi Zhang, Ziyang Luo, Deli Zhao, Lidong Bing.  
+_arXiv:2406.07476_  
+[[code](https://github.com/DAMO-NLP-SG/VideoLLaMA2)][[demo](https://huggingface.co/spaces/lixin4ever/VideoLLaMA2)]
 * [Neuro-Symbolic Integration Brings Causal and Reliable Reasoning Proofs](https://arxiv.org/abs/2311.09802)  
 Sen Yang, **Xin Li**, Leyang Cui, Lidong Bing, Wai Lam.  
 _arXiv:2311.09802_  
 [[code by Sen](https://github.com/DAMO-NLP-SG/CaRing)]
+* [SeaLLMs -- Large Language Models for Southeast Asia](https://arxiv.org/abs/2312.00738)  
+Xuan-Phi Nguyen<sup>* </sup>, Wenxuan Zhang<sup>* </sup>, **Xin Li**<sup>* </sup>, Mahani Aljunied<sup>* </sup>, Zhiqiang Hu, Chenhui Shen, Yew Ken Chia, Xingxuan Li, Jianyu Wang, Qingyu Tan, Liying Cheng, Guanzheng Chen, Yue Deng, Sen Yang, Chaoqun Liu, Hang Zhang, Lidong Bing.    
+To appear in _[ACL 2024](https://2024.aclweb.org/)_  (System Demonstrations).  
+[[demo](https://huggingface.co/spaces/SeaLLMs/SeaLLM-7B-v2.5)][[SeaLLM-7B-v2](https://huggingface.co/SeaLLMs/SeaLLM-7B-v2)][[SeaLLM-7B-v2.5](https://huggingface.co/SeaLLMs/SeaLLM-7B-v2.5)][[SeaBench](https://huggingface.co/datasets/SeaLLMs/Sea-bench)][[SeaExam](https://huggingface.co/datasets/SeaLLMs/SeaExam)]
 * [Mitigating Object Hallucinations in Large Vision-Language Models through Visual Contrastive Decoding](https://arxiv.org/abs/2311.16922)  
 Sicong Leng<sup>* </sup>, Hang Zhang<sup>* </sup>, Guanzheng Chen, **Xin Li**, Shijian Lu, Chunyan Miao, Lidong Bing.  
 To appear in _[CVPR 2024](https://cvpr.thecvf.com/)_ (Full paper, Highlight).  
 [[code by Sicong & Hang](https://github.com/DAMO-NLP-SG/VCD)]  
 * [CLEX: Continuous Length Extrapolation for Large Language Models](https://arxiv.org/abs/2310.16450)  
 Guanzheng Chen, **Xin Li**, Zaiqiao Meng, Shangsong Liang, Lidong Bing.  
-To appear in _[ICLR 2024](https://iclr.cc/Conferences/2024)_ (Full paper, Poster).  
+In _[ICLR 2024](https://iclr.cc/Conferences/2024)_ (Full paper, Poster).  
 [[code by Guanzheng](https://github.com/DAMO-NLP-SG/CLEX)][[CLEX-Phi-2](https://huggingface.co/DAMO-NLP-SG/CLEX-Phi-2-32K)][[CLEX-LLaMA-2](https://huggingface.co/DAMO-NLP-SG/CLEX-LLaMA-2-7B-64K)][[CLEX-Mixtral](https://huggingface.co/DAMO-NLP-SG/CLEX-Mixtral-8x7B-32K)][[LongCorpus-2.5B](https://huggingface.co/datasets/DAMO-NLP-SG/LongCorpus-2.5B)]  
 * [Video-LLaMA: An Instruction-tuned Audio-Visual Language Model for Video Understanding](https://arxiv.org/abs/2306.02858)  
 Hang Zhang, **Xin Li**, Lidong Bing.  
