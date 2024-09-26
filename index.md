@@ -22,17 +22,21 @@ Contact E-mail: [lixin4ever@gmail.com](mailto:lixin4ever@gmail.com).
 Zesen Cheng<sup>* </sup>, Sicong Leng<sup>* </sup>, Hang Zhang<sup>* </sup>, Yifei Xin<sup>* </sup>, **Xin Li**<sup>* </sup>, Guanzheng Chen, Yongxin Zhu, Wenqi Zhang, Ziyang Luo, Deli Zhao, Lidong Bing.  
 _arXiv:2406.07476_  
 [[code](https://github.com/DAMO-NLP-SG/VideoLLaMA2)][[demo](https://huggingface.co/spaces/lixin4ever/VideoLLaMA2)]
+* [SeaLLMs 3: Open Foundation and Chat Multilingual Large Language Models for Southeast Asian Languages](https://arxiv.org/pdf/2407.19672)  
+Wenxuan Zhang<sup>* </sup>, Hou Pong Chan<sup>* </sup>, Yiran Zhao<sup>* </sup>, Mahani Aljunied<sup>* </sup>, Jianyu Wang<sup>* </sup>, Chaoqun Liu, Yue Deng, Zhiqiang Hu, Weiwen Xu, Yew Ken Chia, **Xin Li**, Lidong Bing.  
+_arXiv:2407.19672_  
+[[model](https://huggingface.co/collections/SeaLLMs/seallms-v3-668f3a52e1e6fbaad5752cdb)][[demo](https://huggingface.co/spaces/SeaLLMs/SeaLLM-Chat)]  
 * [Neuro-Symbolic Integration Brings Causal and Reliable Reasoning Proofs](https://arxiv.org/abs/2311.09802)  
 Sen Yang, **Xin Li**, Leyang Cui, Lidong Bing, Wai Lam.  
 _arXiv:2311.09802_  
 [[code by Sen](https://github.com/DAMO-NLP-SG/CaRing)]
 * [SeaLLMs -- Large Language Models for Southeast Asia](https://arxiv.org/abs/2312.00738)  
 Xuan-Phi Nguyen<sup>* </sup>, Wenxuan Zhang<sup>* </sup>, **Xin Li**<sup>* </sup>, Mahani Aljunied<sup>* </sup>, Zhiqiang Hu, Chenhui Shen, Yew Ken Chia, Xingxuan Li, Jianyu Wang, Qingyu Tan, Liying Cheng, Guanzheng Chen, Yue Deng, Sen Yang, Chaoqun Liu, Hang Zhang, Lidong Bing.    
-To appear in _[ACL 2024](https://2024.aclweb.org/)_  (System Demonstrations).  
+In _[ACL 2024](https://2024.aclweb.org/)_  (System Demonstrations).  
 [[demo](https://huggingface.co/spaces/SeaLLMs/SeaLLM-7B-v2.5)][[SeaLLM-7B-v2](https://huggingface.co/SeaLLMs/SeaLLM-7B-v2)][[SeaLLM-7B-v2.5](https://huggingface.co/SeaLLMs/SeaLLM-7B-v2.5)][[SeaBench](https://huggingface.co/datasets/SeaLLMs/Sea-bench)][[SeaExam](https://huggingface.co/datasets/SeaLLMs/SeaExam)]
 * [Mitigating Object Hallucinations in Large Vision-Language Models through Visual Contrastive Decoding](https://arxiv.org/abs/2311.16922)  
 Sicong Leng<sup>* </sup>, Hang Zhang<sup>* </sup>, Guanzheng Chen, **Xin Li**, Shijian Lu, Chunyan Miao, Lidong Bing.  
-To appear in _[CVPR 2024](https://cvpr.thecvf.com/)_ (Full paper, Highlight).  
+In _[CVPR 2024](https://cvpr.thecvf.com/)_ (Full paper, Highlight).  
 [[code by Sicong & Hang](https://github.com/DAMO-NLP-SG/VCD)]  
 * [CLEX: Continuous Length Extrapolation for Large Language Models](https://arxiv.org/abs/2310.16450)  
 Guanzheng Chen, **Xin Li**, Zaiqiao Meng, Shangsong Liang, Lidong Bing.  
