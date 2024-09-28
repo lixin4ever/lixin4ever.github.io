@@ -59,23 +59,7 @@ In _[EMNLP 2023](https://2023.emnlp.org/)_ (Full paper, Oral).
 * [From Clozing to Comprehending: Retrofitting Pre-trained Language Model to Pre-trained Machine Reader](https://arxiv.org/abs/2212.04755)  
 Weiwen Xu, **Xin Li**, Wenxuan Zhang, Meng Zhou, Lidong Bing, Wai Lam and Luo Si.  
 In _[NeurIPS 2023](https://nips.cc/Conferences/2023/Dates)_ (Full paper, Poster)  
-[[code by Weiwen](https://github.com/DAMO-NLP-SG/PMR)][[PMR-xxlarge](https://huggingface.co/DAMO-NLP-SG/PMR-xxlarge)][[Finetuned PMR for NER](https://huggingface.co/DAMO-NLP-SG/NER-PMR-large)][[Finetuned PMR for EQA](https://huggingface.co/DAMO-NLP-SG/EQA-PMR-large)] 
-* [mPMR: Multilingual Machine Reader Pre-training at Scale](https://arxiv.org/abs/2305.13645)  
-Weiwen Xu, **Xin Li**, Wai Lam and Lidong Bing.    
-In _[ACL 2023](https://2023.aclweb.org/)_ (Short paper, Poster)  
-[[code by Weiwen](https://github.com/DAMO-NLP-SG/PMR)]
-* [PeerDA: Data Augmentation via Modeling Peer Relation for Span Identification Tasks](https://arxiv.org/abs/2210.08855)  
-Weiwen Xu, **Xin Li**, Yang Deng, Lidong Bing and Wai Lam.    
-In _[ACL 2023](https://2023.aclweb.org/)_ (Full paper, Poster)  
-[[code by Weiwen](https://github.com/DAMO-NLP-SG/PeerDA)]  
-* [Improving Self-training for Cross-lingual Named Entity Recognition with Contrastive and Prototype Learning](https://arxiv.org/abs/2305.13628)  
-Ran Zhou, **Xin Li**, Lidong Bing, Erik Cambria and Chunyan Miao.  
-In _[ACL 2023](https://2023.aclweb.org/)_ (Full paper, Poster)  
-[[code by Ran](https://github.com/DAMO-NLP-SG/ContProto)]
-* [Enhancing Cross-lingual Prompting with Dual Prompt Augmentation](https://arxiv.org/abs/2202.07255)  
-Meng Zhou, **Xin Li**, Yue Jiang and Lidong Bing.  
-In _[Findings of ACL 2023](https://2023.aclweb.org/)_ (Short paper)  
-[[code by Meng](https://github.com/DAMO-NLP-SG/DPA)]
+[[code by Weiwen](https://github.com/DAMO-NLP-SG/PMR)][[PMR-xxlarge](https://huggingface.co/DAMO-NLP-SG/PMR-xxlarge)][[Finetuned PMR for NER](https://huggingface.co/DAMO-NLP-SG/NER-PMR-large)][[Finetuned PMR for EQA](https://huggingface.co/DAMO-NLP-SG/EQA-PMR-large)]  
 
 <!--~~
 ### Preprints
