@@ -17,7 +17,7 @@ Contact E-mail: [lixin4ever@gmail.com](mailto:lixin4ever@gmail.com).
 * **Jul 2015-Jun 2016,**    Research intern, Knowledge Computing Group@Microsoft Research Asia. Mentor: [Dr. Chin-Yew Lin](https://www.microsoft.com/en-us/research/people/cyl/) and [Dr. Jing Liu](http://www.machinereading.ai/)
 * **Sep 2014-July 2015,**    Research assistant, SentiNet Group, Sun Yat-Sen University. Supervisor: [Prof. Rao Yanghui](http://sdcs.sysu.edu.cn/node/2471)
 
-### Recent Preprints & Publications [[Full List](https://scholar.google.com.hk/citations?user=syD9lxQAAAAJ&hl=zh-CN)]
+### Recent Preprints & Publications [[Full List](https://scholar.google.com/citations?hl=en&user=syD9lxQAAAAJ&view_op=list_works&sortby=pubdate)]
 * [VideoLLaMA 2: Advancing Spatial-Temporal Modeling and Audio Understanding in Video-LLMs](https://arxiv.org/abs/2406.07476)  
 Zesen Cheng<sup>* </sup>, Sicong Leng<sup>* </sup>, Hang Zhang<sup>* </sup>, Yifei Xin<sup>* </sup>, **Xin Li**<sup>* </sup>, Guanzheng Chen, Yongxin Zhu, Wenqi Zhang, Ziyang Luo, Deli Zhao, Lidong Bing.  
 _arXiv:2406.07476_  
