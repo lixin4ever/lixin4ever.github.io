@@ -30,6 +30,12 @@ _arXiv:2407.19672_
 Sen Yang, **Xin Li**, Leyang Cui, Lidong Bing, Wai Lam.  
 _arXiv:2311.09802_  
 [[code by Sen](https://github.com/DAMO-NLP-SG/CaRing)]
+* [Stabilize the Latent Space for Image Autoregressive Modeling: A Unified Perspective]()  
+Yongxin Zhu, Bocheng Li, Hang Zhang, **Xin Li**, Linli Xu, Lidong Bing.  
+To appear in _[NeurIPS 2024](https://neurips.cc/)_ (Full paper, Poster).
+* [AMR-Evol: Adaptive Modular Response Evolution Elicits Better Knowledge Distillation for Large Language Models in Code Generation]()  
+Ziyang Luo, **Xin Li**, Hongzhan Lin, Jing Ma and Lidong Bing.   
+To appear in _[EMNLP 2024](https://2024.emnlp.org/)_ (Full paper).  
 * [SeaLLMs -- Large Language Models for Southeast Asia](https://arxiv.org/abs/2312.00738)  
 Xuan-Phi Nguyen<sup>* </sup>, Wenxuan Zhang<sup>* </sup>, **Xin Li**<sup>* </sup>, Mahani Aljunied<sup>* </sup>, Zhiqiang Hu, Chenhui Shen, Yew Ken Chia, Xingxuan Li, Jianyu Wang, Qingyu Tan, Liying Cheng, Guanzheng Chen, Yue Deng, Sen Yang, Chaoqun Liu, Hang Zhang, Lidong Bing.    
 In _[ACL 2024](https://2024.aclweb.org/)_  (System Demonstrations).  
