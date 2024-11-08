@@ -18,6 +18,14 @@ Contact E-mail: [lixin4ever@gmail.com](mailto:lixin4ever@gmail.com).
 * **Sep 2014-July 2015,**    Research assistant, SentiNet Group, Sun Yat-Sen University. Supervisor: [Prof. Rao Yanghui](http://sdcs.sysu.edu.cn/node/2471)
 
 ### Recent Preprints & Publications [[Full List](https://scholar.google.com/citations?hl=en&user=syD9lxQAAAAJ&view_op=list_works&sortby=pubdate)]
+* [The Curse of Multi-Modalities: Evaluating Hallucinations of Large Multimodal Models across Language, Visual, and Audio](https://arxiv.org/abs/2410.12787)  
+Sicong Leng, Yun Xing, Zesen Cheng, Yang Zhou, Hang Zhang, **Xin Li**, Deli Zhao, Shijian Lu, Chunyan Miao, Lidong Bing.   
+_arXiv:2410.12787_  
+[[code](https://github.com/DAMO-NLP-SG/CMM)][[leaderboard](http://cmm-damovl.site/)]  
+* [Breaking the Memory Barrier: Near Infinite Batch Size Scaling for Contrastive Loss](https://arxiv.org/abs/2410.17243)  
+Zesen Cheng<sup>* </sup>, Hang Zhang<sup>* </sup>, Kehan Li<sup>* </sup>, Sicong Leng, Zhiqiang Hu, Fei Wu, Deli Zhao, **Xin Li**<sup>^ </sup>, Lidong Bing.  
+_arXiv:2410.17243_  
+[[code](https://github.com/DAMO-NLP-SG/Inf-CLIP)][[pypi](https://pypi.org/project/inf-cl/)]  
 * [VideoLLaMA 2: Advancing Spatial-Temporal Modeling and Audio Understanding in Video-LLMs](https://arxiv.org/abs/2406.07476)  
 Zesen Cheng<sup>* </sup>, Sicong Leng<sup>* </sup>, Hang Zhang<sup>* </sup>, Yifei Xin<sup>* </sup>, **Xin Li**<sup>* </sup>, Guanzheng Chen, Yongxin Zhu, Wenqi Zhang, Ziyang Luo, Deli Zhao, Lidong Bing.  
 _arXiv:2406.07476_  
@@ -26,10 +34,6 @@ _arXiv:2406.07476_
 Wenxuan Zhang<sup>* </sup>, Hou Pong Chan<sup>* </sup>, Yiran Zhao<sup>* </sup>, Mahani Aljunied<sup>* </sup>, Jianyu Wang<sup>* </sup>, Chaoqun Liu, Yue Deng, Zhiqiang Hu, Weiwen Xu, Yew Ken Chia, **Xin Li**, Lidong Bing.  
 _arXiv:2407.19672_  
 [[model](https://huggingface.co/collections/SeaLLMs/seallms-v3-668f3a52e1e6fbaad5752cdb)][[demo](https://huggingface.co/spaces/SeaLLMs/SeaLLM-Chat)]  
-* [Neuro-Symbolic Integration Brings Causal and Reliable Reasoning Proofs](https://arxiv.org/abs/2311.09802)  
-Sen Yang, **Xin Li**, Leyang Cui, Lidong Bing, Wai Lam.  
-_arXiv:2311.09802_  
-[[code by Sen](https://github.com/DAMO-NLP-SG/CaRing)]
 * [Stabilize the Latent Space for Image Autoregressive Modeling: A Unified Perspective]()  
 Yongxin Zhu, Bocheng Li, Hang Zhang, **Xin Li**, Linli Xu, Lidong Bing.  
 To appear in _[NeurIPS 2024](https://neurips.cc/)_ (Full paper, Poster).
@@ -52,14 +56,7 @@ In _[ICLR 2024](https://iclr.cc/Conferences/2024)_ (Full paper, Poster).
 Hang Zhang, **Xin Li**, Lidong Bing.  
 In _[EMNLP 2023](https://2023.emnlp.org/)_ (System Demonstrations).  
 [[code by Hang](https://github.com/DAMO-NLP-SG/Video-LLaMA)][[demo (hugging face)](https://huggingface.co/spaces/DAMO-NLP-SG/Video-LLaMA)][[demo (modelscope)](https://www.modelscope.cn/studios/damo/video-llama/summary)][[checkpoints](https://huggingface.co/DAMO-NLP-SG/Video-LLaMA-Series)]
-* [Once Upon a _Time_ in _Graph_: Relative-Time Pretraining for Complex Temporal Reasoning](https://arxiv.org/abs/2310.14709)  
-Sen Yang, **Xin Li**, Lidong Bing, Wai Lam.  
-In _[EMNLP 2023](https://2023.emnlp.org/)_ (Full paper, Oral).  
-[[code by Sen](https://github.com/DAMO-NLP-SG/RemeMo)][[RemeMo-Base](https://huggingface.co/DAMO-NLP-SG/rememo-base)][[RemeMo-Large](https://huggingface.co/DAMO-NLP-SG/rememo-large)][[Pretrained Time Identifier](https://huggingface.co/DAMO-NLP-SG/roberta-time_identification)]
-* [From Clozing to Comprehending: Retrofitting Pre-trained Language Model to Pre-trained Machine Reader](https://arxiv.org/abs/2212.04755)  
-Weiwen Xu, **Xin Li**, Wenxuan Zhang, Meng Zhou, Lidong Bing, Wai Lam and Luo Si.  
-In _[NeurIPS 2023](https://nips.cc/Conferences/2023/Dates)_ (Full paper, Poster)  
-[[code by Weiwen](https://github.com/DAMO-NLP-SG/PMR)][[PMR-xxlarge](https://huggingface.co/DAMO-NLP-SG/PMR-xxlarge)][[Finetuned PMR for NER](https://huggingface.co/DAMO-NLP-SG/NER-PMR-large)][[Finetuned PMR for EQA](https://huggingface.co/DAMO-NLP-SG/EQA-PMR-large)]  
+  
 
 <!--~~
 ### Preprints
