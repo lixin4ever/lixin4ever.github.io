@@ -77,9 +77,7 @@ In _[ICLR 2024](https://iclr.cc/Conferences/2024)_ (Full paper, Poster).
 Hang Zhang, **Xin Li**, Lidong Bing.  
 In _[EMNLP 2023](https://2023.emnlp.org/)_ (System Demonstrations).  
 [[code by Hang](https://github.com/DAMO-NLP-SG/Video-LLaMA)][[demo (hugging face)](https://huggingface.co/spaces/DAMO-NLP-SG/Video-LLaMA)][[demo (modelscope)](https://www.modelscope.cn/studios/damo/video-llama/summary)][[checkpoints](https://huggingface.co/DAMO-NLP-SG/Video-LLaMA-Series)]
-~~-->  
 
-<!--~~
 ### Preprints
 * [CLEX: Continuous Length Extrapolation for Large Language Models](https://arxiv.org/abs/2310.16450)  
 Guanzheng Chen, **Xin Li**, Zaiqiao Meng, Shangsong Liang, Lidong Bing.  
