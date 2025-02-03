@@ -18,6 +18,23 @@ Contact E-mail: [lixin4ever@gmail.com](mailto:lixin4ever@gmail.com).
 * **Sep 2014-July 2015,**    Research assistant, SentiNet Group, Sun Yat-Sen University. Supervisor: [Prof. Rao Yanghui](http://sdcs.sysu.edu.cn/node/2471)
 
 ### Recent Preprints & Publications [[Full List](https://scholar.google.com/citations?hl=en&user=syD9lxQAAAAJ&view_op=list_works&sortby=pubdate)]
+* [VideoLLaMA 3: Frontier Multimodal Foundation Models for Image and Video Understanding](https://arxiv.org/abs/2501.13106)  
+Boqiang Zhang<sup>* </sup>, Kehan Li<sup>* </sup>, Zesen Cheng<sup>* </sup>, Zhiqiang Hu<sup>* </sup>, Yuqian Yuan<sup>* </sup>, Guanzheng Chen<sup>* </sup>, Sicong Leng<sup>* </sup>, Yuming Jiang<sup>* </sup>, Hang Zhang<sup>* </sup>, **Xin Li**<sup>* </sup>, Peng Jin, Wenqi Zhang, Fan Wang, Lidong Bing, Deli Zhao.    
+_arXiv:2501.13106_  
+[[code](https://github.com/DAMO-NLP-SG/VideoLLaMA3)][[checkpoints & demos](https://huggingface.co/collections/DAMO-NLP-SG/videollama3-678cdda9281a0e32fe79af15)]
+* [VideoLLaMA 2: Advancing Spatial-Temporal Modeling and Audio Understanding in Video-LLMs](https://arxiv.org/abs/2406.07476)  
+Zesen Cheng<sup>* </sup>, Sicong Leng<sup>* </sup>, Hang Zhang<sup>* </sup>, Yifei Xin<sup>* </sup>, **Xin Li**<sup>* </sup>, Guanzheng Chen, Yongxin Zhu, Wenqi Zhang, Ziyang Luo, Deli Zhao, Lidong Bing.  
+_arXiv:2406.07476_  
+[[code](https://github.com/DAMO-NLP-SG/VideoLLaMA2)]
+[[checkpoints & demos](https://huggingface.co/collections/DAMO-NLP-SG/videollama2-6669b6b6f0493188305c87ed)]  
+* [VideoRefer Suite: Advancing Spatial-Temporal Object Understanding with Video LLM](https://arxiv.org/abs/2501.00599)  
+Yuqian Yuan, Hang Zhang, Wentong Li, Zesen Cheng, Boqiang Zhang, Long Li, **Xin Li**, Deli Zhao, Wenqiao Zhang, Yueting Zhuang, Jianke Zhu, Lidong Bing.   
+_arXiv:2501.00599_  
+[[code](https://github.com/DAMO-NLP-SG/VideoRefer)][[checkpoints & benchmark](https://huggingface.co/collections/DAMO-NLP-SG/videorefer-6776851a26815bf20dbd9564)]
+* [2.5 Years in Class: A Multimodal Textbook for Vision-Language Pretraining](https://arxiv.org/abs/2501.00958)  
+Wenqi Zhang, Hang Zhang, **Xin Li**, Jiashuo Sun, Yongliang Shen, Weiming Lu, Deli Zhao, Yueting Zhuang, Lidong Bing.     
+_arXiv:2501.00958_  
+[[code](https://github.com/DAMO-NLP-SG/multimodal_textbook)][[dataset](https://huggingface.co/datasets/DAMO-NLP-SG/multimodal_textbook)]  
 * [The Curse of Multi-Modalities: Evaluating Hallucinations of Large Multimodal Models across Language, Visual, and Audio](https://arxiv.org/abs/2410.12787)  
 Sicong Leng, Yun Xing, Zesen Cheng, Yang Zhou, Hang Zhang, **Xin Li**, Deli Zhao, Shijian Lu, Chunyan Miao, Lidong Bing.   
 _arXiv:2410.12787_  
@@ -25,21 +42,24 @@ _arXiv:2410.12787_
 * [Breaking the Memory Barrier: Near Infinite Batch Size Scaling for Contrastive Loss](https://arxiv.org/abs/2410.17243)  
 Zesen Cheng<sup>* </sup>, Hang Zhang<sup>* </sup>, Kehan Li<sup>* </sup>, Sicong Leng, Zhiqiang Hu, Fei Wu, Deli Zhao, **Xin Li**<sup>^ </sup>, Lidong Bing.  
 _arXiv:2410.17243_  
-[[code](https://github.com/DAMO-NLP-SG/Inf-CLIP)][[pypi](https://pypi.org/project/inf-cl/)]  
-* [VideoLLaMA 2: Advancing Spatial-Temporal Modeling and Audio Understanding in Video-LLMs](https://arxiv.org/abs/2406.07476)  
-Zesen Cheng<sup>* </sup>, Sicong Leng<sup>* </sup>, Hang Zhang<sup>* </sup>, Yifei Xin<sup>* </sup>, **Xin Li**<sup>* </sup>, Guanzheng Chen, Yongxin Zhu, Wenqi Zhang, Ziyang Luo, Deli Zhao, Lidong Bing.  
-_arXiv:2406.07476_  
-[[code](https://github.com/DAMO-NLP-SG/VideoLLaMA2)][[demo](https://huggingface.co/spaces/lixin4ever/VideoLLaMA2)]
+[[code](https://github.com/DAMO-NLP-SG/Inf-CLIP)][[pypi](https://pypi.org/project/inf-cl/)]
+* [LongPO: Long Context Self-Evolution of Large Language Models through Short-to-Long Preference Optimization](https://arxiv.org/abs/2311.09802)  
+Guanzheng Chen, **Xin Li**, Michael Shieh, Lidong Bing.   
+To appear in _[ICLR 2025](https://iclr.cc/)_ (Full paper).   
+* [Neuro-Symbolic Integration Brings Causal and Reliable Reasoning Proofs](https://arxiv.org/abs/2311.09802)  
+Sen Yang, **Xin Li**, Leyang Cui, Lidong Bing, Wai Lam.   
+To appear in _Findings of [NAACL 2025](https://2025.naacl.org/)_ (Full paper).  
+[[code by Sen](https://github.com/DAMO-NLP-SG/CaRing)]
+<!--~~
+* [Stabilize the Latent Space for Image Autoregressive Modeling: A Unified Perspective](https://arxiv.org/abs/2410.12490)  
+Yongxin Zhu, Bocheng Li, Hang Zhang, **Xin Li**, Linli Xu, Lidong Bing.  
+In _[NeurIPS 2024](https://neurips.cc/)_ (Full paper, Poster).
+* [AMR-Evol: Adaptive Modular Response Evolution Elicits Better Knowledge Distillation for Large Language Models in Code Generation]()  
+Ziyang Luo, **Xin Li**, Hongzhan Lin, Jing Ma and Lidong Bing.   
+In _[EMNLP 2024](https://2024.emnlp.org/)_ (Full paper).
 * [SeaLLMs 3: Open Foundation and Chat Multilingual Large Language Models for Southeast Asian Languages](https://arxiv.org/pdf/2407.19672)  
 Wenxuan Zhang<sup>* </sup>, Hou Pong Chan<sup>* </sup>, Yiran Zhao<sup>* </sup>, Mahani Aljunied<sup>* </sup>, Jianyu Wang<sup>* </sup>, Chaoqun Liu, Yue Deng, Zhiqiang Hu, Weiwen Xu, Yew Ken Chia, **Xin Li**, Lidong Bing.  
 _arXiv:2407.19672_  
-[[model](https://huggingface.co/collections/SeaLLMs/seallms-v3-668f3a52e1e6fbaad5752cdb)][[demo](https://huggingface.co/spaces/SeaLLMs/SeaLLM-Chat)]  
-* [Stabilize the Latent Space for Image Autoregressive Modeling: A Unified Perspective]()  
-Yongxin Zhu, Bocheng Li, Hang Zhang, **Xin Li**, Linli Xu, Lidong Bing.  
-To appear in _[NeurIPS 2024](https://neurips.cc/)_ (Full paper, Poster).
-* [AMR-Evol: Adaptive Modular Response Evolution Elicits Better Knowledge Distillation for Large Language Models in Code Generation]()  
-Ziyang Luo, **Xin Li**, Hongzhan Lin, Jing Ma and Lidong Bing.   
-To appear in _[EMNLP 2024](https://2024.emnlp.org/)_ (Full paper).  
 * [SeaLLMs -- Large Language Models for Southeast Asia](https://arxiv.org/abs/2312.00738)  
 Xuan-Phi Nguyen<sup>* </sup>, Wenxuan Zhang<sup>* </sup>, **Xin Li**<sup>* </sup>, Mahani Aljunied<sup>* </sup>, Zhiqiang Hu, Chenhui Shen, Yew Ken Chia, Xingxuan Li, Jianyu Wang, Qingyu Tan, Liying Cheng, Guanzheng Chen, Yue Deng, Sen Yang, Chaoqun Liu, Hang Zhang, Lidong Bing.    
 In _[ACL 2024](https://2024.aclweb.org/)_  (System Demonstrations).  
@@ -56,7 +76,7 @@ In _[ICLR 2024](https://iclr.cc/Conferences/2024)_ (Full paper, Poster).
 Hang Zhang, **Xin Li**, Lidong Bing.  
 In _[EMNLP 2023](https://2023.emnlp.org/)_ (System Demonstrations).  
 [[code by Hang](https://github.com/DAMO-NLP-SG/Video-LLaMA)][[demo (hugging face)](https://huggingface.co/spaces/DAMO-NLP-SG/Video-LLaMA)][[demo (modelscope)](https://www.modelscope.cn/studios/damo/video-llama/summary)][[checkpoints](https://huggingface.co/DAMO-NLP-SG/Video-LLaMA-Series)]
-  
+~~-->  
 
 <!--~~
 ### Preprints
