@@ -50,6 +50,7 @@ To appear in _[ICLR 2025](https://iclr.cc/)_ (Full paper).
 Sen Yang, **Xin Li**, Leyang Cui, Lidong Bing, Wai Lam.   
 To appear in _Findings of [NAACL 2025](https://2025.naacl.org/)_ (Full paper).  
 [[code by Sen](https://github.com/DAMO-NLP-SG/CaRing)]
+
 <!--~~
 * [Stabilize the Latent Space for Image Autoregressive Modeling: A Unified Perspective](https://arxiv.org/abs/2410.12490)  
 Yongxin Zhu, Bocheng Li, Hang Zhang, **Xin Li**, Linli Xu, Lidong Bing.  
