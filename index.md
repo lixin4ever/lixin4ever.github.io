@@ -27,10 +27,6 @@ Zesen Cheng<sup>* </sup>, Sicong Leng<sup>* </sup>, Hang Zhang<sup>* </sup>, Yif
 _arXiv:2406.07476_  
 [[code](https://github.com/DAMO-NLP-SG/VideoLLaMA2)]
 [[checkpoints & demos](https://huggingface.co/collections/DAMO-NLP-SG/videollama2-6669b6b6f0493188305c87ed)]  
-* [VideoRefer Suite: Advancing Spatial-Temporal Object Understanding with Video LLM](https://arxiv.org/abs/2501.00599)  
-Yuqian Yuan, Hang Zhang, Wentong Li, Zesen Cheng, Boqiang Zhang, Long Li, **Xin Li**, Deli Zhao, Wenqiao Zhang, Yueting Zhuang, Jianke Zhu, Lidong Bing.   
-_arXiv:2501.00599_  
-[[code](https://github.com/DAMO-NLP-SG/VideoRefer)][[checkpoints & benchmark](https://huggingface.co/collections/DAMO-NLP-SG/videorefer-6776851a26815bf20dbd9564)]
 * [2.5 Years in Class: A Multimodal Textbook for Vision-Language Pretraining](https://arxiv.org/abs/2501.00958)  
 Wenqi Zhang, Hang Zhang, **Xin Li**, Jiashuo Sun, Yongliang Shen, Weiming Lu, Deli Zhao, Yueting Zhuang, Lidong Bing.     
 _arXiv:2501.00958_  
@@ -38,14 +34,26 @@ _arXiv:2501.00958_
 * [The Curse of Multi-Modalities: Evaluating Hallucinations of Large Multimodal Models across Language, Visual, and Audio](https://arxiv.org/abs/2410.12787)  
 Sicong Leng, Yun Xing, Zesen Cheng, Yang Zhou, Hang Zhang, **Xin Li**, Deli Zhao, Shijian Lu, Chunyan Miao, Lidong Bing.   
 _arXiv:2410.12787_  
-[[code](https://github.com/DAMO-NLP-SG/CMM)][[leaderboard](http://cmm-damovl.site/)]  
+[[code](https://github.com/DAMO-NLP-SG/CMM)][[leaderboard](http://cmm-damovl.site/)]
+* [Long-Context Inference with Retrieval-Augmented Speculative Decoding](https://arxiv.org/abs/2502.20330)  
+Guanzheng Chen<sup>* </sup>, Qilong Feng<sup>* </sup>, Jinjie Ni, **Xin Li**, Michael Qizhe Shieh.  
+To appear in _[ICML 2025](https://icml.cc/)_  (Full paper, spotlight)
+[[code](https://github.com/John-AI-Lab/RAPID)]
 * [Breaking the Memory Barrier: Near Infinite Batch Size Scaling for Contrastive Loss](https://arxiv.org/abs/2410.17243)  
 Zesen Cheng<sup>* </sup>, Hang Zhang<sup>* </sup>, Kehan Li<sup>* </sup>, Sicong Leng, Zhiqiang Hu, Fei Wu, Deli Zhao, **Xin Li**<sup>^ </sup>, Lidong Bing.  
-_arXiv:2410.17243_  
-[[code](https://github.com/DAMO-NLP-SG/Inf-CLIP)][[pypi](https://pypi.org/project/inf-cl/)]
+To appear in _[CVPR 2025](https://cvpr.thecvf.com/)_  (Full paper, highlight)  
+[[code](https://github.com/DAMO-NLP-SG/Inf-CLIP)][[pypi](https://pypi.org/project/inf-cl/)]  
+* [VideoRefer Suite: Advancing Spatial-Temporal Object Understanding with Video LLM](https://arxiv.org/abs/2501.00599)  
+Yuqian Yuan, Hang Zhang, Wentong Li, Zesen Cheng, Boqiang Zhang, Long Li, **Xin Li**, Deli Zhao, Wenqiao Zhang, Yueting Zhuang, Jianke Zhu, Lidong Bing.   
+To appear in _[CVPR 2025](https://cvpr.thecvf.com/)_ (Full paper, poster)  
+[[code](https://github.com/DAMO-NLP-SG/VideoRefer)][[checkpoints & benchmark](https://huggingface.co/collections/DAMO-NLP-SG/videorefer-6776851a26815bf20dbd9564)]
+* [ECBench: Can Multi-modal Foundation Models Understand the Egocentric World? A Holistic Embodied Cognition Benchmark](https://arxiv.org/abs/2501.05031)  
+Ronghao Dang, Yuqian Yuan, Wenqi Zhang, Yifei Xin, Boqiang Zhang, Long Li, Liuyi Wang, Qinyang Zeng, **Xin Li**, Lidong Bing.     
+To appear in _[CVPR 2025](https://cvpr.thecvf.com/)_ (Full paper, poster)  
+[[code & benchmark](https://github.com/rh-dang/ecbench)]  
 * [LongPO: Long Context Self-Evolution of Large Language Models through Short-to-Long Preference Optimization](https://arxiv.org/abs/2311.09802)  
 Guanzheng Chen, **Xin Li**, Michael Shieh, Lidong Bing.   
-To appear in _[ICLR 2025](https://iclr.cc/)_ (Full paper).   
+In _[ICLR 2025](https://iclr.cc/)_ (Full paper, poster).   
 * [Neuro-Symbolic Integration Brings Causal and Reliable Reasoning Proofs](https://arxiv.org/abs/2311.09802)  
 Sen Yang, **Xin Li**, Leyang Cui, Lidong Bing, Wai Lam.   
 To appear in _Findings of [NAACL 2025](https://2025.naacl.org/)_ (Full paper).  
