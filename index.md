@@ -17,7 +17,7 @@ Contact E-mail: [lixin4ever@gmail.com](mailto:lixin4ever@gmail.com).
 * **Jul 2015-Jun 2016,**    Research intern, Knowledge Computing Group@Microsoft Research Asia. Mentor: [Dr. Chin-Yew Lin](https://www.microsoft.com/en-us/research/people/cyl/) and [Dr. Jing Liu](http://www.machinereading.ai/)
 * **Sep 2014-July 2015,**    Research assistant, SentiNet Group, Sun Yat-Sen University. Supervisor: [Prof. Rao Yanghui](http://sdcs.sysu.edu.cn/node/2471)
 
-### Recent Research Projects [[Full list](https://scholar.google.com/citations?hl=en&user=syD9lxQAAAAJ&view_op=list_works&sortby=pubdate)]
+### Recent Works [[Full list](https://scholar.google.com/citations?hl=en&user=syD9lxQAAAAJ&view_op=list_works&sortby=pubdate)]
 * [RynnVLA-001: Using Human Demonstrations to Improve Robot Manipulation](https://huggingface.co/blog/Alibaba-DAMO-Academy/rynnvla-001)  
 Yuming Jiang, Siteng Huang, Shengke Xue, Yaxi Zhao, Jun Cen, Sicong Leng, Kehan Li, Jiayan Guo, Kexiang Wang, Mingxiu Chen, Fan Wang, Deli Zhao, **Xin Li**.     
 [[code](https://github.com/alibaba-damo-academy/RynnVLA-001)][[blog](https://huggingface.co/blog/Alibaba-DAMO-Academy/rynnvla-001)][[checkpoint](https://huggingface.co/Alibaba-DAMO-Academy/RynnVLA-001-7B-Base)]
@@ -29,6 +29,10 @@ _arXiv:2508.14160_
 Boqiang Zhang<sup>* </sup>, Kehan Li<sup>* </sup>, Zesen Cheng<sup>* </sup>, Zhiqiang Hu<sup>* </sup>, Yuqian Yuan<sup>* </sup>, Guanzheng Chen<sup>* </sup>, Sicong Leng<sup>* </sup>, Yuming Jiang<sup>* </sup>, Hang Zhang<sup>* </sup>, **Xin Li**<sup>* </sup>, Peng Jin, Wenqi Zhang, Fan Wang, Lidong Bing, Deli Zhao.    
 _arXiv:2501.13106_  
 [[code](https://github.com/DAMO-NLP-SG/VideoLLaMA3)][[checkpoints & demos](https://huggingface.co/collections/DAMO-NLP-SG/videollama3-678cdda9281a0e32fe79af15)]
+* [EOC-Bench: Can MLLMs Identify, Recall, and Forecast Objects in an Egocentric World?](https://arxiv.org/abs/2506.05287)  
+Yuqian Yuan, Ronghao Dang, Long Li, Wentong Li, Dian Jiao, **Xin Li**, Deli Zhao, Fan Wang, Wenqiao Zhang, Jun Xiao, Yueting Zhuang.  
+[[code](https://github.com/alibaba-damo-academy/EOCBench)][[benchmark](https://huggingface.co/datasets/CircleRadon/EOC-Bench)]  
+To appear in _[NeurIPS D&B Track 2025](https://neurips.cc/Conferences/2025/CallForDatasetsBenchmarks)_ (Full paper, poster)  
 * [2.5 Years in Class: A Multimodal Textbook for Vision-Language Pretraining](https://arxiv.org/abs/2501.00958)  
 Wenqi Zhang, Hang Zhang, **Xin Li**, Jiashuo Sun, Yongliang Shen, Weiming Lu, Deli Zhao, Yueting Zhuang, Lidong Bing.     
 To appear in _[ICCV 2025](https://iccv.thecvf.com/)_ (Full paper, highlight)  
@@ -67,4 +71,5 @@ In _[CVPR 2025](https://cvpr.thecvf.com/)_ (Full paper, poster)
 * Playing basketball
 * Swimming
 * Hiking
+
 
