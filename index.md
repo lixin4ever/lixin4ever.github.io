@@ -40,7 +40,7 @@ To appear in _[ICCV 2025](https://iccv.thecvf.com/)_ (Full paper, highlight)
 * [VideoRefer Suite: Advancing Spatial-Temporal Object Understanding with Video LLM](https://arxiv.org/abs/2501.00599)  
 Yuqian Yuan, Hang Zhang, Wentong Li, Zesen Cheng, Boqiang Zhang, Long Li, **Xin Li**, Deli Zhao, Wenqiao Zhang, Yueting Zhuang, Jianke Zhu, Lidong Bing.   
 In _[CVPR 2025](https://cvpr.thecvf.com/)_ (Full paper, poster)  
-[[code (**new**)](https://github.com/DAMO-NLP-SG/VideoRefer/tree/main/videorefer_videollama3)][[videorefer-700k](https://huggingface.co/datasets/DAMO-NLP-SG/VideoRefer-700K)][videorefer-bench](https://huggingface.co/datasets/DAMO-NLP-SG/VideoRefer-Bench)][[videorefer-videollama3 (**new**)](https://huggingface.co/collections/DAMO-NLP-SG/videorefer-6776851a26815bf20dbd9564)]
+[[code (**new**)](https://github.com/DAMO-NLP-SG/VideoRefer/tree/main/videorefer_videollama3)][[videorefer-700k](https://huggingface.co/datasets/DAMO-NLP-SG/VideoRefer-700K)][[videorefer-bench](https://huggingface.co/datasets/DAMO-NLP-SG/VideoRefer-Bench)][[videorefer-videollama3 (**new**)](https://huggingface.co/collections/DAMO-NLP-SG/videorefer-6776851a26815bf20dbd9564)]
 
 
 
@@ -71,5 +71,6 @@ In _[CVPR 2025](https://cvpr.thecvf.com/)_ (Full paper, poster)
 * Playing basketball
 * Swimming
 * Hiking
+
 
 
