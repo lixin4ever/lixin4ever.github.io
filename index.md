@@ -1,26 +1,34 @@
 ### About Me
-I am a Research Engineer at Alibaba DAMO Academy. I obtained my PhD degree from The Chinese University of Hong Kong (CUHK) in 2021, under the supervision of Prof. [Wai Lam](http://www.se.cuhk.edu.hk/people/wlam.html). Before starting my PhD career, I was an undergraduate at Sun Yat-sen University (SYSU). I have interned at [Microsoft Research Asia](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/), [Tencent AI Lab](https://ai.tencent.com/ailab/en/about/) and [Huawei Noah's Ark Lab](http://dev3.noahlab.com.hk/Recruitment-L.html).
+I am a Research Engineer at Alibaba DAMO Academy. I lead a small (but great) team to build multimodal foundation models that perceive, reason and act in physical world. 
 
-Contact E-mail: [lixin4ever@gmail.com](mailto:lixin4ever@gmail.com).
 
 ### Research Interests 
-* Efficient LLM Fine-tuning & Inference
-* Multimodal & Multilingual LLMs
+* Multimodal LLMs for Robot Perception & Manipulation 
+* Generalist Vision-Language-Action Models
+* Action Policy Beyond 2D Vision
 
 ### Education
 * **2016-2021,**    Ph.D., The Chinese University of Hong Kong, [Department of Systems Engineering and Engineering Management](http://www.se.cuhk.edu.hk/). Advisor: [Prof. Wai Lam](http://www.se.cuhk.edu.hk/people/wlam.html)
 * **2012-2016,**    B.Eng., Sun Yat-Sen University, [School of Computer Science and Engineering](http://sdcs.sysu.edu.cn/)
 
 ### Experiences
-* **Jul 2020-Feb 2021,**    Research Intern, Speech and Semantics Group@Huawei Noah's Ark Lab. Mentor: Dr. Yi Liao.
-* **Jan 2018-Apr 2018,**    Research Intern, NLP Center@Tencent AI Lab. Mentor: [Dr. Lidong Bing](http://www.cs.cmu.edu/~lbing/) and [Dr. Piji Li](http://lipiji.com/).
-* **Jul 2015-Jun 2016,**    Research intern, Knowledge Computing Group@Microsoft Research Asia. Mentor: [Dr. Chin-Yew Lin](https://www.microsoft.com/en-us/research/people/cyl/) and [Dr. Jing Liu](http://www.machinereading.ai/)
+* **Mar 2021-,**             Research Engineer, Alibaba DAMO Academy.
+* **Jul 2020-Feb 2021,**    Research Intern, Huawei Noah's Ark Lab. Mentor: [Dr. Yi Liao](https://scholar.google.com/citations?user=LzPznOEAAAAJ&hl=en).
+* **Jan 2018-Apr 2018,**    Research Intern, Tencent AI Lab. Mentor: [Dr. Lidong Bing](http://www.cs.cmu.edu/~lbing/) and [Dr. Piji Li](http://lipiji.com/).
+* **Jul 2015-Jun 2016,**    Research intern, Microsoft Research Asia. Mentor: [Dr. Chin-Yew Lin](https://www.microsoft.com/en-us/research/people/cyl/) and [Dr. Jing Liu](http://www.machinereading.ai/)
 * **Sep 2014-July 2015,**    Research assistant, SentiNet Group, Sun Yat-Sen University. Supervisor: [Prof. Rao Yanghui](http://sdcs.sysu.edu.cn/node/2471)
 
 ### Recent Works [[Full list](https://scholar.google.com/citations?hl=en&user=syD9lxQAAAAJ&view_op=list_works&sortby=pubdate)]
-* [RynnVLA-001: Using Human Demonstrations to Improve Robot Manipulation](https://huggingface.co/blog/Alibaba-DAMO-Academy/rynnvla-001)  
+* [RynnBrain: Open Embodied Foundation Models](https://alibaba-damo-academy.github.io/RynnBrain.github.io/)  
+RynnBrain Team.  
+[[code (RynnScale)](https://github.com/alibaba-damo-academy/RynnScale)][[code (eval \& infer)](https://github.com/alibaba-damo-academy/RynnBrain/)][[checkpoints & demos](https://huggingface.co/collections/Alibaba-DAMO-Academy/rynnbrain)]  
+* [RynnVLA-002: A Unified Vision-Language-Action and World Model](https://arxiv.org/abs/2511.17502)  
+Jun Cen<sup>* </sup>, Siteng Huang<sup>* </sup>, Yuqian Yuan<sup>* </sup>, Kehan Li<sup>* </sup>, Hangjie Yuan, Chaohui Yu, Yuming Jiang, Jiayan Guo, **Xin Li**, Hao Luo, Fan Wang, Deli Zhao, Hao Chen.      
+[[code](https://github.com/alibaba-damo-academy/RynnVLA-002)][[checkpoint](https://huggingface.co/Alibaba-DAMO-Academy/RynnVLA-002)]  
+* [RynnVLA-001: Using Human Demonstrations to Improve Robot Manipulation](https://arxiv.org/abs/2509.15212)  
 Yuming Jiang, Siteng Huang, Shengke Xue, Yaxi Zhao, Jun Cen, Sicong Leng, Kehan Li, Jiayan Guo, Kexiang Wang, Mingxiu Chen, Fan Wang, Deli Zhao, **Xin Li**.     
-[[code](https://github.com/alibaba-damo-academy/RynnVLA-001)][[blog](https://huggingface.co/blog/Alibaba-DAMO-Academy/rynnvla-001)][[checkpoint](https://huggingface.co/Alibaba-DAMO-Academy/RynnVLA-001-7B-Base)]
+[[code](https://github.com/alibaba-damo-academy/RynnVLA-001)][[blog](https://huggingface.co/blog/Alibaba-DAMO-Academy/rynnvla-001)][[checkpoint](https://huggingface.co/Alibaba-DAMO-Academy/RynnVLA-001-7B-Base)]  
+To appear in _[ICRA 2026](https://2026.ieee-icra.org/)_ (Full paper)
 * [RynnEC: Bringing MLLMs into Embodied World](https://arxiv.org/abs/2508.14160)  
 Ronghao Dang<sup>* </sup>, Yuqian Yuan<sup>* </sup>, Yunxuan Mao<sup>* </sup>, Kehan Li<sup>* </sup>, Jiangpin Liu, Zhikai Wang, Fan Wang, Deli Zhao, **Xin Li**.     
 _arXiv:2508.14160_  
@@ -32,15 +40,19 @@ _arXiv:2501.13106_
 * [EOC-Bench: Can MLLMs Identify, Recall, and Forecast Objects in an Egocentric World?](https://arxiv.org/abs/2506.05287)  
 Yuqian Yuan, Ronghao Dang, Long Li, Wentong Li, Dian Jiao, **Xin Li**, Deli Zhao, Fan Wang, Wenqiao Zhang, Jun Xiao, Yueting Zhuang.  
 [[code](https://github.com/alibaba-damo-academy/EOCBench)][[benchmark](https://huggingface.co/datasets/CircleRadon/EOC-Bench)]  
-To appear in _[NeurIPS D&B Track 2025](https://neurips.cc/Conferences/2025/CallForDatasetsBenchmarks)_ (Full paper, poster)  
+In _[NeurIPS D&B Track 2025](https://neurips.cc/Conferences/2025/CallForDatasetsBenchmarks)_ (Full paper, poster)  
 * [2.5 Years in Class: A Multimodal Textbook for Vision-Language Pretraining](https://arxiv.org/abs/2501.00958)  
 Wenqi Zhang, Hang Zhang, **Xin Li**, Jiashuo Sun, Yongliang Shen, Weiming Lu, Deli Zhao, Yueting Zhuang, Lidong Bing.     
-To appear in _[ICCV 2025](https://iccv.thecvf.com/)_ (Full paper, highlight)  
+In _[ICCV 2025](https://iccv.thecvf.com/)_ (Full paper, highlight)  
 [[code](https://github.com/DAMO-NLP-SG/multimodal_textbook)][[dataset](https://huggingface.co/datasets/DAMO-NLP-SG/multimodal_textbook)]  
 * [VideoRefer Suite: Advancing Spatial-Temporal Object Understanding with Video LLM](https://arxiv.org/abs/2501.00599)  
 Yuqian Yuan, Hang Zhang, Wentong Li, Zesen Cheng, Boqiang Zhang, Long Li, **Xin Li**, Deli Zhao, Wenqiao Zhang, Yueting Zhuang, Jianke Zhu, Lidong Bing.   
 In _[CVPR 2025](https://cvpr.thecvf.com/)_ (Full paper, poster)  
 [[code (**new**)](https://github.com/DAMO-NLP-SG/VideoRefer/tree/main/videorefer_videollama3)][[videorefer-700k](https://huggingface.co/datasets/DAMO-NLP-SG/VideoRefer-700K)][[videorefer-bench](https://huggingface.co/datasets/DAMO-NLP-SG/VideoRefer-Bench)][[videorefer-videollama3 (**new**)](https://huggingface.co/collections/DAMO-NLP-SG/videorefer-6776851a26815bf20dbd9564)]
+* [ECBench: Can Multi-modal Foundation Models Understand the Egocentric World? A Holistic Embodied Cognition Benchmark](https://arxiv.org/abs/2511.17502)  
+Ronghao Dang, Yuqian Yuan, Wenqi Zhang, Yifei Xin, Boqiang Zhang, Long Li, Liuyi Wang, Qinyang Zeng, **Xin Li**, Lidong Bing.   
+In _[CVPR 2025](https://cvpr.thecvf.com/)_ (Full paper, poster)  
+[[code](https://github.com/Rh-Dang/ECBench?tab=readme-ov-file)][[dataset](https://github.com/Rh-Dang/ECBench/tree/main/data)]
 
 
 
@@ -71,6 +83,7 @@ In _[CVPR 2025](https://cvpr.thecvf.com/)_ (Full paper, poster)
 * Playing basketball
 * Swimming
 * Hiking
+
 
 
 
