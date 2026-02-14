@@ -21,7 +21,7 @@ I am a Research Engineer at Alibaba DAMO Academy. I lead a small (but great) tea
 ### Recent Works [[Full list](https://scholar.google.com/citations?hl=en&user=syD9lxQAAAAJ&view_op=list_works&sortby=pubdate)]
 * [RynnBrain: Open Embodied Foundation Models](https://alibaba-damo-academy.github.io/RynnBrain.github.io/)  
 RynnBrain Team.  
-[[code (RynnScale)](https://github.com/alibaba-damo-academy/RynnScale)][[code (eval \& infer)](https://github.com/alibaba-damo-academy/RynnBrain/)][[checkpoints & demos](https://huggingface.co/collections/Alibaba-DAMO-Academy/rynnbrain)]  
+[[code (RynnScale)](https://github.com/alibaba-damo-academy/RynnScale)][[code (eval & infer)](https://github.com/alibaba-damo-academy/RynnBrain/)][[checkpoints & demos](https://huggingface.co/collections/Alibaba-DAMO-Academy/rynnbrain)]  
 * [RynnVLA-002: A Unified Vision-Language-Action and World Model](https://arxiv.org/abs/2511.17502)  
 Jun Cen<sup>* </sup>, Siteng Huang<sup>* </sup>, Yuqian Yuan<sup>* </sup>, Kehan Li<sup>* </sup>, Hangjie Yuan, Chaohui Yu, Yuming Jiang, Jiayan Guo, **Xin Li**, Hao Luo, Fan Wang, Deli Zhao, Hao Chen.      
 [[code](https://github.com/alibaba-damo-academy/RynnVLA-002)][[checkpoint](https://huggingface.co/Alibaba-DAMO-Academy/RynnVLA-002)]  
@@ -83,6 +83,7 @@ In _[CVPR 2025](https://cvpr.thecvf.com/)_ (Full paper, poster)
 * Playing basketball
 * Swimming
 * Hiking
+
 
 
 
