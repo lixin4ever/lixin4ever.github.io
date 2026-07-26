@@ -38,30 +38,14 @@ Jun Cen<sup>* </sup>, Siteng Huang<sup>* </sup>, Yuqian Yuan<sup>* </sup>, Kehan
 Yuming Jiang, Siteng Huang, Shengke Xue, Yaxi Zhao, Jun Cen, Sicong Leng, Kehan Li, Jiayan Guo, Kexiang Wang, Mingxiu Chen, Fan Wang, Deli Zhao, **Xin Li**.     
 [[code](https://github.com/alibaba-damo-academy/RynnVLA-001)][[blog](https://huggingface.co/blog/Alibaba-DAMO-Academy/rynnvla-001)][[checkpoint](https://huggingface.co/Alibaba-DAMO-Academy/RynnVLA-001-7B-Base)]  
 To appear in _[ICRA 2026](https://2026.ieee-icra.org/)_ (Full paper)
-* [RynnEC: Bringing MLLMs into Embodied World](https://arxiv.org/abs/2508.14160)  
-Ronghao Dang<sup>* </sup>, Yuqian Yuan<sup>* </sup>, Yunxuan Mao<sup>* </sup>, Kehan Li<sup>* </sup>, Jiangpin Liu, Zhikai Wang, Fan Wang, Deli Zhao, **Xin Li**.     
-_arXiv:2508.14160_  
-[[code](https://github.com/alibaba-damo-academy/RynnEC)][[checkpoints & demos](https://huggingface.co/collections/Alibaba-DAMO-Academy/rynnec-6893547fe802ace82cee8884)]
 * [VideoLLaMA 3: Frontier Multimodal Foundation Models for Image and Video Understanding](https://arxiv.org/abs/2501.13106)  
 Boqiang Zhang<sup>* </sup>, Kehan Li<sup>* </sup>, Zesen Cheng<sup>* </sup>, Zhiqiang Hu<sup>* </sup>, Yuqian Yuan<sup>* </sup>, Guanzheng Chen<sup>* </sup>, Sicong Leng<sup>* </sup>, Yuming Jiang<sup>* </sup>, Hang Zhang<sup>* </sup>, **Xin Li**<sup>* </sup>, Peng Jin, Wenqi Zhang, Fan Wang, Lidong Bing, Deli Zhao.    
 _arXiv:2501.13106_  
 [[code](https://github.com/DAMO-NLP-SG/VideoLLaMA3)][[checkpoints & demos](https://huggingface.co/collections/DAMO-NLP-SG/videollama3-678cdda9281a0e32fe79af15)]
-* [EOC-Bench: Can MLLMs Identify, Recall, and Forecast Objects in an Egocentric World?](https://arxiv.org/abs/2506.05287)  
-Yuqian Yuan, Ronghao Dang, Long Li, Wentong Li, Dian Jiao, **Xin Li**, Deli Zhao, Fan Wang, Wenqiao Zhang, Jun Xiao, Yueting Zhuang.  
-[[code](https://github.com/alibaba-damo-academy/EOCBench)][[benchmark](https://huggingface.co/datasets/CircleRadon/EOC-Bench)]  
-In _[NeurIPS D&B Track 2025](https://neurips.cc/Conferences/2025/CallForDatasetsBenchmarks)_ (Full paper, poster)  
-* [2.5 Years in Class: A Multimodal Textbook for Vision-Language Pretraining](https://arxiv.org/abs/2501.00958)  
-Wenqi Zhang, Hang Zhang, **Xin Li**, Jiashuo Sun, Yongliang Shen, Weiming Lu, Deli Zhao, Yueting Zhuang, Lidong Bing.     
-In _[ICCV 2025](https://iccv.thecvf.com/)_ (Full paper, highlight)  
-[[code](https://github.com/DAMO-NLP-SG/multimodal_textbook)][[dataset](https://huggingface.co/datasets/DAMO-NLP-SG/multimodal_textbook)]  
 * [VideoRefer Suite: Advancing Spatial-Temporal Object Understanding with Video LLM](https://arxiv.org/abs/2501.00599)  
 Yuqian Yuan, Hang Zhang, Wentong Li, Zesen Cheng, Boqiang Zhang, Long Li, **Xin Li**, Deli Zhao, Wenqiao Zhang, Yueting Zhuang, Jianke Zhu, Lidong Bing.   
 In _[CVPR 2025](https://cvpr.thecvf.com/)_ (Full paper, poster)  
 [[code (**new**)](https://github.com/DAMO-NLP-SG/VideoRefer/tree/main/videorefer_videollama3)][[videorefer-700k](https://huggingface.co/datasets/DAMO-NLP-SG/VideoRefer-700K)][[videorefer-bench](https://huggingface.co/datasets/DAMO-NLP-SG/VideoRefer-Bench)][[videorefer-videollama3 (**new**)](https://huggingface.co/collections/DAMO-NLP-SG/videorefer-6776851a26815bf20dbd9564)]
-* [ECBench: Can Multi-modal Foundation Models Understand the Egocentric World? A Holistic Embodied Cognition Benchmark](https://arxiv.org/abs/2511.17502)  
-Ronghao Dang, Yuqian Yuan, Wenqi Zhang, Yifei Xin, Boqiang Zhang, Long Li, Liuyi Wang, Qinyang Zeng, **Xin Li**, Lidong Bing.   
-In _[CVPR 2025](https://cvpr.thecvf.com/)_ (Full paper, poster)  
-[[code](https://github.com/Rh-Dang/ECBench?tab=readme-ov-file)][[dataset](https://github.com/Rh-Dang/ECBench/tree/main/data)]
 
 
 
