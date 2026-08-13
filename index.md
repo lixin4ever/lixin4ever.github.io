@@ -19,6 +19,9 @@ I am a Research Engineer at Alibaba DAMO Academy. I lead a small (but great) tea
 * **Sep 2014-July 2015,**    Research assistant, SentiNet Group, Sun Yat-Sen University. Supervisor: [Prof. Rao Yanghui](http://sdcs.sysu.edu.cn/node/2471)
 
 ### Recent Works [[Full list](https://scholar.google.com/citations?hl=en&user=syD9lxQAAAAJ&view_op=list_works&sortby=pubdate)]
+* [RynnValue: Scaling Robotic Value Foundation Models with Temporal Distance](https://alibaba-damo-academy.github.io/RynnValue.github.io)  
+Dongchi Huang<sup>* </sup>, Hongyin Zhang<sup>* </sup>, Bohan Hou<sup>* </sup>, Siteng Huang<sup>&dagger; </sup>, Zhian Su, Hang Guo, Tong Lu, Zhaofeng Xu, Jiahao Tang, Jianfei Yang, Donglin Wang, Peixi Peng<sup>&dagger; </sup>, Mingxiu Chen, Deli Zhao, **Xin Li**.  
+[[code](https://github.com/alibaba-damo-academy/RynnValue)][[checkpoints & demos](https://huggingface.co/collections/Alibaba-DAMO-Academy/rynnvalue)][[modelscope](https://www.modelscope.cn/collections/DAMO_Academy/RynnValue)]  
 * [RynnBrain 1.1: Towards More Capable and Generalizable Embodied Foundation Model](https://alibaba-damo-academy.github.io/RynnBrain)  
 Kehan Li<sup>*&dagger; </sup>, Bohan Hou<sup>* </sup>, Minghao Zhu<sup>* </sup>, Tianyi Zhang<sup>* </sup>, Zesen Cheng<sup>* </sup>, Zhikai Wang<sup>* </sup>, Sicong Leng<sup>* </sup>, **Xin Li**<sup>*&dagger; </sup>, Xiao Lin<sup>* </sup>, Biying Yao<sup>* </sup>, Minghua Zeng<sup>* </sup>, Jiangpin Liu<sup>* </sup>, Ronghao Dang<sup>* </sup>, Jiayan Guo<sup>* </sup>, Siteng Huang, Haoyu Zhao, Heng Ping, Yaxi Zhao, Tong Zhao, Kexiang Wang, Tong Lu, Shengke Xue, Jiahao Tang, Yulei Wang, Zejing Wang, Jianwei Gao, Shijian Lu, Chengju Liu, Jianfei Yang, Mingxiu Chen, Deli Zhao.  
 [[code](https://github.com/alibaba-damo-academy/RynnBrain)][[checkpoints & demos](https://huggingface.co/collections/Alibaba-DAMO-Academy/rynnbrain-11)][[modelscope](https://modelscope.cn/collections/DAMO_Academy/RynnBrain-11)]  
