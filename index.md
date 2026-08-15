@@ -53,6 +53,29 @@ In _[CVPR 2025](https://cvpr.thecvf.com/)_ (Full paper, poster)
 
 
 
+### Featured Projects
+* **Foundation Models that Perceive, Reason and Act in Physical World** (**2025.05-Present**)
+  - Embodied foundation models that unify egocentric understanding, spatio-temporal grounding, chain-of-point reasoning, and task planning ([RynnBrain](https://github.com/alibaba-damo-academy/RynnBrain))
+  - Scaling embodied foundation models to 100B ([RynnBrain 1.1](https://github.com/alibaba-damo-academy/RynnBrain))
+  - Training robotic value foundation models over 7K+ hours data without any preference or progress annotations ([RynnValue](https://github.com/alibaba-damo-academy/RynnValue))
+* **Embodied World Models for Robot Manipulation** (**2025.05-Present**)
+  - Embodied world models that jointly predict RGB, depth, and optical flow ([RynnWorld-4D](https://github.com/alibaba-damo-academy/RynnWorld-4D))
+  - Decoupling data collection from physical constraints by replacing the real robot with a generative world model ([RynnWorld-Teleop](https://github.com/alibaba-damo-academy/RynnWorld-Teleop))
+* **Enhanced Robot Manipulation Policies** (**2024.11-Present**)
+  - Boosting manipulation performance via massive video generative pretraining ([RynnVLA-001](https://github.com/alibaba-damo-academy/RynnVLA-001))
+  - Jointly modeling actions and the visual changes of environment ([RynnVLA-002](https://github.com/alibaba-damo-academy/RynnVLA-002))
+  - Modeling Highly Heterogeneous Embodiments via Unified Action Space ([RynnBrain-VLA](https://github.com/alibaba-damo-academy/RynnBrain))
+* **Multimodal Foundation Models for Video Understanding** (**2023.04-2025.05**)
+  - The first instruction-tuned LLM for joint audio-visual understanding ([VideoLLaMA](https://github.com/DAMO-NLP-SG/Video-LLaMA))
+  - Advancing audio-visual understanding capabilities of Video-LLMs via massive multi-task fine-tuning ([VideoLLaMA 2](https://github.com/DAMO-NLP-SG/VideoLLaMA2))
+  - Fine-grained video understanding with arbitrary visual prompt ([VideoRefer](https://github.com/DAMO-NLP-SG/VideoRefer), [PixelRefer](https://github.com/alibaba-damo-academy/PixelRefer))
+  - Building highly capable multimodal LLMs for both image and video ([VideoLLaMA 3](https://github.com/DAMO-NLP-SG/VideoLLaMA3))
+* **Recipes for Improving General VLMs/LLMs** (**2023.06-2025.05**)
+  - Long-context modeling in LLMs ([CLEX](https://github.com/DAMO-NLP-SG/CLEX), [LongPO](https://github.com/DAMO-NLP-SG/LongPO))
+  - Multimodal textbook for vision-language pretraining ([MM-Textbook](https://github.com/DAMO-NLP-SG/multimodal_textbook))
+  - Mitigating object hallucinations in VLMs via visual contrastive decoding ([VCD](https://github.com/DAMO-NLP-SG/VCD))
+  - Multilingual LLMs tailored for Southeast Asian languages ([SeaLLMs](https://github.com/DAMO-NLP-SG/SeaLLMs))
+
 ### Honors & Awards
 * AAAI Student Scholarship, 2020
 * Outstanding Graduates Awards, Sun Yat-Sen University.
