@@ -19,6 +19,18 @@ I am a Research Engineer at Alibaba DAMO Academy. I lead a small (but great) tea
 * **Sep 2014-July 2015,**    Research assistant, SentiNet Group, Sun Yat-Sen University. Supervisor: [Prof. Rao Yanghui](http://sdcs.sysu.edu.cn/node/2471)
 
 ### Recent Works [[Full list](https://scholar.google.com/citations?hl=en&user=syD9lxQAAAAJ&view_op=list_works&sortby=pubdate)]
+* [RynnUnify: Towards Unified Embodied Brain](https://arxiv.org/abs/2610.32965v1)  
+Minghao Zhu<sup>*&Dagger; </sup>, Bohan Hou<sup>*&Dagger; </sup>, Kun Xiang<sup>* </sup>, Zixuan Wang<sup>* </sup>, Yinzhou Tang<sup>*&Dagger; </sup>, Yifei Yang<sup>* </sup>, Zhikai Wang<sup>* </sup>, Tianyi Zhang<sup>* </sup>, Kehan Li<sup>* </sup>, Haoyu Zhao, Siteng Huang, Leigang Qu, Sicong Leng, Dongchi Huang, Mingxiu Chen, Shijian Lu, Yue Wang, Xiaodan Liang, Zhenyu Zeng, Deli Zhao, Chengju Liu<sup>&dagger; </sup>, Jianfei Yang<sup>&dagger; </sup>, **Xin Li**<sup>&Dagger; </sup>.  
+<sup>*</sup> Core contributors; <sup>&dagger;</sup> Co-corresponding authors; <sup>&Dagger;</sup> Project leaders.  
+[[project](https://alibaba-damo-academy.github.io/RynnUnify.github.io)][[code](https://github.com/alibaba-damo-academy/RynnUnify)][[checkpoints & demos](https://huggingface.co/collections/Alibaba-DAMO-Academy/rynnunify)]  
+* [RynnVLA-Latent: Scaling Robotic Manipulation Foundation Models with 3D-Grounded Latent Actions](https://arxiv.org/abs/2610.34356)  
+Haoyu Zhao<sup>* </sup>, Xingyue Zhao<sup>* </sup>, Zhian Su<sup>* </sup>, Bohan Hou<sup>* </sup>, Yinzhou Tang<sup>* </sup>, Fengyi Wang, Kehan Li, Yuming Jiang, Siteng Huang<sup>&dagger; </sup>, **Xin Li**, Zhenyu Zeng, Mingxiu Chen, Deli Zhao, Zhongyu Li<sup>&dagger; </sup>.  
+<sup>*</sup> Core contributors; <sup>&dagger;</sup> Corresponding authors.  
+[[project](https://alibaba-damo-academy.github.io/RynnVLA-Latent.github.io)][[code](https://github.com/alibaba-damo-academy/RynnVLA-Latent)][[checkpoints & demos](https://huggingface.co/collections/Alibaba-DAMO-Academy/rynnvla-latent)][[modelscope](https://www.modelscope.cn/collections/DAMO_Academy/RynnVLA-Latent)]  
+* [RynnWorld-Latent: A Cross-Embodiment World Model Conditioned on Universal Latent Actions](https://arxiv.org/abs/2610.36791)  
+Haoyu Zhao<sup>* </sup>, Yinzhou Tang<sup>* </sup>, Zixuan Wang<sup>* </sup>, Minghao Zhu, Dongchi Huang, Xingyue Zhao, Qin Zhao, Kehan Li, Siteng Huang<sup>&dagger; </sup>, **Xin Li**, Zhenyu Zeng, Mingxiu Chen, Deli Zhao, Zhongyu Li<sup>&dagger; </sup>.  
+<sup>*</sup> Core contributors; <sup>&dagger;</sup> Corresponding authors.  
+[[project](https://alibaba-damo-academy.github.io/RynnWorld-Latent.github.io)][[code](https://github.com/alibaba-damo-academy/RynnWorld-Latent)][[checkpoint](https://huggingface.co/Alibaba-DAMO-Academy/RynnWorld-Latent)][[modelscope](https://www.modelscope.cn/models/DAMO_Academy/RynnWorld-Latent)]  
 * [RynnValue: Scaling Robotic Value Foundation Models with Temporal Distance](https://alibaba-damo-academy.github.io/RynnValue.github.io)  
 Dongchi Huang<sup>* </sup>, Hongyin Zhang<sup>* </sup>, Bohan Hou<sup>* </sup>, Siteng Huang<sup>&dagger; </sup>, Zhian Su, Hang Guo, Tong Lu, Zhaofeng Xu, Jiahao Tang, Jianfei Yang, Donglin Wang, Peixi Peng<sup>&dagger; </sup>, Mingxiu Chen, Deli Zhao, **Xin Li**.  
 [[code](https://github.com/alibaba-damo-academy/RynnValue)][[checkpoints & demos](https://huggingface.co/collections/Alibaba-DAMO-Academy/rynnvalue)][[modelscope](https://www.modelscope.cn/collections/DAMO_Academy/RynnValue)]  
@@ -45,10 +57,6 @@ To appear in _[ICRA 2026](https://2026.ieee-icra.org/)_ (Full paper)
 Boqiang Zhang<sup>* </sup>, Kehan Li<sup>* </sup>, Zesen Cheng<sup>* </sup>, Zhiqiang Hu<sup>* </sup>, Yuqian Yuan<sup>* </sup>, Guanzheng Chen<sup>* </sup>, Sicong Leng<sup>* </sup>, Yuming Jiang<sup>* </sup>, Hang Zhang<sup>* </sup>, **Xin Li**<sup>* </sup>, Peng Jin, Wenqi Zhang, Fan Wang, Lidong Bing, Deli Zhao.    
 _arXiv:2501.13106_  
 [[code](https://github.com/DAMO-NLP-SG/VideoLLaMA3)][[checkpoints & demos](https://huggingface.co/collections/DAMO-NLP-SG/videollama3-678cdda9281a0e32fe79af15)]
-* [VideoRefer Suite: Advancing Spatial-Temporal Object Understanding with Video LLM](https://arxiv.org/abs/2501.00599)  
-Yuqian Yuan, Hang Zhang, Wentong Li, Zesen Cheng, Boqiang Zhang, Long Li, **Xin Li**, Deli Zhao, Wenqiao Zhang, Yueting Zhuang, Jianke Zhu, Lidong Bing.   
-In _[CVPR 2025](https://cvpr.thecvf.com/)_ (Full paper, poster)  
-[[code (**new**)](https://github.com/DAMO-NLP-SG/VideoRefer/tree/main/videorefer_videollama3)][[videorefer-700k](https://huggingface.co/datasets/DAMO-NLP-SG/VideoRefer-700K)][[videorefer-bench](https://huggingface.co/datasets/DAMO-NLP-SG/VideoRefer-Bench)][[videorefer-videollama3 (**new**)](https://huggingface.co/collections/DAMO-NLP-SG/videorefer-6776851a26815bf20dbd9564)]
 
 
 
@@ -58,13 +66,16 @@ In _[CVPR 2025](https://cvpr.thecvf.com/)_ (Full paper, poster)
   - Embodied foundation models that unify egocentric understanding, spatio-temporal grounding, chain-of-point reasoning, and task planning ([RynnBrain](https://github.com/alibaba-damo-academy/RynnBrain))
   - Scaling embodied foundation models to 100B ([RynnBrain 1.1](https://github.com/alibaba-damo-academy/RynnBrain))
   - Training robotic value foundation models over 7K+ hours data without any preference or progress annotations ([RynnValue](https://github.com/alibaba-damo-academy/RynnValue))
+  - Unifying embodied understanding, long-horizon visual planning, and robot control through interleaved video-language reasoning ([RynnUnify](https://github.com/alibaba-damo-academy/RynnUnify))
 * **Embodied World Models for Robot Manipulation** (**2025.05-Present**)
   - Embodied world models that jointly predict RGB, depth, and optical flow ([RynnWorld-4D](https://github.com/alibaba-damo-academy/RynnWorld-4D))
   - Decoupling data collection from physical constraints by replacing the real robot with a generative world model ([RynnWorld-Teleop](https://github.com/alibaba-damo-academy/RynnWorld-Teleop))
+  - Learning cross-embodiment world models conditioned on universal latent actions for digital teleoperation and synthetic robot training data ([RynnWorld-Latent](https://github.com/alibaba-damo-academy/RynnWorld-Latent))
 * **Enhanced Robot Manipulation Policies** (**2024.11-Present**)
   - Boosting manipulation performance via massive video generative pretraining ([RynnVLA-001](https://github.com/alibaba-damo-academy/RynnVLA-001))
   - Jointly modeling actions and the visual changes of environment ([RynnVLA-002](https://github.com/alibaba-damo-academy/RynnVLA-002))
   - Modeling Highly Heterogeneous Embodiments via Unified Action Space ([RynnBrain-VLA](https://github.com/alibaba-damo-academy/RynnBrain))
+  - Scaling VLA pretraining with 3D-grounded latent actions learned from human, robot, and simulation videos ([RynnVLA-Latent](https://github.com/alibaba-damo-academy/RynnVLA-Latent))
 * **Multimodal Foundation Models for Video Understanding** (**2023.04-2025.05**)
   - The first instruction-tuned LLM for joint audio-visual understanding ([VideoLLaMA](https://github.com/DAMO-NLP-SG/Video-LLaMA))
   - Advancing audio-visual understanding capabilities of Video-LLMs via massive multi-task fine-tuning ([VideoLLaMA 2](https://github.com/DAMO-NLP-SG/VideoLLaMA2))
