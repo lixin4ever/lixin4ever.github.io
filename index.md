@@ -24,13 +24,9 @@ Minghao Zhu<sup>*&Dagger; </sup>, Bohan Hou<sup>*&Dagger; </sup>, Kun Xiang<sup>
 <sup>*</sup> Core contributors; <sup>&dagger;</sup> Co-corresponding authors; <sup>&Dagger;</sup> Project leaders.  
 [[project](https://alibaba-damo-academy.github.io/RynnUnify.github.io)][[code](https://github.com/alibaba-damo-academy/RynnUnify)][[checkpoints & demos](https://huggingface.co/collections/Alibaba-DAMO-Academy/rynnunify)]  
 * [RynnVLA-Latent: Scaling Robotic Manipulation Foundation Models with 3D-Grounded Latent Actions](https://arxiv.org/abs/2610.34356)  
-Haoyu Zhao<sup>* </sup>, Xingyue Zhao<sup>* </sup>, Zhian Su<sup>* </sup>, Bohan Hou<sup>* </sup>, Yinzhou Tang<sup>* </sup>, Fengyi Wang, Kehan Li, Yuming Jiang, Siteng Huang<sup>&dagger; </sup>, **Xin Li**, Zhenyu Zeng, Mingxiu Chen, Deli Zhao, Zhongyu Li<sup>&dagger; </sup>.  
+Haoyu Zhao<sup>* </sup>, Xingyue Zhao<sup>* </sup>, Zhian Su<sup>* </sup>, Bohan Hou<sup>* </sup>, Yinzhou Tang<sup>* </sup>, Fengyi Wang, Kehan Li, Yuming Jiang, Zhenyu Zeng, Mingxiu Chen, Deli Zhao, Siteng Huang<sup>&dagger; </sup>, **Xin Li**, Zhongyu Li<sup>&dagger; </sup>.  
 <sup>*</sup> Core contributors; <sup>&dagger;</sup> Corresponding authors.  
 [[project](https://alibaba-damo-academy.github.io/RynnVLA-Latent.github.io)][[code](https://github.com/alibaba-damo-academy/RynnVLA-Latent)][[checkpoints & demos](https://huggingface.co/collections/Alibaba-DAMO-Academy/rynnvla-latent)][[modelscope](https://www.modelscope.cn/collections/DAMO_Academy/RynnVLA-Latent)]  
-* [RynnWorld-Latent: A Cross-Embodiment World Model Conditioned on Universal Latent Actions](https://arxiv.org/abs/2610.36791)  
-Haoyu Zhao<sup>* </sup>, Yinzhou Tang<sup>* </sup>, Zixuan Wang<sup>* </sup>, Minghao Zhu, Dongchi Huang, Xingyue Zhao, Qin Zhao, Kehan Li, Siteng Huang<sup>&dagger; </sup>, **Xin Li**, Zhenyu Zeng, Mingxiu Chen, Deli Zhao, Zhongyu Li<sup>&dagger; </sup>.  
-<sup>*</sup> Core contributors; <sup>&dagger;</sup> Corresponding authors.  
-[[project](https://alibaba-damo-academy.github.io/RynnWorld-Latent.github.io)][[code](https://github.com/alibaba-damo-academy/RynnWorld-Latent)][[checkpoint](https://huggingface.co/Alibaba-DAMO-Academy/RynnWorld-Latent)][[modelscope](https://www.modelscope.cn/models/DAMO_Academy/RynnWorld-Latent)]  
 * [RynnValue: Scaling Robotic Value Foundation Models with Temporal Distance](https://alibaba-damo-academy.github.io/RynnValue.github.io)  
 Dongchi Huang<sup>* </sup>, Hongyin Zhang<sup>* </sup>, Bohan Hou<sup>* </sup>, Siteng Huang<sup>&dagger; </sup>, Zhian Su, Hang Guo, Tong Lu, Zhaofeng Xu, Jiahao Tang, Jianfei Yang, Donglin Wang, Peixi Peng<sup>&dagger; </sup>, Mingxiu Chen, Deli Zhao, **Xin Li**.  
 [[code](https://github.com/alibaba-damo-academy/RynnValue)][[checkpoints & demos](https://huggingface.co/collections/Alibaba-DAMO-Academy/rynnvalue)][[modelscope](https://www.modelscope.cn/collections/DAMO_Academy/RynnValue)]  
